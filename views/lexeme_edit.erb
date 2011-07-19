@@ -1,0 +1,38 @@
+<form action="/<%= @id %>" method="post">
+  <input type="hidden" name="_method" value="put">
+  <div class="span-left"><label>Translation<br>
+    <input type="text" name="translation" value="<%= @lexeme.translation %>">
+  </label></div>
+  <div class="span-right"><label>Confidence<br>
+    <select name="confidence">
+      <% 0.upto(5) do |i| %>
+        <option value="<%= i %>"<%= ' selected' if @lexeme.confidence == i %>><%= i %></option>
+      <% end %>
+    </select>
+  </label></div>
+  <div class="span-left"><fieldset><legend>Tags</legend>
+    <% Lexeme::TAGS.each do |tag| %>
+      <label>
+        <input type="checkbox" name="tags[]" value="<%= tag %>"<%= ' checked' if @lexeme.tags.include?(tag) %>> <%= tag %>
+      </label><br>
+    <% end %>
+  </fieldset></div>
+  <div class="span-right"><label>Part of Speech<br>
+    <select name="pos">
+      <% Lexeme::PARTS_OF_SPEECH.each do |k, v| %>
+        <option value="<%= k %>"<%= ' selected' if @lexeme.pos == k %>><%= v %></option>
+      <% end %>
+    </select>
+  </label><br><br><label>Etymology<br>
+    <input type="text" name="etymology" value="<%= @lexeme.etymology %>">
+  </label></div>
+  <div class="span-full"><label>G Subs (1 per line)<br>
+    <textarea name="gsubs"><%= @lexeme.gsubs.join("\n") %></textarea>
+  </label></div>
+  <div class="span-full"><label>Explanation<br>
+    <textarea name="explanation"><%= @lexeme.explanation %></textarea>
+  </label></div>
+  <div class="span-full">
+    <input type="submit" name="commit" value="Save changes">
+  </div>
+</form>

@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title>MTNT :: <%= @title || 'Untitled' %></title>
+    <script type="text/javascript" src="/jquery-1.6.2.min.js"></script>
+    <script type="text/javascript" src="/mtnt.js"></script>
+    <link rel="stylesheet" type="text/css" href="/style.css">
+  </head>
+  <body>
+    <% if @title %><h1><%= @title %></h1><% end %>
+    <%= yield %>
+    <div class="footer">
+      <p>Sources</p>
+      <dl>
+        <dt>{AHLB}</dt>
+        <dd><a href="http://www.ancient-hebrew.org/bookstore/ahlb.html" target="_blank">Ancient Hebrew Lexicon of the Bible</a></dd>
+        <dt>{BLB}</dt>
+        <dd><a href="http://www.blueletterbible.org/lang/lexicon/lexicon.cfm" target="_blank">Blue Letter Bible Lexicon</a></dd>
+        <dt>{MT}</dt>
+        <dd><a href="http://www.mechanical-translation.org/" target="_blank">Mechanical Translation of the Hebrew Bible</a></dd>
+        <dt>{PH}</dt>
+        <dd><a href="http://www.perseus.tufts.edu/hopper/morph" target="_blank">Perseus Hopper Word Study</a></dd>
+        <dt>{SN}</dt>
+        <dd><a href="http://strongsnumbers.com/" target="_blank">Biblos Concordance</a></dd>
+      </dl>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,19 @@
+<dl>
+  <dt>Part of Speech</dt>
+  <dd><%= Lexeme::PARTS_OF_SPEECH[@lexeme.pos] || @lexeme.pos %></dd>
+  <% unless @lexeme.tags.empty? %>
+    <dt>Tags</dt>
+    <dd><%= @lexeme.tags.join(', ') %></dd>
+  <% end %>
+  <% if @lexeme.etymology %>
+    <dt>Etymology</dt>
+    <dd><%= @lexeme.etymology %></dd>
+  <% end %>
+  <% if @lexeme.explanation %>
+    <dt>Explanation</dt>
+    <dd><%= @lexeme.explanation %></dd>
+  <% end %>
+  <dt>Confidence</dt>
+  <dd><%= @lexeme.confidence %> out of 5</dd>
+</dl>
+<div class="button clear"><a href="/<%= @id %>/edit">Edit Lexeme</a></div>

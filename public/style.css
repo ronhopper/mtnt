@@ -1,0 +1,123 @@
+* {
+  font-family: sans-serif;
+  color: #333;
+}
+p.greek {
+  clear: both;
+  margin: 0.5em 1em;
+  font-weight: bold;
+}
+p.mt {
+  width: 45%;
+  float: left;
+  margin: 0 1em 3em;
+  padding: 0.5em;
+  background: #EEE;
+}
+p.rmt {
+  width: 45%;
+  float: right;
+  margin: 0 1em 3em;
+  padding: 0.5em;
+  background: #EEE;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+form {
+  margin: 1em;
+}
+.span-left {
+  width: 320px;
+  clear: left;
+  float: left;
+  margin: 0.5em 0;
+}
+.span-right {
+  float: left;
+  margin: 0.5em 0;
+}
+.span-full {
+  width: 640px;
+  clear: both;
+  float: left;
+  margin: 0.5em 0;
+}
+fieldset {
+  width: 260px;
+}
+textarea {
+  width: 600px;
+  height: 5em;
+}
+sup, .proper {
+  font-style: italic;
+}
+a.masculine,
+a.nsm,  a.gsm,  a.dsm,  a.asm,  a.vsm,  a.npm,  a.gpm,  a.dpm,  a.apm,  a.vpm,
+a.nsmc, a.gsmc, a.dsmc, a.asmc, a.vsmc, a.npmc, a.gpmc, a.dpmc, a.apmc, a.vpmc,
+a.nsms, a.gsms, a.dsms, a.asms, a.vsms, a.npms, a.gpms, a.dpms, a.apms, a.vpms {
+  color: blue;
+}
+a.feminine,
+a.nsf,  a.gsf,  a.dsf,  a.asf,  a.vsf,  a.npf,  a.gpf,  a.dpf,  a.apf,  a.vpf,
+a.nsfc, a.gsfc, a.dsfc, a.asfc, a.vsfc, a.npfc, a.gpfc, a.dpfc, a.apfc, a.vpfc,
+a.nsfs, a.gsfs, a.dsfs, a.asfs, a.vsfs, a.npfs, a.gpfs, a.dpfs, a.apfs, a.vpfs {
+  color: red;
+}
+a.neuter,
+a.nsn,  a.gsn,  a.dsn,  a.asn,  a.vsn,  a.npn,  a.gpn,  a.dpn,  a.apn,  a.vpn,
+a.nsnc, a.gsnc, a.dsnc, a.asnc, a.vsnc, a.npnc, a.gpnc, a.dpnc, a.apnc, a.vpnc,
+a.nsns, a.gsns, a.dsns, a.asns, a.vsns, a.npns, a.gpns, a.dpns, a.apns, a.vpns {
+  color: green;
+}
+a.highlighted {
+  background: yellow;
+}
+dl {
+  margin: 1em;
+}
+dl dt {
+  clear: left;
+  float: left;
+  width: 140px;
+  margin-top: 1em;
+  border-top: 1px solid #EEE;
+}
+dl dt:after {
+  content: ':';
+}
+dl dd {
+  float: left;
+  width: 500px;
+  margin-top: 1em;
+  border-top: 1px solid #EEE;
+}
+
+.clear {
+  clear: both;
+}
+div.button {
+  margin: 1em;
+  padding-top: 2em;
+}
+div.button a {
+  background: #EEE;
+  padding: 4px;
+  border-top: 1px solid #CCC;
+  border-right: 1px solid #999;
+  border-bottom: 1px solid #999;
+  border-left: 1px solid #CCC;
+}
+div.button a:hover {
+  text-decoration: none;
+}
+div.footer {
+  clear: both;
+  margin: 10em 1em 1em;
+  font-size: 80%;
+}
+
