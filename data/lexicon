@@ -1000,7 +1000,7 @@ G999|βόθυνος|n|masculine|||||0
 G1000|βολή|n|feminine|||||0
 G1001|βολίζω|v||||||0
 G1002|βολίς|n|feminine|||||0
-G1003|Βόες|n|indeclinable,masculine,proper|Bo'az[In.strength]|||Boaz[Fleetness] Pronounced bō'az. From the Hebrew name [H1162]. The meaning of this name is unclear. It may derive from the B + AhZ (in + strength) which implies skill with a weapon or tool. The idea of fleetness comes from a similar Arabic word meaning "swiftness (of horse)".|0
+G1003|Βόες|n|indeclinable,masculine,proper|Bo'az[In.strength]||Hellenization of בֹּעַז [H1162]|Pronounced bō'az. Traditionally rendered Boaz or Booz, perhaps meaning "fleetness" (from a similar Arabic word). {BLB} The Hebrew name appears to derive from ב (prefix) + עַז [H5794] which means "in strength". {http://www.abarim-publications.com/Meaning/Boaz.html} The pictographic root of this name implies knowing a weapon. {AHLB}|4
 G1004|βόρβορος|n|masculine|||||0
 G1005|βορρᾶς|n|masculine|||||0
 G1006|βόσκω|v||||||0
@@ -1158,7 +1158,7 @@ G1157|δανειστής|n|masculine|||||0
 G1158|Δανιήλ|N-PMI||||||0
 G1159|δαπανάω|v||||||0
 G1160|δαπάνη|n|feminine|||||0
-G1161|δέ|c||and.now||a primary particle|A conjunctive particle with adversative force. Often being used merely to pass on from one thing to another. Frequently it is redundant. Can introduce the apodosis, or be used to resume after interruption. It is placed second in a clause that it introduces, rather than first. {PH} Most often rendered simply as "and" or "but" depending on context. {BLB}|2
+G1161|δέ|c||and.now||a primary word|A conjunctive particle with adversative force. Often being used merely to pass on from one thing to another. Frequently it is redundant. Can introduce the apodosis, or be used to resume after interruption. It is placed second in a clause that it introduces, rather than first. {PH} Most often rendered simply as "and" or "but" depending on context. {BLB}|2
 G1162|δέησις|n|feminine|||||0
 G1163|δεῖ|v||||||0
 G1164|δεῖγμα|n|neuter|||||0
@@ -1534,7 +1534,7 @@ G1533|εἰσφέρω|v||||||0
 G1534|εἶτα|adv||||||0
 G1535|εἴτε|c||||||0
 G1536|εἴ τις|p||||||0
-G1537|ἐκ|p||out.of||a primary preposition|A preposition with the genitive. Of place, it denotes action from in something to out of it. Of time, it denotes a period from that time forward. Of origin, it denotes the material out of which something is made, or its originator/cause. {PH}|4
+G1537|ἐκ|p||out.of||a primary word|A preposition with the genitive. Of place, it denotes action from in something to out of it. Of time, it denotes a period from that time forward. Of origin, it denotes the material out of which something is made, or its originator/cause. {PH}|4
 G1538|ἕκαστος|a||||||0
 G1539|ἑκάστοτε|adv||||||0
 G1540|ἑκατόν|N-I||||||0
@@ -2418,7 +2418,7 @@ G2417|ἱερόσυλος|n|masculine|||||0
 G2418|ἱερουργέω|v||||||0
 G2419|Ἰερουσαλήμ|N-PLI||||||0
 G2420|ἱερωσύνη|n|feminine|||||0
-G2421|Ἰεσσαί|n|indeclinable,masculine,proper|Yishai[There.is.mine]|||Jesse[I.possess] Pronounced yē·shah'·ē. From the Hebrew name [H3448].|0
+G2421|Ἰεσσαί|n|indeclinable,masculine,proper|Yishai[There.is.Yah]||Hellenization of יִשַׁי [H3448]|Pronounced yē·shah'·ē. Traditionally rendered Jesse, perhaps meaning "I possess" or "wealthy". {BLB} The Hebrew name has uncertain meaning. Could be from ‫אישי‬ ("my man/husband") {http://www.abarim-publications.com/Meaning/Jesse.html} or from יֵשׁ [H3426] + יְהֹוָה [H3068] {SN} which means "there is Yah". {AHLB}|2
 G2422|Ἰεφθάε|N-PMI||||||0
 G2423|Ἰεχονίας|N-PMI||||||0
 G2424|Ἰησοῦς|n|masculine,proper|Yeshu'a[Yah.will.rescue]||Hellenization of יְהוֹשׁוּעַ [H3091]|Pronounced yeh·shü'·ah. Traditionally rendered Jesus, meaning "Jehovah is salvation". This is a contracted version of Yehoshu'a (Joshua). The Hebrew name is comprised of יְהֹוָה [H3068] + יָשַׁע [H3467] {BLB} which means "Yah will rescue". {MT} When one of the flock is in trouble, the shepherd rescues it by taking it from a place of trouble back to safety. {AHLB} This contracted version was commonly used in the 1st century and is completely interchangeable with the longer Yehoshu'a.|5
@@ -2461,7 +2461,7 @@ G2460|ἱππεύς|n|masculine|||||0
 G2461|ἱππικός|a||||||0
 G2462|ἵππος|n|masculine|||||0
 G2463|ἶρις|n|feminine|||||0
-G2464|Ἰσαάκ|n|indeclinable,masculine,proper|Yits'hhaq[He.will.laugh]||Hellenization of יִצְחָק [H3327]|Pronounced yits·khäk'. Traditionally rendered Isaac, meaning "he laughs". The Hebrew name is a form of צָחַק [H6711] {BLB} which means "he laughs". {MT} This is laughing in play or mockery, and is derived from a root that means "coming from the belly". {AHLB}|5
+G2464|Ἰσαάκ|n|indeclinable,masculine,proper|Yits'hhaq[He.will.laugh]||Hellenization of יִצְחָק [H3327]|Pronounced yits·khäk'. Traditionally rendered Isaac, meaning "he laughs". The Hebrew name is a form of צָחַק [H6711] {BLB} which means "he will laugh". {MT} This is laughing in play or mockery, and is derived from a root that means "coming from the belly". {AHLB}|5
 G2465|ἰσάγγελος|a||||||0
 G2466|Ἰσσαχάρ|N-PMI||||||0
 G2467|ἴσημι|v||||||0
@@ -2529,7 +2529,7 @@ G2528|καθοπλίζω|v||||||0
 G2529|καθοράω|v||||||0
 G2530|καθότι|adv||||||0
 G2531|καθώς|adv||just.as|||From κατά [G2596] + ὡς [G5613].|0
-G2532|καί|c||and||a primary particle|A copulative conjunction, linking things together. Can be used in the sense of "and", "also" or "even". {BLB}|3
+G2532|καί|c||and||a primary word|A copulative conjunction, linking things together. Can be used in the sense of "and", "also" or "even". {BLB}|3
 G2533|Καϊάφας|N-PMI||||||0
 G2534|καί γε|c||||||0
 G2535|Κάϊν|N-PMI||||||0
@@ -4457,7 +4457,7 @@ G4456|πωρόω|v||||||0
 G4457|πώρωσις|n|feminine|||||0
 G4458|πώς|PRT||||||0
 G4459|πῶς|PRT||||||0
-G4460|Ῥαάβ|N-PFI||||||0
+G4460|Ῥαάβ|n|feminine,indeclinable,proper|Rahhav[Wide]||Hellenization of רָחָב [H7343]|Pronounced rä·khäv'. Traditionally rendered Rahab or Rachab, meaning "wide". The Hebrew name is the same as רָחָב [H7342] meaning "wide".{BLB} Wide can also imply pride or liberty. {AHLB} This name is used in reference to Rahhav who helped the spies in the OT and is Hellenized differently than Ῥαχάβ [G4477] which appears in the genealogy of Yeshu'a. This may or may not signify that these are different people.|4
 G4461|ῥαββί|n|masculine|||||0
 G4462|ῥαββουνί|n|masculine|||||0
 G4463|ῥαβδίζω|v||||||0
@@ -4474,7 +4474,7 @@ G4473|ῥαντισμός|n|masculine|||||0
 G4474|ῥαπίζω|v||||||0
 G4475|ῥάπισμα|n|neuter|||||0
 G4476|ῥαφίς|n|feminine|||||0
-G4477|Ῥαχάβ|n|feminine,indeclinable,proper|Rahhav[Wide]|||Rahab[Wide] Pronounced rä·khäv'. From the Hebrew name [H7343].|0
+G4477|Ῥαχάβ|n|feminine,indeclinable,proper|Rahhav[Wide]||Hellenization of רָחָב [H7343]|Pronounced rä·khäv'. Traditionally rendered Rahab or Rachab, meaning "wide". The Hebrew name is the same as רָחָב [H7342] meaning "wide".{BLB} Wide can also imply pride or liberty. {AHLB} This name appears in the genealogy of Yeshu'a and is Hellenized differently than Ῥαάβ [G4460] which is used in reference to Rahhav who helped the spies in the OT. This may or may not signify that these are different people.|4
 G4478|Ῥαχήλ|N-PFI||||||0
 G4479|Ῥεβέκκα|N-PFI||||||0
 G4480|ῥέδη|n|feminine|||||0
@@ -4500,7 +4500,7 @@ G4499|Ῥόδος|N-PLI||||||0
 G4500|ῥοιζηδόν|adv||||||0
 G4501|ῥομφαία|n|feminine|||||0
 G4502|Ῥουβήν|N-PMI||||||0
-G4503|Ῥούθ|n|feminine,indeclinable,proper|Rut[Friend]|||Ruth[Friendship] Pronounced rüt. From the Hebrew name [H7327].|0
+G4503|Ῥούθ|n|feminine,indeclinable,proper|Rut[Friend]||Hellenization of רוּת [H7327]|Pronounced rüt. Traditionally rendered Ruth, meaning "friendship". The Hebrew name is probably derived from רְעוּת [H7468] {BLB} which means "friend" (specifically a female companion). The pictographic root is of a man watching and most often signifies a shepherd watching over his flock in the pasture. {AHLB}|4
 G4504|Ῥοῦφος|N-PMI||||||0
 G4505|ῥύμη|n|feminine|||||0
 G4506|ῥύομαι|v||||||0
@@ -5598,7 +5598,7 @@ G5597|ψώχω|v||||||0
 G5598|Ω|N-I||||||0
 G5599|ὦ|INJ||||||0
 G5600|ὦ|v||||||0
-G5601|Ἰωβήδ|n|indeclinable,masculine,proper|Oveyd[Serving]|||Obed[Serving] Pronounced ō·vād'. From the Hebrew name [H5744].|0
+G5601|Ἰωβήδ|n|indeclinable,masculine,proper|Oveyd[Serving]||Hellenization of עוֹבֵד [H5744]|Pronounced ō·vād'. Traditionally rendered Obed, meaning "serving". The Hebrew name is the active participle of עָבַד [H5647] which means "serving". {BLB}  The pictographic root of the name is of providing a service to another or working at a profession. The work may be performed out of obligation, requirement or gratitude. {AHLB}|4
 G5602|ὧδε|adv||||||0
 G5603|ᾠδή|n|feminine|||||0
 G5604|ὠδίν|n|feminine|||||0
