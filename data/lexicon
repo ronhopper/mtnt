@@ -8,7 +8,7 @@ G7|Ἀβιά|n|indeclinable,masculine,proper|Aviyah[My.father.is.YHWH]|||Abijah
 G8|Ἀβιάθαρ|N-PMI||||||0
 G9|Ἀβιληνή|N-PLI||||||0
 G10|Ἀβιούδ|N-PLI||||||0
-G11|Ἀβραάμ|n|indeclinable,masculine,proper|Avraham[Father.Lifted]||Hellenization of אַבְרָהָם [H85]|Pronounced av·rä·häm'. Traditionally rendered Abraham, meaning "father of a multitude". The Hebrew name is comprised of אָב [H1] + the active participle of רוּם [H7311] {BLB} which means "father lifted". {MT}|5
+G11|Ἀβραάμ|n|indeclinable,masculine,proper|Avraham[Father.lifted]||Hellenization of אַבְרָהָם [H85]|Pronounced av·rä·häm'. Traditionally rendered Abraham, meaning "father of a multitude". The Hebrew name is comprised of אָב [H1] + the active participle of רוּם [H7311] {BLB} which means "father lifted". {MT} Lifting is a movement to a high place, but also figuratively used of being exalted. {AHLB}|5
 G12|ἄβυσσος|n|feminine|||||0
 G13|Ἄγαβος|N-PMI||||||0
 G14|ἀγαθοεργέω|v||||||0
@@ -77,7 +77,7 @@ G76|Ἀδάμ|N-PMI||||||0
 G77|ἀδάπανος|a||||||0
 G78|Ἀδδί|N-PMI||||||0
 G79|ἀδελφή|n|feminine|||||0
-G80|ἀδελφός|n|masculine|brother||||0
+G80|ἀδελφός|n|masculine|brother||from ἄλφα [G1] (as a connective particle) + δελφύς (the womb)|A son of the same mother, literally "same womb". Can also be used of kinsman, colleagues, or as a term of affection such as a wife might call her husband. In the plural, can include sisters. {PH}|5
 G81|ἀδελφότης|n|feminine|||||0
 G82|ἄδηλος|a||||||0
 G83|ἀδηλότης|n|feminine|||||0
@@ -232,7 +232,7 @@ G231|ἁλιεύς|n|masculine|||||0
 G232|ἁλιεύω|v||||||0
 G233|ἁλίζω|v||||||0
 G234|ἀλίσγημα|n|neuter|||||0
-G235|ἀλλά|conj||but.rather||||0
+G235|ἀλλά|c||but.rather||||0
 G236|ἀλλάσσω|v||||||0
 G237|ἀλλαχόθεν|adv||||||0
 G238|ἀλληγορέω|v||||||0
@@ -843,7 +843,7 @@ G842|αὐτάρκης|a||||||0
 G843|αὐτοκατάκριτος|a||||||0
 G844|αὐτόματος|a||||||0
 G845|αὐτόπτης|n|masculine|||||0
-G846|αὐτός|p||it|||he, she, it, they, him, her, them /of~it/his/..m\n/of~it/her/..f\n/of~it/its/..n|0
+G846|αὐτός|rp||it|/of~it/his/..m /of~it/her/..f /of~it/its/..n|a primary word|The 3rd person personal pronouns (he, she, it, they, etc.) or reflexively as self (himself, herself, itself, themselves, etc.).  Also used as a reference to the "same". {BLB}|3
 G847|αὐτοῦ|adv||||||0
 G848|αὑτοῦ|p||||||0
 G849|αὐτόχειρ|a||||||0
@@ -1060,7 +1060,7 @@ G1059|Γαμαλιήλ|N-PMI||||||0
 G1060|γαμέω|v||||||0
 G1061|γαμίζω|v||||||0
 G1062|γάμος|n|masculine|||||0
-G1063|γάρ|conj||for||||0
+G1063|γάρ|c||for||||0
 G1064|γαστήρ|n|feminine|belly||||0
 G1065|γέ|PRT||||||0
 G1066|Γεδεών|N-PMI||||||0
@@ -1077,7 +1077,7 @@ G1076|γενεαλογία|n|feminine|||||0
 G1077|γενέσια|N-NP||||||0
 G1078|γένεσις|n|feminine|origin||from γίνομαι [G1096]|An origin, source, productive cause or generation. {PH} Used figuratively to mean "nature". {SN} Concerns the manner in which something came to be -- a better translation may be "natural.origin".|3
 G1079|γενετή|n|feminine|||||0
-G1080|γεννάω|v||bring.forth|||/bring.forth~ed/brought.forth/|0
+G1080|γεννάω|v||beget|/beget~ed/begat/|from a variation of γένος [G1085]|Usually of men fathering children, but occasionally of women bearing a child. Also used of the earth producing fruit. It is the causal form of γίγνομαι [G1096], and literally means "cause to come to be". {PH}|3
 G1081|γέννημα|n|neuter|||||0
 G1082|Γεννησαρέτ|N-PLI||||||0
 G1083|γέννησις|a||||||0
@@ -1158,7 +1158,7 @@ G1157|δανειστής|n|masculine|||||0
 G1158|Δανιήλ|N-PMI||||||0
 G1159|δαπανάω|v||||||0
 G1160|δαπάνη|n|feminine|||||0
-G1161|δέ|conj||and.now||||0
+G1161|δέ|c||and.now||a primary particle|A conjunctive particle with adversative force. Often being used merely to pass on from one thing to another. Frequently it is redundant. Can introduce the apodosis, or be used to resume after interruption. It is placed second in a clause that it introduces, rather than first. {PH} Most often rendered simply as "and" or "but" depending on context. {BLB}|2
 G1162|δέησις|n|feminine|||||0
 G1163|δεῖ|v||||||0
 G1164|δεῖγμα|n|neuter|||||0
@@ -1349,15 +1349,15 @@ G1348|δικαστής|n|masculine|||||0
 G1349|δίκη|n|feminine|||||0
 G1350|δίκτυον|n|neuter|||||0
 G1351|δίλογος|v||||||0
-G1352|διό|conj||||||0
+G1352|διό|c||||||0
 G1353|διοδεύω|v||||||0
 G1354|Διονύσιος|N-PMI||||||0
-G1355|διόπερ|conj||||||0
+G1355|διόπερ|c||||||0
 G1356|διοπετής|a||||||0
 G1357|διόρθωσις|n|feminine|||||0
 G1358|διορύσσω|v||||||0
 G1359|Διόσκουροι|N-PMI||||||0
-G1360|διότι|conj||||||0
+G1360|διότι|c||||||0
 G1361|Διοτρεφής|N-PMI||||||0
 G1362|διπλοῦς|a||||||0
 G1363|διπλόω|v||||||0
@@ -1434,7 +1434,7 @@ G1433|δωρέομαι|v||||||0
 G1434|δώρημα|n|neuter|||||0
 G1435|δῶρον|n|neuter|||||0
 G1436|ἔα|INJ||||||0
-G1437|ἐάν|conj||||||0
+G1437|ἐάν|c||||||0
 G1438|ἑαυτοῦ|p||||||0
 G1439|ἐάω|v||||||0
 G1440|ἑβδομήκοντα|N-I||||||0
@@ -1484,10 +1484,10 @@ G1483|ἐθνικῶς|adv||||||0
 G1484|ἔθνος|n|neuter|||||0
 G1485|ἔθος|n|neuter|||||0
 G1486|ἔθω|v||||||0
-G1487|εἰ|conj||||||0
+G1487|εἰ|c||||||0
 G1488|εἶ|v||||||0
-G1489|εἴγε|conj||||||0
-G1490|εἰ δὲ μή (γε)|conj||||||0
+G1489|εἴγε|c||||||0
+G1490|εἰ δὲ μή (γε)|c||||||0
 G1491|εἶδος|n|neuter|||||0
 G1492|εἴδω|v||||||0
 G1493|εἰδωλεῖον|n|neuter|||||0
@@ -1496,7 +1496,7 @@ G1495|εἰδωλολατρία|n|feminine|||||0
 G1496|εἰδωλολάτρης|n|masculine|||||0
 G1497|εἴδωλον|n|neuter|||||0
 G1498|εἴην|v||||||0
-G1499|εἰ καί|conj||||||0
+G1499|εἰ καί|c||||||0
 G1500|εἰκῇ|adv||||||0
 G1501|εἴκοσι|N-I||||||0
 G1502|εἴκω|v||||||0
@@ -1505,12 +1505,12 @@ G1504|εἰκών|n|feminine|||||0
 G1505|εἰλικρίνεια|n|feminine|||||0
 G1506|εἰλικρινής|a||||||0
 G1507|εἱλίσσω|v||||||0
-G1508|εἰ μή|conj||||||0
-G1509|εἰ μήτι|conj||||||0
+G1508|εἰ μή|c||||||0
+G1509|εἰ μήτι|c||||||0
 G1510|εἰμί|v||||||0
 G1511|εἶναι|v||||||0
-G1512|εἴ περ|conj||||||0
-G1513|εἴ πως|conj||||||0
+G1512|εἴ περ|c||||||0
+G1513|εἴ πως|c||||||0
 G1514|εἰρηνεύω|v||||||0
 G1515|εἰρήνη|n|feminine|||||0
 G1516|εἰρηνικός|a||||||0
@@ -1532,7 +1532,7 @@ G1531|εἰσπορεύομαι|v||||||0
 G1532|εἰστρέχω|v||||||0
 G1533|εἰσφέρω|v||||||0
 G1534|εἶτα|adv||||||0
-G1535|εἴτε|conj||||||0
+G1535|εἴτε|c||||||0
 G1536|εἴ τις|p||||||0
 G1537|ἐκ|prep||out.of|||out.of of~X = out of X|0
 G1538|ἕκαστος|a||||||0
@@ -1872,7 +1872,7 @@ G1871|ἐπαιτέω|v||||||0
 G1872|ἐπακολουθέω|v||||||0
 G1873|ἐπακούω|v||||||0
 G1874|ἐπακροάομαι|v||||||0
-G1875|ἐπάν|conj||||||0
+G1875|ἐπάν|c||||||0
 G1876|ἐπάναγκες|a||||||0
 G1877|ἐπανάγω|v||||||0
 G1878|ἐπαναμιμνῄσκω|v||||||0
@@ -1890,11 +1890,11 @@ G1889|Ἐπαφρᾶς|N-PMI||||||0
 G1890|ἐπαφρίζω|v||||||0
 G1891|Ἐπαφρόδιτος|N-PMI||||||0
 G1892|ἐπεγείρω|v||||||0
-G1893|ἐπεί|conj||||||0
-G1894|ἐπειδή|conj||||||0
-G1895|ἐπειδήπερ|conj||||||0
+G1893|ἐπεί|c||||||0
+G1894|ἐπειδή|c||||||0
+G1895|ἐπειδήπερ|c||||||0
 G1896|ἐπεῖδον|v||||||0
-G1897|ἐπείπερ|conj||||||0
+G1897|ἐπείπερ|c||||||0
 G1898|ἐπεισαγωγή|n|feminine|||||0
 G1899|ἔπειτα|adv||||||0
 G1900|ἐπέκεινα|adv||||||0
@@ -2225,7 +2225,7 @@ G2224|ζώννυμι|v||||||0
 G2225|ζῳογονέω|v||||||0
 G2226|ζῷον|n|neuter|||||0
 G2227|ζῳοποιέω|v||||||0
-G2228|ἤ|conj||or||||0
+G2228|ἤ|c||or||||0
 G2229|ἦ|adv||||||0
 G2230|ἡγεμονεύω|v||||||0
 G2231|ἡγεμονία|n|feminine|||||0
@@ -2270,7 +2270,7 @@ G2269|Ἠσαῦ|N-PMI||||||0
 G2270|ἡσυχάζω|v||||||0
 G2271|ἡσυχία|n|feminine|||||0
 G2272|ἡσύχιος|a||||||0
-G2273|ἤτοι|conj||whether||||0
+G2273|ἤτοι|c||whether||||0
 G2274|ἡττάομαι|v||||||0
 G2275|ἥττημα|n|neuter|||||0
 G2276|ἥσσων|a||||||0
@@ -2381,7 +2381,7 @@ G2380|θύω|v||||||0
 G2381|Θωμᾶς|N-PMI||||||0
 G2382|θώραξ|n|masculine|||||0
 G2383|Ἰάϊρος|N-PMI||||||0
-G2384|Ἰακώβ|n|indeclinable,masculine,proper|Ya'aqov[He.restrains]|||Jacob[Heal.holder] Pronounced yah·ak·ōve'. From the Hebrew name [H3290].|0
+G2384|Ἰακώβ|n|indeclinable,masculine,proper|Ya'aqov[He.restrains]||Hellenization of יַעֲקֹב [H3290]|Pronounced yah·ak·ōve'. Traditionally rendered Jacob, meaning "heal holder" or "supplanter". The Hebrew name is a form of עָקַב [H6117] {BLB} which means "he restrains". {MT} This is the restraining of the heel when taking a step forward. {AHLB}|5
 G2385|Ἰάκωβος|N-PMI||||||0
 G2386|ἴαμα|n|neuter|||||0
 G2387|Ἰαμβρῆς|N-PMI||||||0
@@ -2421,7 +2421,7 @@ G2420|ἱερωσύνη|n|feminine|||||0
 G2421|Ἰεσσαί|n|indeclinable,masculine,proper|Yishai[There.is.mine]|||Jesse[I.possess] Pronounced yē·shah'·ē. From the Hebrew name [H3448].|0
 G2422|Ἰεφθάε|N-PMI||||||0
 G2423|Ἰεχονίας|N-PMI||||||0
-G2424|Ἰησοῦς|n|masculine,proper|Yeshu'a[Yah.will.rescue]||Hellenization of יְהוֹשׁוּעַ [H3091]|Pronounced yeh·shü'·ah. Traditionally rendered Jesus, meaning "Jehovah is salvation". This is a contracted version of Yehoshu'a (Joshua). The Hebrew name is comprised of יְהֹוָה [H3068] + יָשַׁע [H3467] {BLB} which means "Yah will rescue". {MT} This contracted version was commonly used in the 1st century and is completely interchangeable with the longer Yehoshu'a.|5
+G2424|Ἰησοῦς|n|masculine,proper|Yeshu'a[Yah.will.rescue]||Hellenization of יְהוֹשׁוּעַ [H3091]|Pronounced yeh·shü'·ah. Traditionally rendered Jesus, meaning "Jehovah is salvation". This is a contracted version of Yehoshu'a (Joshua). The Hebrew name is comprised of יְהֹוָה [H3068] + יָשַׁע [H3467] {BLB} which means "Yah will rescue". {MT} When one of the flock is in trouble, the shepherd rescues it by taking it from a place of trouble back to safety. {AHLB} This contracted version was commonly used in the 1st century and is completely interchangeable with the longer Yehoshu'a.|5
 G2425|ἱκανός|a||||||0
 G2426|ἱκανότης|n|feminine|||||0
 G2427|ἱκανόω|v||||||0
@@ -2440,8 +2440,8 @@ G2439|ἱματίζω|v||||||0
 G2440|ἱμάτιον|n|neuter|||||0
 G2441|ἱματισμός|n|masculine|||||0
 G2442|ὁμείρομαι|v||||||0
-G2443|ἵνα|conj||so.that||||0
-G2444|ἱνατί|conj||||||0
+G2443|ἵνα|c||so.that||||0
+G2444|ἱνατί|c||||||0
 G2445|Ἰόππη|N-PLI||||||0
 G2446|Ἰορδάνης|N-PLI||||||0
 G2447|ἰός|n|masculine|||||0
@@ -2452,7 +2452,7 @@ G2451|Ἰουδαϊκός|a||||||0
 G2452|Ἰουδαϊκῶς|adv||||||0
 G2453|Ἰουδαῖος|a||||||0
 G2454|Ἰουδαϊσμός|n|masculine|||||0
-G2455|Ἰούδας|n|indeclinable,masculine,proper|Yehudah[Thanksgiving]|||Judah[Praised] Pronounced yeh·hü·dä'. From the Hebrew name [H3063].|0
+G2455|Ἰούδας|n|indeclinable,masculine,proper|Yehudah[Thanksgiving]||Hellenization of יְהוּדָה [H3063]|Pronounced yeh·hü·dä'. Traditionally rendered Judah or Judas, which means "praised". The Hebrew name is a form of יָדָה [H3034] {BLB} which means "thanksgiving" {MT} and is derived from a root meaning "hand moves" with a variety of implications, such as "throwing", "praising", and "confessing". {AHLB}|4
 G2456|Ἰουλία|N-PFI||||||0
 G2457|Ἰούλιος|N-PMI||||||0
 G2458|Ἰουνιᾶς|N-PFI||||||0
@@ -2461,7 +2461,7 @@ G2460|ἱππεύς|n|masculine|||||0
 G2461|ἱππικός|a||||||0
 G2462|ἵππος|n|masculine|||||0
 G2463|ἶρις|n|feminine|||||0
-G2464|Ἰσαάκ|n|indeclinable,masculine,proper|Yits'hhaq[He.laughs]|||Isaac[He.laughs] Pronounced yits·khäk'. From the Hebrew name [H3327].|0
+G2464|Ἰσαάκ|n|indeclinable,masculine,proper|Yits'hhaq[He.laughs]||Hellenization of יִצְחָק [H3327]|Pronounced yits·khäk'. Traditionally rendered Isaac, meaning "he laughs". The Hebrew name is a form of צָחַק [H6711] {BLB} which means "he laughs". {MT} This is laughing in play or mockery, and is derived from a root that means "coming from the belly". {AHLB}|5
 G2465|ἰσάγγελος|a||||||0
 G2466|Ἰσσαχάρ|N-PMI||||||0
 G2467|ἴσημι|v||||||0
@@ -2501,7 +2501,7 @@ G2500|Ἰωσῆς|N-PMI||||||0
 G2501|Ἰωσήφ|n|indeclinable,masculine,proper|Yoseph[Adding]|||Joseph[YHWH.has.added] Pronounced yō·sāf'. From the Hebrew name [H3130].|0
 G2502|Ἰωσίας|N-PMI||||||0
 G2503|ἰῶτα|n|neuter|||||0
-G2504|κἀγώ|conj||||||0
+G2504|κἀγώ|c||||||0
 G2505|καθά|ADV/CONJ||||||0
 G2506|καθαίρεσις|n|feminine|||||0
 G2507|καθαιρέω|v||||||0
@@ -2529,14 +2529,14 @@ G2528|καθοπλίζω|v||||||0
 G2529|καθοράω|v||||||0
 G2530|καθότι|adv||||||0
 G2531|καθώς|adv||just.as|||From κατά [G2596] + ὡς [G5613].|0
-G2532|καί|conj||and||||0
+G2532|καί|c||and||a primary particle|A copulative conjunction, linking things together. Can be used in the sense of "and", "also" or "even". {BLB}|3
 G2533|Καϊάφας|N-PMI||||||0
-G2534|καί γε|conj||||||0
+G2534|καί γε|c||||||0
 G2535|Κάϊν|N-PMI||||||0
 G2536|Καϊνάμ|N-PMI||||||0
 G2537|καινός|a||||||0
 G2538|καινότης|n|feminine|||||0
-G2539|καίπερ|conj||||||0
+G2539|καίπερ|c||||||0
 G2540|καιρός|n|masculine|||||0
 G2541|Καῖσαρ|n|masculine|||||0
 G2542|Καισάρεια|N-PLI||||||0
@@ -3376,11 +3376,11 @@ G3375|μήν|PRT||||||0
 G3376|μήν|n|masculine|||||0
 G3377|μηνύω|v||||||0
 G3378|μὴ οὐκ|PRT||||||0
-G3379|μήποτε|conj||||||0
+G3379|μήποτε|c||||||0
 G3380|μήπω|adv||||||0
-G3381|μή πως|conj||||||0
+G3381|μή πως|c||||||0
 G3382|μηρός|n|masculine|||||0
-G3383|μήτε|conj||||||0
+G3383|μήτε|c||||||0
 G3384|μήτηρ|n|feminine|mother||||0
 G3385|μήτι|PRT||||||0
 G3386|μήτι γε|PRT||||||0
@@ -3585,7 +3585,7 @@ G3584|ξηρός|a||||||0
 G3585|ξύλινος|a||||||0
 G3586|ξύλον|n|neuter|||||0
 G3587|ξυράω|v||||||0
-G3588|ὁ|t||the||||0
+G3588|ὁ|ra||the||||0
 G3589|ὀγδοήκοντα|N-I||||||0
 G3590|ὄγδοος|a||||||0
 G3591|ὄγκος|n|masculine|||||0
@@ -3751,20 +3751,20 @@ G3750|ὄσφρησις|n|feminine|||||0
 G3751|ὀσφῦς|n|feminine|||||0
 G3752|ὅταν|PRT||||||0
 G3753|ὅτε|PRT||||||0
-G3754|ὅτι|conj||||||0
+G3754|ὅτι|c||||||0
 G3755|ὅτου|p||||||0
 G3756|οὐ|adv||not||||0
 G3757|οὗ|p||||||0
 G3758|οὐά|INJ||||||0
 G3759|οὐαί|INJ||||||0
 G3760|οὐδαμῶς|adv||||||0
-G3761|οὐδέ|conj||not.even||||0
+G3761|οὐδέ|c||not.even||||0
 G3762|οὐδείς|p||||||0
 G3763|οὐδέποτε|adv||||||0
 G3764|οὐδέπω|adv||||||0
 G3765|οὐκέτι|adv||||||0
 G3766|οὐκοῦν|adv||||||0
-G3767|οὖν|conj||therefore||||0
+G3767|οὖν|c||therefore||||0
 G3768|οὔπω|adv||||||0
 G3769|οὐρά|n|feminine|||||0
 G3770|οὐράνιος|a||||||0
@@ -4217,7 +4217,7 @@ G4216|ποταμοφόρητος|a||||||0
 G4217|ποταπός|a||||||0
 G4218|ποτέ|PRT||||||0
 G4219|πότε|adv||||||0
-G4220|πότερον|conj||||||0
+G4220|πότερον|c||||||0
 G4221|ποτήριον|n|neuter|||||0
 G4222|ποτίζω|v||||||0
 G4223|Ποτίολοι|N-PLI||||||0
@@ -5120,7 +5120,7 @@ G5119|τότε|adv||||||0
 G5120|τοῦ|t||||||0
 G5121|τοὐναντίον|adv||||||0
 G5122|τοὔνομα|adv||||||0
-G5123|τοῦτ᾿ ἔστιν|conj||||||0
+G5123|τοῦτ᾿ ἔστιν|c||||||0
 G5124|τοῦτο|p||this||||0
 G5125|τούτοις|d||||||0
 G5126|τοῦτον|d||||||0
