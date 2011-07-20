@@ -932,7 +932,7 @@ G931|βάσανος|n|masculine|||||0
 G932|βασιλεία|n|feminine|||||0
 G933|βασίλειος|a||||||0
 G934|βασίλειος|a||||||0
-G935|βασιλεύς|n|masculine|king|||This was the title given to the immensely wealthy and powerful Mycenaean kings.|0
+G935|βασιλεύς|n|masculine|king||uncertain|A king, exercising the functions of commander-in-chief, priest, and judge. {PH}|5
 G936|βασιλεύω|v||||||0
 G937|βασιλικός|a||||||0
 G938|βασίλισσα|n|feminine|||||0
@@ -3771,7 +3771,7 @@ G3770|οὐράνιος|a||||||0
 G3771|οὐρανόθεν|adv||||||0
 G3772|οὐρανός|n|masculine|||||0
 G3773|Οὐρβανός|N-PMI||||||0
-G3774|Οὐρίας|n|masculine,proper|Uriyah[YHWH.is.my.light]|||Uriah[YHWH.is.my.flame] Pronounced ü·rē·yä'. From the Hebrew name [H223].|0
+G3774|Οὐρίας|n|masculine,proper|Uriyah[My.light.is.Yah]||Hellenization of אוּרִיָּה [H223]|Pronounced ü·rē·yä'. Traditionally rendered Uriah or Urias or Urijah, meaning "Jehovah is my light". The Hebrew name is derived from אוּר [H217] and יָהּ [H3050] {BLB} which means "my light is Yah". {AHLB}|4
 G3775|οὖς|n|neuter|||||0
 G3776|οὐσία|n|feminine|||||0
 G3777|οὔτε|adv||||||0
@@ -4669,7 +4669,7 @@ G4668|Σμυρναῖος|a||||||0
 G4669|σμυρνίζω|v||||||0
 G4670|Σόδομα|N-PLI||||||0
 G4671|σοί|p||||||0
-G4672|Σολομών|n|masculine,proper|Shelomoh[Completeness]|||Solomon[Peace] Pronounced she·lō·mō'. From the Hebrew name [H8010].|0
+G4672|Σολομών|n|masculine,proper|Shelomoh[Completeness]||Hellenization of שְׁלֹמֹה [H8010]|Pronounced she·lō·mō'. Traditionally rendered Solomon, meaning "peace". The Hebrew name may be derived from שָׁלוֹם [H7965] {BLB} which means "completeness". This may imply peace which comes from adding or subtracting to make whole. Or it may be related to justice which comes through payment or retribution. {AHLB}|3
 G4673|σορός|n|feminine|||||0
 G4674|σός|p||||||0
 G4675|σοῦ|p||thee||||0

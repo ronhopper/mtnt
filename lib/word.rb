@@ -47,7 +47,10 @@ private
   def process_tags!(x)
     x.sub!(/^(of|to|>|@)~/, '(the) ') if tags.include?('apposition')
     x.sub!(/^(i|thou|it|we|ye|they)~/, '') if tags.include?('explicit-subject')
+    x.sub!(/^(of|to|>)~/, '') if tags.include?('prepositional')
     x[0, 0] = '(of) ' if tags.include?('genitive')
+    x << ' (man)' if tags.include?('implicit-man')
+    x << ' (woman)' if tags.include?('implicit-woman')
     x.capitalize! if tags.include?('capitalize')
   end
 
