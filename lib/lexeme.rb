@@ -8,7 +8,7 @@ class Lexeme
 
   def gsubs_to_s
     @gsubs.map do |rule|
-      "#{rule[0].inspect}#{rule[1]}/#{rule[2].inspect[2..-3]}"
+      "#{rule[0]}#{rule[1].inspect}#{rule[2]}/#{rule[3].inspect[2..-3]}"
     end.join(' ')
   end
 

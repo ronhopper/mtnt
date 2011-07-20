@@ -42,8 +42,10 @@ private
 
   def process_gsubs!(x)
     lexeme.gsubs.each do |rule|
-      pattern, text, condition = rule
-      x.gsub!(pattern, text) if condition.nil? || inflection =~ condition
+      tag, pattern, text, condition = rule
+      next unless tag.nil? || tags.include?(tag)
+      next unless condition.nil? || inflection =~ condition
+      x.gsub! pattern, text
     end
   end
 

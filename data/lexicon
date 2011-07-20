@@ -894,7 +894,7 @@ G893|ἀψευδής|a||||||0
 G894|ἀψίνθιον|n|feminine|||||0
 G895|ἄψυχος|a||||||0
 G896|Βάαλ|N-PMI||||||0
-G897|Βαβυλών|n|feminine,locative,proper|Bavel[Confusion]|||Babylon[Confusion] Pronounced bä·vel'. From the Hebrew place name [H894].|0
+G897|Βαβυλών|n|feminine,proper|Bavel[Mixed.up]||Hellenization of בָּבֶל [H894]|Pronounced bä·vel'. Traditionally rendered Babylon or Babel, meaning "confusion (by mixing)". The Hebrew place name is derived from בָּלַל [H1101] {BLB} and means "mixed up". Mixing is combining into one mass, mingling together. {MT}|5
 G898|βαθμός|n|masculine|||||0
 G899|βάθος|n|neuter|||||0
 G900|βαθύνω|v||||||0
@@ -1906,7 +1906,7 @@ G1905|ἐπερωτάω|v||||||0
 G1906|ἐπερώτημα|n|neuter|||||0
 G1907|ἐπέχω|v||||||0
 G1908|ἐπηρεάζω|v||||||0
-G1909|ἐπί|prep||upon|||upon of~X = upon X, upon to~X = upon X, upon >~X = onto X|0
+G1909|ἐπί|p||upon|temporal-genitive/upon/in.the.time.of/|a primary word|A preposition with the genitive, dative or accusative. With genitive of place, denotes a location upon something or a motion unto somewhere. With genitive of time, means "in the time of". With a causal genitive, can mean over or after someone. With dative of place, implies location upon something. With dative of time, means on or after that time. With a causal dative, can explain the reason or purpose. With accusative of place, implies motion up to or onto something. With accusative of time, implies during or until a certain time. With a causal accusative, can mean "according to". {PH}|2
 G1910|ἐπιβαίνω|v||||||0
 G1911|ἐπιβάλλω|v||||||0
 G1912|ἐπιβαρέω|v||||||0
@@ -2420,7 +2420,7 @@ G2419|Ἰερουσαλήμ|N-PLI||||||0
 G2420|ἱερωσύνη|n|feminine|||||0
 G2421|Ἰεσσαί|n|indeclinable,masculine,proper|Yishai[There.is.Yah]||Hellenization of יִשַׁי [H3448]|Pronounced yē·shah'·ē. Traditionally rendered Jesse, perhaps meaning "I possess" or "wealthy". {BLB} The Hebrew name has uncertain meaning. Could be from ‫אישי‬ ("my man/husband") {http://www.abarim-publications.com/Meaning/Jesse.html} or from יֵשׁ [H3426] + יְהֹוָה [H3068] {SN} which means "there is Yah". {AHLB}|2
 G2422|Ἰεφθάε|N-PMI||||||0
-G2423|Ἰεχονίας|N-PMI||||||0
+G2423|Ἰεχονίας|n|masculine,proper|Yekhan'yah[Yah.will.establish]||Hellenization of יְכָנְיָה [H3204]|Pronounced yek·on·yä'. Traditionally rendered Jeconiah or Jechoniah or Jechonias or Jehoiachin, meaning "Jehovah will establish". The Hebrew name is derived from כּוּן [H3559] + יָהּ [H3050] {BLB} which means "Yah will establish". To establish is to much prepare (to put in proper condition or readiness) {MT} or to set firmly in place, either physically or with words. {AHLB}|4
 G2424|Ἰησοῦς|n|masculine,proper|Yeshu'a[Yah.will.rescue]||Hellenization of יְהוֹשׁוּעַ [H3091]|Pronounced yeh·shü'·ah. Traditionally rendered Jesus, meaning "Jehovah is salvation". This is a contracted version of Yehoshu'a (Joshua). The Hebrew name is comprised of יְהֹוָה [H3068] + יָשַׁע [H3467] {BLB} which means "Yah will rescue". {MT} When one of the flock is in trouble, the shepherd rescues it by taking it from a place of trouble back to safety. {AHLB} This contracted version was commonly used in the 1st century and is completely interchangeable with the longer Yehoshu'a.|5
 G2425|ἱκανός|a||||||0
 G2426|ἱκανότης|n|feminine|||||0
@@ -3347,7 +3347,7 @@ G3346|μετατίθημι|v||||||0
 G3347|μετέπειτα|adv||||||0
 G3348|μετέχω|v||||||0
 G3349|μετεωρίζομαι|v||||||0
-G3350|μετοικεσία|n|feminine|migration||||0
+G3350|μετοικεσία|n|feminine|Deportation||drom a derivative of a compound of μετά [G3326] + οἶκος [G3624]|Literally, a change of home, specifically implying a forced migration. {BLB} A word specific to the Jewish captivity in Babylon; from μετοικία (migration). {PH}|3
 G3351|μετοικίζω|v||||||0
 G3352|μετοχή|n|feminine|||||0
 G3353|μέτοχος|a||||||0
@@ -3585,7 +3585,7 @@ G3584|ξηρός|a||||||0
 G3585|ξύλινος|a||||||0
 G3586|ξύλον|n|neuter|||||0
 G3587|ξυράω|v||||||0
-G3588|ὁ|ra||the||a primary word|The definite article. {PF}|5
+G3588|ὁ|ra||the||a primary word|The definite article. {PH}|5
 G3589|ὀγδοήκοντα|N-I||||||0
 G3590|ὄγδοος|a||||||0
 G3591|ὄγκος|n|masculine|||||0
