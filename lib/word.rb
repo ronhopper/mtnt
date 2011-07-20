@@ -45,9 +45,10 @@ private
   end
 
   def process_tags!(x)
-    x.capitalize! if tags.include?('capitalize')
     x.sub!(/^(of|to|>|@)~/, '(the) ') if tags.include?('apposition')
+    x.sub!(/^(i|thou|it|we|ye|they)~/, '') if tags.include?('explicit-subject')
     x[0, 0] = '(of) ' if tags.include?('genitive')
+    x.capitalize! if tags.include?('capitalize')
   end
 
 end
