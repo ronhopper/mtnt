@@ -297,7 +297,7 @@ G296|ἄμφοδον|n|neuter|||||0
 G297|ἀμφότεροι|a||||||0
 G298|ἀμώμητος|a||||||0
 G299|ἄμωμος|a||||||0
-G300|Ἀμών|N-PMI||||||0
+G300|Ἀμών|n|indeclinable,masculine,proper|Amon[Craftsman]||Hellenization of אָמוֹן [H526]|Pronounced ä·mōn'. Traditionally rendered Amon or Amos, meaning "skilled workman" or "master workman". The Hebrew name is the same as אָמוֹן [H525] {BLB} which means "craftsman" or one who is brought up firm in his talents. {AHLB}|3
 G301|Ἀμώς|N-PMI||||||0
 G302|ἄν|PRT||||||0
 G303|ἀνά|prep||up|||up of~X = , up to~X = , up >~X = up along X TODO: figure out a better way to translate this.|0
@@ -2499,7 +2499,7 @@ G2498|Ἰωσαφάτ|n|indeclinable,masculine,proper|Yehoshaphat[Yah.has.decid
 G2499|Ἰωσή|N-PMI||||||0
 G2500|Ἰωσῆς|N-PMI||||||0
 G2501|Ἰωσήφ|n|indeclinable,masculine,proper|Yoseph[Adding]|||Joseph[YHWH.has.added] Pronounced yō·sāf'. From the Hebrew name [H3130].|0
-G2502|Ἰωσίας|N-PMI||||||0
+G2502|Ἰωσίας|n|masculine,proper|Yoshiyah[My.pillar.is.Yah]||Hellenization of יֹאשִׁיָּה [H2977]|Pronounced yō·shē·yä'. Traditionally rendered Josiah or Josias, meaning "whom Jehovah heals". The Hebrew name is probably derived from the same root as אָשְׁיָה [H803] + יָהּ [H3050] {BLB} which may mean "my pillar (is) Yah" where a pillar is something which supports the roof. It can be taken as a foundation under someone being pressed down with despair. {AHLB}|2
 G2503|ἰῶτα|n|neuter|||||0
 G2504|κἀγώ|c||||||0
 G2505|καθά|ADV/CONJ||||||0
@@ -3125,7 +3125,7 @@ G3124|Μάλχος|N-PMI||||||0
 G3125|μάμμη|n|feminine|||||0
 G3126|μαμωνᾶς|n|masculine|||||0
 G3127|Μαναήν|N-PMI||||||0
-G3128|Μανασσῆς|N-PMI||||||0
+G3128|Μανασσῆς|n|masculine,proper|Menasheh[Causing.to.overlook]||Hellenization of מְנַשֶּׁה [H4519]|Pronounced men·ash·sheh'. Traditionally rendered Manasseh or Manasses, meaning "causing to forget". The Hebrew name is derived from נָשָׁה [H5382] {BLB} and means "causing to overlook". To overlook is to unintentionally look past, forget. {MT}|5
 G3129|μανθάνω|v||||||0
 G3130|μανία|n|feminine|||||0
 G3131|μάννα|n|neuter|||||0
