@@ -3,7 +3,7 @@ module Inflector
   def self.inflect(lemma, pos, inflection)
     case pos
     when :n, :ra, :rp then inflect_noun(lemma, inflection)
-    when :c then lemma.dup
+    when :c, :p then lemma.dup
     when :v then inflect_verb(lemma, inflection)
     else "#{lemma}(#{pos})(#{inflection})"
     end

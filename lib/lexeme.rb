@@ -20,6 +20,7 @@ class Lexeme
     :ra => 'article',
     :c  => 'conjunction',
     :n  => 'noun',
+    :p  => 'preposition',
     :rp => 'pronoun',
     :v  => 'verb'
   }

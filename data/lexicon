@@ -8,7 +8,7 @@ G7|Ἀβιά|n|indeclinable,masculine,proper|Aviyah[My.father.is.YHWH]|||Abijah
 G8|Ἀβιάθαρ|N-PMI||||||0
 G9|Ἀβιληνή|N-PLI||||||0
 G10|Ἀβιούδ|N-PLI||||||0
-G11|Ἀβραάμ|n|indeclinable,masculine,proper|Avraham[Father.lifted]||Hellenization of אַבְרָהָם [H85]|Pronounced av·rä·häm'. Traditionally rendered Abraham, meaning "father of a multitude". The Hebrew name is comprised of אָב [H1] + the active participle of רוּם [H7311] {BLB} which means "father lifted". {MT} Lifting is a movement to a high place, but also figuratively used of being exalted. {AHLB}|5
+G11|Ἀβραάμ|n|indeclinable,masculine,proper|Avraham[Father.lifted]||Hellenization of אַבְרָהָם [H85]|Pronounced av·rä·häm'. Traditionally rendered Abraham, meaning "father of a multitude". The Hebrew name is derived from אָב [H1] + the active participle of רוּם [H7311] {BLB} which means "father lifted". {MT} Lifting is a movement to a high place, but also figuratively used of being exalted. {AHLB}|5
 G12|ἄβυσσος|n|feminine|||||0
 G13|Ἄγαβος|N-PMI||||||0
 G14|ἀγαθοεργέω|v||||||0
@@ -281,7 +281,7 @@ G280|ἄμετρος|a||||||0
 G281|ἀμήν|PRT-I||||||0
 G282|ἀμήτωρ|n|masculine|||||0
 G283|ἀμίαντος|a||||||0
-G284|Ἀμιναδάβ|n|indeclinable,masculine,proper|Amiynadav[My.people.offered.willingly]|||Amminadab[My.kinsman.is.noble] Pronounced am·mē·nä·däv'. From the Hebrew name [H5992].|0
+G284|Ἀμιναδάβ|n|indeclinable,masculine,proper|Amiynadav[My.people.offered.willingly]||Hellenization of עַמִּינָדָב [H5992]|Pronounced am·mē·nä·däv'. Traditionally rendered Amminadab or Aminadab, meaning "my kinsman is noble". The Hebrew name is derived from עַם [H5971] + נָדַב [H5068] {BLB} which means "my people offered willingly". {MT} This is an offering with a willing heart as a sign of honor. {AHLB}|4
 G285|ἄμμος|n|feminine|||||0
 G286|ἀμνός|n|masculine|||||0
 G287|ἀμοιβή|n|feminine|||||0
@@ -686,7 +686,7 @@ G685|ἀρά|n|feminine|||||0
 G686|ἄρα|PRT||||||0
 G687|ἆρα|PRT||||||0
 G688|Ἀραβία|N-PLI||||||0
-G689|Ἀράμ|n|indeclinable,masculine,proper|Ram[Raised]|||Ram[High] Pronounced räm. From the Hebrew name [H7410]. This is the latter portion of Avram's name before YHWH changes it to Avraham.|0
+G689|Ἀράμ|n|indeclinable,masculine,proper|Ram[Raised]||Hellenization of רָם [H7410]|Pronounced räm. Traditionally rendered Ram or Aram, meaning "high" or "exalted". The Hebrew name is derived from the active participle of רוּם [H7311] {BLB} which means "raised" (from the latter part of Avram[Father.raised]). {MT} Raising is a movement to a high place, but also figuratively used of being exalted. {AHLB}|4
 G690|Ἄραψ|n|masculine|||||0
 G691|ἀργέω|v||||||0
 G692|ἀργός|a||||||0
@@ -1534,7 +1534,7 @@ G1533|εἰσφέρω|v||||||0
 G1534|εἶτα|adv||||||0
 G1535|εἴτε|c||||||0
 G1536|εἴ τις|p||||||0
-G1537|ἐκ|prep||out.of|||out.of of~X = out of X|0
+G1537|ἐκ|p||out.of||a primary preposition|A preposition with the genitive. Of place, it denotes action from in something to out of it. Of time, it denotes a period from that time forward. Of origin, it denotes the material out of which something is made, or its originator/cause. {PH}|4
 G1538|ἕκαστος|a||||||0
 G1539|ἑκάστοτε|adv||||||0
 G1540|ἑκατόν|N-I||||||0
@@ -2071,7 +2071,7 @@ G2070|ἐσμέν|v||||||0
 G2071|ἔσομαι|v||||||0
 G2072|ἔσοπτρον|n|neuter|||||0
 G2073|ἑσπέρα|n|feminine|||||0
-G2074|Ἑσρώμ|n|indeclinable,masculine,proper|Hhetsron[Surrounded.by.a.wall]|||Hezron[Enclosed] Pronounced khets·rōn'. From the Hebrew name [H2696].|0
+G2074|Ἑσρώμ|n|indeclinable,masculine,proper|Hhetsron[Surrounded.by.a.wall]||Hellenization of חֶצְרוֹן [H2696]|Pronounced khets·rōn'. Traditionally rendered Hezron or Esrom, meaning "surrounded by a wall". The Hebrew name is derived from חָצֵר [H2691] {BLB} and means "surrounded by a wall". {MT} The pictographic root is of an enclosed courtyard or a walled city. When the trumpets from the city are sounded as an alarm of invasion,  the inhabitants of the surrounding fields and villages, or yards, go to the protection of the walled city. {AHLB}|5
 G2075|ἐστέ|v||||||0
 G2076|ἐστί|v||be||||0
 G2077|ἔστω|v||||||0
@@ -2193,7 +2193,7 @@ G2192|ἔχω|v||have||||0
 G2193|ἕως|prep||until||||0
 G2194|Ζαβουλών|N-PMI||||||0
 G2195|Ζακχαῖος|N-PMI||||||0
-G2196|Ζάρα|n|indeclinable,masculine,proper|Zerahh[Dawn]|||Zerah[Rising] Pronounced zeh'·rakh. From the Hebrew name [H2226].|0
+G2196|Ζάρα|n|indeclinable,masculine,proper|Zerahh[Rising.sun]||Hellenization of זֶרַח [H2226]|Pronounced zeh'·rakh. Traditionally rendered Zerah or Zara or Zarah which means "rising". The Hebrew name is the same as זֶרַח [H2225] {BLB} which means "rising sun". {MT} The pictographic root of this name is of the rising of the sun in the eastern horizon. {AHLB}|4
 G2197|Ζαχαρίας|N-PMI||||||0
 G2198|ζάω|v||||||0
 G2199|Ζεβεδαῖος|N-PMI||||||0
@@ -2280,7 +2280,7 @@ G2279|ἦχος|n|masculine|||||0
 G2280|Θαδδαῖος|N-PMI||||||0
 G2281|θάλασσα|n|feminine|||||0
 G2282|θάλπω|v||||||0
-G2283|Θαμάρ|n|feminine,indeclinable,proper|Tamar[Palm.tree]|||Pronounced tä·mär'. From the Hebrew name [H8559].|0
+G2283|Θαμάρ|n|feminine,indeclinable,proper|Tamar[Date.palm]||Hellenization of תָּמָר [H8559]|Pronounced tä·mär'. Traditionally rendered Tamar or Thamar, meaning "palm-tree". The Hebrew name is the same as תָּמָר [H8558] {BLB} which means "date palm". {MT} The pictographic root of this name is of standing tall and thin. {AHLB}|5
 G2284|θαμβέω|v||||||0
 G2285|θάμβος|N-MN||||||0
 G2286|θανάσιμος|a||||||0
@@ -2381,7 +2381,7 @@ G2380|θύω|v||||||0
 G2381|Θωμᾶς|N-PMI||||||0
 G2382|θώραξ|n|masculine|||||0
 G2383|Ἰάϊρος|N-PMI||||||0
-G2384|Ἰακώβ|n|indeclinable,masculine,proper|Ya'aqov[He.restrains]||Hellenization of יַעֲקֹב [H3290]|Pronounced yah·ak·ōve'. Traditionally rendered Jacob, meaning "heal holder" or "supplanter". The Hebrew name is a form of עָקַב [H6117] {BLB} which means "he restrains". {MT} This is the restraining of the heel when taking a step forward. {AHLB}|5
+G2384|Ἰακώβ|n|indeclinable,masculine,proper|Ya'aqov[He.will.restrain]||Hellenization of יַעֲקֹב [H3290]|Pronounced yah·ak·ōve'. Traditionally rendered Jacob, meaning "heal holder" or "supplanter". The Hebrew name is a form of עָקַב [H6117] {BLB} which means "he will restrain". {MT} This is the restraining of the heel when taking a step forward. {AHLB}|5
 G2385|Ἰάκωβος|N-PMI||||||0
 G2386|ἴαμα|n|neuter|||||0
 G2387|Ἰαμβρῆς|N-PMI||||||0
@@ -2461,7 +2461,7 @@ G2460|ἱππεύς|n|masculine|||||0
 G2461|ἱππικός|a||||||0
 G2462|ἵππος|n|masculine|||||0
 G2463|ἶρις|n|feminine|||||0
-G2464|Ἰσαάκ|n|indeclinable,masculine,proper|Yits'hhaq[He.laughs]||Hellenization of יִצְחָק [H3327]|Pronounced yits·khäk'. Traditionally rendered Isaac, meaning "he laughs". The Hebrew name is a form of צָחַק [H6711] {BLB} which means "he laughs". {MT} This is laughing in play or mockery, and is derived from a root that means "coming from the belly". {AHLB}|5
+G2464|Ἰσαάκ|n|indeclinable,masculine,proper|Yits'hhaq[He.will.laugh]||Hellenization of יִצְחָק [H3327]|Pronounced yits·khäk'. Traditionally rendered Isaac, meaning "he laughs". The Hebrew name is a form of צָחַק [H6711] {BLB} which means "he laughs". {MT} This is laughing in play or mockery, and is derived from a root that means "coming from the belly". {AHLB}|5
 G2465|ἰσάγγελος|a||||||0
 G2466|Ἰσσαχάρ|N-PMI||||||0
 G2467|ἴσημι|v||||||0
@@ -3473,7 +3473,7 @@ G3472|μωρία|n|feminine|||||0
 G3473|μωρολογία|n|feminine|||||0
 G3474|μωρός|a||||||0
 G3475|Μωϋσῆς|N-PMI||||||0
-G3476|Ναασσών|n|indeclinable,masculine,proper|Nahhshon[Diviner]|||Nahshon[Enchanter] Pronounced nakh·shōn'. From the Hebrew name [H5177].|0
+G3476|Ναασσών|n|indeclinable,masculine,proper|Nahhshon[Diviner]||Hellenization of נַחְשׁוֹן [H5177]|Pronounced nakh·shōn'. Traditionally rendered Nahshon or Naasson, meaning "enchanter". The Hebrew name is derived from נָחַשׁ [H5172] {BLB} and means "diviner". {MT} The pictographic root of this name is of learning something through divination. {AHLB}|5
 G3477|Ναγγαί|N-PMI||||||0
 G3478|Ναζαρά|N-PLI||||||0
 G3479|Ναζαρηνός|a||||||0
@@ -3585,7 +3585,7 @@ G3584|ξηρός|a||||||0
 G3585|ξύλινος|a||||||0
 G3586|ξύλον|n|neuter|||||0
 G3587|ξυράω|v||||||0
-G3588|ὁ|ra||the||||0
+G3588|ὁ|ra||the||a primary word|The definite article. {PF}|5
 G3589|ὀγδοήκοντα|N-I||||||0
 G3590|ὄγδοος|a||||||0
 G3591|ὄγκος|n|masculine|||||0
@@ -4530,7 +4530,7 @@ G4529|Σαλαμίς|N-PLI||||||0
 G4530|Σαλείμ|N-PLI||||||0
 G4531|σαλεύω|v||||||0
 G4532|Σαλήμ|N-PLI||||||0
-G4533|Σαλμών|n|indeclinable,masculine,proper|Salmon[Garment]|||Pronounced sal·mōn'. From the Hebrew name [H8012].|0
+G4533|Σαλμών|n|indeclinable,masculine,proper|Salmon[Garment]||Hellenization of שַׂלְמוֹן [H8012]|Pronounced sal·mōn'. Traditionally rendered Salmon, meaning "garment". The Hebrew name is derived from שַׂלְמָה [H8008] {BLB} which means "garment". The pictographic root of this name is of lifting onto the body. {AHLB}|4
 G4534|Σαλμώνη|N-PLI||||||0
 G4535|σάλος|n|masculine|||||0
 G4536|σάλπιγξ|n|feminine|||||0
@@ -5326,7 +5326,7 @@ G5325|φαντασία|n|feminine|||||0
 G5326|φάντασμα|n|neuter|||||0
 G5327|φάραγξ|n|feminine|||||0
 G5328|Φαραώ|n|masculine|||||0
-G5329|Φαρές|n|indeclinable,masculine,proper|Perets[Breach]|||Perez[Breach] Pronounced peh'·rets. From the Hebrew name [H6557].|0
+G5329|Φαρές|n|indeclinable,masculine,proper|Perets[Breach]||Hellenization of פֶּרֶץ [H6557]|Pronounced peh'·rets. Traditionally rendered Perez or Phares or Pharez, meaning "breach". The Hebrew name is the same as פֶּרֶץ [H6556] {BLB} which means "breach". {MT} The pictographic root of this name is a hoof that is split into two parts, hence a breach or gap. {AHLB}|5
 G5330|Φαρισαῖος|n|masculine|||||0
 G5331|φαρμακεία|n|feminine|||||0
 G5332|φαρμακεύς|n|masculine|||||0

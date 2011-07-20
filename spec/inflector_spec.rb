@@ -158,6 +158,10 @@ describe Inflector do
     Inflector.inflect('AND', :c, nil).should == 'AND'
   end
 
+  it "inflects the preposition 'FROM'" do
+    Inflector.inflect('FROM', :p, nil).should == 'FROM'
+  end
+
   it "outputs debugging info for unknown inflections" do
     Inflector.inflect('FOO', :qq, 'bar').should == 'FOO(qq)(bar)'
   end
