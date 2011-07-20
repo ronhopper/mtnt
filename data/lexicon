@@ -2213,7 +2213,7 @@ G2212|ζητέω|v||||||0
 G2213|ζήτημα|n|neuter|||||0
 G2214|ζήτησις|n|feminine|||||0
 G2215|ζιζάνιον|n|neuter|||||0
-G2216|Ζοροβαβέλ|N-PMI||||||0
+G2216|Ζοροβαβέλ|n|indeclinable,masculine,proper|Zerubavel[Bavel.has.heated]||Hellenization of זְרֻבָּבֶל [H2216]|Pronounced zer·üb·bä·vel'. Traditionally rendered Zerubbabel or Zorobabel, meaning "sown in Babylon". The Hebrew name is derived from זָרַב [H2215] + בָּבֶל [H894] {BLB} which means "Bavel has heated". To heat is from an unknown word that is related to drying up from a heat and/or a strong wind. {AHLB}|3
 G2217|ζόφος|n|masculine|||||0
 G2218|ζυγός|n|masculine|||||0
 G2219|ζύμη|n|feminine|||||0
@@ -3323,7 +3323,7 @@ G3322|μεσόω|v||||||0
 G3323|Μεσσίας|n|masculine|||||0
 G3324|μεστός|a||||||0
 G3325|μεστόω|v||||||0
-G3326|μετά|prep||along.with|||along.with >~X = after X|0
+G3326|μετά|p||along.with|temporal-accusative/along.with/after/|a primary word|A preposition with the genitive or accusative. With genitive signifies accompaniment, hence "along with". With the accusative of location, means "into the midst of" or "in pursuit of". With accusative of time, denotes "after". With accusative can also mean "among". Adverbially, it can mean "among them" or "thereafter". {PH}|2
 G3327|μεταβαίνω|v||||||0
 G3328|μεταβάλλω|v||||||0
 G3329|μετάγω|v||||||0
@@ -4525,7 +4525,7 @@ G4524|Σαδώκ|N-PMI||||||0
 G4525|σαίνω|v||||||0
 G4526|σάκκος|n|masculine|||||0
 G4527|Σαλά|N-PMI||||||0
-G4528|Σαλαθιήλ|N-PMI||||||0
+G4528|Σαλαθιήλ|n|indeclinable,masculine,proper|She'al'tiyel[I.have.enquired.of.El]||Hellenization of שְׁאַלְתִּיאֵל [H7597]|Pronounced sheh·al·tē·āl'. Traditionally rendered Shealtiel or Salathiel, meaning "I have asked of God". The Hebrew name is derived from שָׁאַל [H7592] + אֵל [H410] {BLB} and means "I have enquired of El". To enquire is to ask about; to search into; to seek to understand what is not known. {MT}|3
 G4529|Σαλαμίς|N-PLI||||||0
 G4530|Σαλείμ|N-PLI||||||0
 G4531|σαλεύω|v||||||0
