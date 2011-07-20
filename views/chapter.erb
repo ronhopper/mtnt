@@ -18,10 +18,10 @@
       <% xlation, meaning = word.mt.split(/[\[\]]/) %>
       <% if word.lexeme %>
         <% classes = (["word-#{word.id}", word.inflection] + word.lexeme.tags).compact %>
-        <a href="/<%= word.lexeme_id %>" title="<%= lexeme_hover(word.lexeme) %>" class="<%= classes.join(' ') %>"><%= xlation %></a>
+        <nobr><a href="/<%= word.lexeme_id %>" title="<%= lexeme_hover(word.lexeme) %>" class="<%= classes.join(' ') %>"><%= xlation %></a>
         <% if meaning %>
           <sup>[<%= meaning %>]</sup>
-        <% end %>
+        <% end %></nobr>
       <% else %>
         <%= word.form %>
       <% end %>
@@ -32,10 +32,10 @@
       <% xlation, meaning = word.rmt.split(/[\[\]]/) %>
       <% if word.lexeme %>
         <% classes = (["word-#{word.id}", word.inflection] + word.lexeme.tags).compact %>
-        <a href="/<%= word.lexeme_id %>" title="<%= lexeme_hover(word.lexeme) %>" class="<%= classes.join(' ') %>"><%= xlation %></a>
+        <nobr><a href="/<%= word.lexeme_id %>" title="<%= lexeme_hover(word.lexeme) %>" class="<%= classes.join(' ') %>"><%= xlation %></a>
         <% if meaning %>
           <sup>[<%= meaning %>]</sup>
-        <% end %>
+        <% end %></nobr>
       <% else %>
         <%= word.form %>
       <% end %>
