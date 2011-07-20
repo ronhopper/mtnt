@@ -5,6 +5,9 @@
     <% for word in words %>
       <% if word.lexeme %>
         <a href="/<%= word.lexeme_id %>" title="<%= [word.lexeme_id, word.inflection].compact.join(' + ') %>" class="word-<%= word.id %>"><%= word.form %></a>
+        <% if word.note %>
+          <sub class="note">(<a title="<%= word.note %>">note</a>)</sub>
+        <% end %>
       <% else %>
         <%= word.form %>
       <% end %>
