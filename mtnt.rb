@@ -1,7 +1,8 @@
-Dir[File.join(%w[. lib ** *.rb])].each { |f| require f }
-
+require 'rubygems'
 require 'sinatra'
 require 'erb'
+
+Dir[File.join(%w[. lib ** *.rb])].each { |f| require f }
 
 get '/' do
   redirect to('/Matthew/1')
