@@ -65,12 +65,12 @@ private
   end
 
   def self.inflect_verb_participle(lemma, tv, cng)
-    if tv[0] != 'p'
-      return "#{lemma}(#{tv}p#{cng})"
-    end
     middle = 'for~self' if tv[1] == 'm'
     helper, suffix = {
-      'pa' => [nil, 'ing'], 'pp' => ['being', 'ed']
+      'pa' => [nil, 'ing'],             'pp' => ['being', 'ed'],
+      'fa' => ['being~about~to', nil],  'fp' => ['being~about~to~be', 'ed'],
+      'aa' => ['having', 'ed'],         'ap' => [nil, 'ed'],
+      'ra' => ['already~having', 'ed'], 'rp' => ['already', 'ed']
     }[tv.sub('m', 'a')]
     form = [helper, lemma, suffix, middle].compact.join('~')
     inflect_noun form, cng
