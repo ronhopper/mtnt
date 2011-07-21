@@ -209,10 +209,10 @@ describe Inflector do
     'fppnsm' => 'being~about~to~be~HEAL~ed',        'fppgpf' => 'of~being~about~to~be~HEAL~ed~s',
     'aapnsm' => 'having~HEAL~ed',                   'aapgpf' => 'of~having~HEAL~ed~s',
     'ampnsm' => 'having~HEAL~ed~for~self',          'ampgpf' => 'of~having~HEAL~ed~for~self~s',
-    'appnsm' => 'HEAL~ed',                          'appgpf' => 'of~HEAL~ed~s',
+    'appnsm' => 'having~been~HEAL~ed',              'appgpf' => 'of~having~been~HEAL~ed~s',
     'rapnsm' => 'already~having~HEAL~ed',           'rapgpf' => 'of~already~having~HEAL~ed~s',
     'rmpnsm' => 'already~having~HEAL~ed~for~self',  'rmpgpf' => 'of~already~having~HEAL~ed~for~self~s',
-    'rppnsm' => 'already~HEAL~ed',                  'rppgpf' => 'of~already~HEAL~ed~s'
+    'rppnsm' => 'already~having~been~HEAL~ed',      'rppgpf' => 'of~already~having~been~HEAL~ed~s'
   }
 
   # add strong-future, strong-aorist, strong-perfect, strong-pluperfect

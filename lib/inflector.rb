@@ -124,8 +124,8 @@ private
     helper, suffix = {
       'pa' => [nil, 'ing'],             'pp' => ['being', 'ed'],
       'fa' => ['being~about~to', nil],  'fp' => ['being~about~to~be', 'ed'],
-      'aa' => ['having', 'ed'],         'ap' => [nil, 'ed'],
-      'ra' => ['already~having', 'ed'], 'rp' => ['already', 'ed']
+      'aa' => ['having', 'ed'],         'ap' => ['having~been', 'ed'],
+      'ra' => ['already~having', 'ed'], 'rp' => ['already~having~been', 'ed']
     }[tv.sub('m', 'a')]
     form = [helper, lemma, suffix, middle].compact.join('~')
     inflect_noun form, cng
