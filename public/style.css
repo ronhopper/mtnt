@@ -63,6 +63,9 @@ sub.note a {
   color: #999;
   cursor: help;
 }
+span.implicit {
+  color: #999;
+}
 a.masculine,
 a.nsm,  a.gsm,  a.dsm,  a.asm,  a.vsm,  a.npm,  a.gpm,  a.dpm,  a.apm,  a.vpm,
 a.nsmc, a.gsmc, a.dsmc, a.asmc, a.vsmc, a.npmc, a.gpmc, a.dpmc, a.apmc, a.vpmc,

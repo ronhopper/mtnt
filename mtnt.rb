@@ -43,11 +43,3 @@ if ENV['DEVELOPMENT']
     redirect to("/#{id}")
   end
 end
-
-helpers do
-
-  def lexeme_hover(l)
-    "#{l.lemma} &mdash; #{l.translation} &mdash; #{l.explanation.gsub('"', '&quot;')}"
-  end
-
-end

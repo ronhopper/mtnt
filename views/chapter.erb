@@ -1,44 +1,7 @@
 <% @verses.each_with_index do |words, i| %>
   <% verse = i + 1 %>
-  <p class="greek">
-    <strong><%= verse %></strong> &mdash;
-    <% for word in words %>
-      <% if word.lexeme %>
-        <a href="/<%= word.lexeme_id %>" title="<%= [word.lexeme_id, word.inflection].compact.join(' + ') %>" class="word-<%= word.id %>"><%= word.form %></a>
-        <% if word.note %>
-          <sub class="note">(<a title="<%= word.note %>">note</a>)</sub>
-        <% end %>
-      <% else %>
-        <%= word.form %>
-      <% end %>
-    <% end %>
-  </p>
-  <p class="mt">
-    <% for word in words %>
-      <% xlation, meaning = word.mt.split(/[\[\]]/) %>
-      <% if word.lexeme %>
-        <% classes = (["word-#{word.id}", word.inflection] + word.lexeme.tags).compact %>
-        <nobr><a href="/<%= word.lexeme_id %>" title="<%= lexeme_hover(word.lexeme) %>" class="<%= classes.join(' ') %>"><%= xlation %></a>
-        <% if meaning %>
-          <sup>[<%= meaning %>]</sup>
-        <% end %></nobr>
-      <% else %>
-        <%= word.form %>
-      <% end %>
-    <% end %>
-  </p>
-  <p class="rmt">
-    <% for word in words.reject { |w| w.position == 0 }.sort_by(&:position) %>
-      <% xlation, meaning = word.rmt.split(/[\[\]]/) %>
-      <% if word.lexeme %>
-        <% classes = (["word-#{word.id}", word.inflection] + word.lexeme.tags).compact %>
-        <nobr><a href="/<%= word.lexeme_id %>" title="<%= lexeme_hover(word.lexeme) %>" class="<%= classes.join(' ') %>"><%= xlation %></a>
-        <% if meaning %>
-          <sup>[<%= meaning %>]</sup>
-        <% end %></nobr>
-      <% else %>
-        <%= word.form %>
-      <% end %>
-    <% end %>
-  </p>
+  <% f = Formatter.new(words) %>
+  <p class="greek"><strong><%= verse %></strong> &mdash; <%= f.greek %></p>
+  <p class="mt"><%= f.mt %></p>
+  <p class="rmt"><%= f.rmt %></p>
 <% end %>

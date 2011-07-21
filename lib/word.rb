@@ -51,15 +51,22 @@ private
   end
 
   def process_tags!(x)
-    x.sub!(/^(of|to|>|@)~/, '(the) ') if tags.include?('apposition')
-    x.sub!(/^(i|thou|it|we|ye|they)~/, '') if tags.include?('explicit-subject')
-    x.sub!(/^(of|to|>)~/, '') if tags.include?('prepositional')
-    x[0, 0] = '(of) ' if tags.include?('genitive')
-    x[0, 0] = '(is) ' if tags.include?('implicit-is')
-    x[0, 0] = '(are) ' if tags.include?('implicit-are')
-    x << ' (man)' if tags.include?('implicit-man')
-    x << ' (woman)' if tags.include?('implicit-woman')
-    x.capitalize! if tags.include?('capitalize')
+    tags.each do |tag|
+      case tag
+      when '-'
+        x.sub! /^[a-z>@]+~/, ''
+      when /^\+\(.*\)$/
+        x << tag.tr('+', ' ')
+      when /^\(.*\)\+$/
+        x[0, 0] = tag.tr('+', ' ')
+      when /^\+".*"$/
+        x << tag[2..-2].tr('+', ' ')
+      when /^".*"\+$/
+        x[0, 0] = tag[1..-3].tr('+', ' ')
+      when 'U'
+        x.capitalize!
+      end
+    end
   end
 
 end
