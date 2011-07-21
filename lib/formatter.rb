@@ -1,3 +1,4 @@
+# coding: utf-8
 class Formatter
 
   def initialize(words)
@@ -10,14 +11,18 @@ class Formatter
       if word.lexeme
         hover = [word.lexeme_id, word.inflection].compact.join(' + ')
         html << %{<a href="/#{word.lexeme_id}" title="#{hover}" class="word-#{word.id}">#{word.form}</a>}
-        if word.note
-          html[-1] << %{<sub class="note">[<a title="#{word.note}">NOTE</a>]</sub>}
+        if word.greek_note
+          html[-1] << %{<sub class="note">[<a title="#{word.greek_note}">NOTE</a>]</sub>}
         end
+      elsif word.form == '“'
+        html << '<q>'
+      elsif word.form == '”'
+        html[-1] << '</q>'
       else
         html[-1] << word.form
       end
     end
-    html.reject { |s| s == '' }.join(' ')
+    html.reject { |s| s == '' }.join(' ').gsub('<q> ','<q>')
   end
 
   def mt
@@ -30,14 +35,18 @@ class Formatter
         if meaning
           html[-1] << %{<sup>&nbsp;[#{meaning}]</sup>}
         end
-        if word.note
-          html[-1] << %{<sub class="note">[<a title="#{word.note}">NOTE</a>]</sub>}
+        if word.english_note
+          html[-1] << %{<sub class="note">[<a title="#{word.english_note}">NOTE</a>]</sub>}
         end
+      elsif word.form == '“'
+        html << '<q>'
+      elsif word.form == '”'
+        html[-1] << '</q>'
       else
         html[-1] << xlation
       end
     end
-    html.reject { |s| s == '' }.join(' ')
+    html.reject { |s| s == '' }.join(' ').gsub('<q> ','<q>')
   end
 
   def rmt
@@ -54,6 +63,13 @@ class Formatter
           if meaning
             html[-1] << %{<sup>&nbsp;[#{meaning}]</sup>}
           end
+          if word.english_note
+            html[-1] << %{<sub class="note">[<a title="#{word.english_note}">NOTE</a>]</sub>}
+          end
+        elsif word.form == '“'
+          html << '<q>'
+        elsif word.form == '”'
+          html[-1] << '</q>'
         else
           html[-1] << xlation
         end
@@ -61,7 +77,7 @@ class Formatter
         html << %{<span class="implicit">(#{diword})</span>}
       end
     end
-    html.reject { |s| s == '' }.join(' ')
+    html.reject { |s| s == '' }.join(' ').gsub('<q> ','<q>')
   end
 
 private
@@ -81,16 +97,17 @@ private
         when /^\[.*\]\+$/
           diwords[i + offset, 0] = tag[1..-3].tr('+', ' ')
           offset += 1
-        when '>'
-          diwords[i + offset, 0] = [remove_prefix!(diwords[i + offset + 1])]
+        when /^>+$/
+          diwords[i + offset, 0] = [remove_prefix!(diwords[i + offset + 1], tag.length)]
+          offset += 1
         end
       end
     end
   end
 
-  def remove_prefix!(diword)
+  def remove_prefix!(diword, count)
     word, xlation = *diword
-    prefix = xlation.split(' ').first
+    prefix = xlation.split(' ')[0, count].join(' ')
     diword[1] = xlation[(prefix.length + 1)..-1].strip
     [word, prefix]
   end

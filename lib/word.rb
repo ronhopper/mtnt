@@ -1,7 +1,7 @@
 # coding: utf-8
 class Word
 
-  attr_accessor :id, :position, :form, :lexeme_id, :inflection, :tags, :note
+  attr_accessor :id, :position, :form, :lexeme_id, :inflection, :tags, :greek_note, :english_note
 
   def initialize(id, position, form, lexeme_id, inflection, tags)
     @id = id
@@ -10,8 +10,11 @@ class Word
     @lexeme_id = lexeme_id
     @inflection = inflection
     @tags = tags
-    if note = tags.detect { |tag| tag[0, 5] == 'note:' }
-      @note = note[5..-1].gsub('+', ' ')
+    if note = tags.detect { |tag| tag[0, 6] == 'gnote:' }
+      @greek_note = note[6..-1].gsub('+', ' ')
+    end
+    if note = tags.detect { |tag| tag[0, 6] == 'enote:' }
+      @english_note = note[6..-1].gsub('+', ' ')
     end
   end
 
