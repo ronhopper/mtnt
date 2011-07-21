@@ -133,6 +133,32 @@ describe Inflector do
     'lpi2s' => 'thou~had~been~HEAL~ed',         'lpi2p' => 'ye~had~been~HEAL~ed',
     'lpi3s' => 'it~had~been~HEAL~ed',           'lpi3p' => 'they~had~been~HEAL~ed',
 
+    'pam2s' => 'continue~thou~to~HEAL',               'pam2p' => 'continue~ye~to~HEAL',
+    'pam3s' => 'let~it~continue~to~HEAL',             'pam3p' => 'let~them~continue~to~HEAL',
+    'aam2s' => 'HEAL~thou',                           'aam2p' => 'HEAL~ye',
+    'aam3s' => 'let~it~HEAL',                         'aam3p' => 'let~them~HEAL',
+    'ram2s' => 'let~thou~have~HEAL~ed',               'ram2p' => 'let~ye~have~HEAL~ed',
+    'ram3s' => 'let~it~have~HEAL~ed',                 'ram3p' => 'let~them~have~HEAL~ed',
+
+    'pmm2s' => 'continue~thou~to~HEAL~for~thyself',   'pmm2p' => 'continue~ye~to~HEAL~for~yourselves',
+    'pmm3s' => 'let~it~continue~to~HEAL~for~itself',  'pmm3p' => 'let~them~continue~to~HEAL~for~themselves',
+    'amm2s' => 'HEAL~thou~for~thyself',               'amm2p' => 'HEAL~ye~for~yourselves',
+    'amm3s' => 'let~it~HEAL~for~itself',              'amm3p' => 'let~them~HEAL~for~themselves',
+    'rmm2s' => 'let~thou~have~HEAL~ed~for~thyself',   'rmm2p' => 'let~ye~have~HEAL~ed~for~yourselves',
+    'rmm3s' => 'let~it~have~HEAL~ed~for~itself',      'rmm3p' => 'let~them~have~HEAL~ed~for~themselves',
+
+    'ppm2s' => 'continue~thou~to~be~HEAL~ed',         'ppm2p' => 'continue~ye~to~be~HEAL~ed',
+    'ppm3s' => 'be~it~HEAL~ed',                       'ppm3p' => 'be~they~HEAL~ed',
+    'apm2s' => 'be~thou~HEAL~ed',                     'apm2p' => 'be~ye~HEAL~ed',
+    'apm3s' => 'be~it~HEAL~ed',                       'apm3p' => 'be~they~HEAL~ed',
+    'rpm2s' => 'let~thou~have~been~HEAL~ed',          'rpm2p' => 'let~ye~have~been~HEAL~ed',
+    'rpm3s' => 'let~it~have~been~HEAL~ed',            'rpm3p' => 'let~them~have~been~HEAL~ed',
+
+    'pan' => 'to~HEAL~ongoing',     'pmn' => 'to~HEAL~ongoing~for~oneself',     'ppn' => 'to~be~HEAL~ed~ongoing',
+    'fan' => 'to~be~about~to~HEAL', 'fmn' => 'to~be~about~to~HEAL~for~oneself', 'fpn' => 'to~be~about~to~be~HEAL~ed',
+    'aan' => 'to~HEAL',             'amn' => 'to~HEAL~for~oneself',             'apn' => 'to~be~HEAL~ed',
+    'ran' => 'to~have~HEAL~ed',     'rmn' => 'to~have~HEAL~ed~for~oneself',     'rpn' => 'to~have~been~HEAL~ed',
+
     'papnsm' => 'HEAL~ing',                         'papgpf' => 'of~HEAL~ing~s',
     'pmpnsm' => 'HEAL~ing~for~self',                'pmpgpf' => 'of~HEAL~ing~for~self~s',
     'pppnsm' => 'being~HEAL~ed',                    'pppgpf' => 'of~being~HEAL~ed~s',
@@ -144,12 +170,7 @@ describe Inflector do
     'appnsm' => 'HEAL~ed',                          'appgpf' => 'of~HEAL~ed~s',
     'rapnsm' => 'already~having~HEAL~ed',           'rapgpf' => 'of~already~having~HEAL~ed~s',
     'rmpnsm' => 'already~having~HEAL~ed~for~self',  'rmpgpf' => 'of~already~having~HEAL~ed~for~self~s',
-    'rppnsm' => 'already~HEAL~ed',                  'rppgpf' => 'of~already~HEAL~ed~s',
-
-    'pan' => 'to~HEAL~ongoing',     'pmn' => 'to~HEAL~ongoing~for~oneself',     'ppn' => 'to~be~HEAL~ed~ongoing',
-    'fan' => 'to~be~about~to~HEAL', 'fmn' => 'to~be~about~to~HEAL~for~oneself', 'fpn' => 'to~be~about~to~be~HEAL~ed',
-    'aan' => 'to~HEAL',             'amn' => 'to~HEAL~for~oneself',             'apn' => 'to~be~HEAL~ed',
-    'ran' => 'to~have~HEAL~ed',     'rmn' => 'to~have~HEAL~ed~for~oneself',     'rpn' => 'to~have~been~HEAL~ed'
+    'rppnsm' => 'already~HEAL~ed',                  'rppgpf' => 'of~already~HEAL~ed~s'
   }
 
   # add strong-future, strong-aorist, strong-perfect, strong-pluperfect

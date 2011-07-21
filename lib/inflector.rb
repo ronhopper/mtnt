@@ -28,8 +28,9 @@ private
     inflection = normalize_verb(inflection)
     case inflection[2]
     when 'i' then inflect_verb_indicative(lemma, inflection[0, 2], inflection[3, 2])
-    when 'p' then inflect_verb_participle(lemma, inflection[0, 2], inflection[3, 3])
+    when 'm' then inflect_verb_imperative(lemma, inflection[0, 2], inflection[3, 2])
     when 'n' then inflect_verb_infinitive(lemma, inflection[0, 2])
+    when 'p' then inflect_verb_participle(lemma, inflection[0, 2], inflection[3, 3])
     else "#{lemma}(v)(#{inflection})"
     end
   end
@@ -64,16 +65,26 @@ private
     [prefix, helper, lemma, suffix, middle].compact.join('~')
   end
 
-  def self.inflect_verb_participle(lemma, tv, cng)
-    middle = 'for~self' if tv[1] == 'm'
-    helper, suffix = {
-      'pa' => [nil, 'ing'],             'pp' => ['being', 'ed'],
-      'fa' => ['being~about~to', nil],  'fp' => ['being~about~to~be', 'ed'],
-      'aa' => ['having', 'ed'],         'ap' => [nil, 'ed'],
-      'ra' => ['already~having', 'ed'], 'rp' => ['already', 'ed']
-    }[tv.sub('m', 'a')]
-    form = [helper, lemma, suffix, middle].compact.join('~')
-    inflect_noun form, cng
+  def self.inflect_verb_imperative(lemma, tv, pn)
+    middle = {
+      '2s' => 'for~thyself', '2p' => 'for~yourselves',
+      '3s' => 'for~itself',  '3p' => 'for~themselves'
+    }[pn] if tv[1] == 'm'
+    prefix, suffix = {
+      'pa2s' => ['continue~thou~to', nil],      'pa2p' => ['continue~ye~to', nil],
+      'pa3s' => ['let~it~continue~to', nil],    'pa3p' => ['let~them~continue~to', nil],
+      'aa2s' => [nil, 'thou'],                  'aa2p' => [nil, 'ye'],
+      'aa3s' => ['let~it', nil],                'aa3p' => ['let~them', nil],
+      'ra2s' => ['let~thou~have', 'ed'],        'ra2p' => ['let~ye~have', 'ed'],
+      'ra3s' => ['let~it~have', 'ed'],          'ra3p' => ['let~them~have', 'ed'],
+      'pp2s' => ['continue~thou~to~be', 'ed'],  'pp2p' => ['continue~ye~to~be', 'ed'],
+      'pp3s' => ['be~it', 'ed'],                'pp3p' => ['be~they', 'ed'],
+      'ap2s' => ['be~thou', 'ed'],              'ap2p' => ['be~ye', 'ed'],
+      'ap3s' => ['be~it', 'ed'],                'ap3p' => ['be~they', 'ed'],
+      'rp2s' => ['let~thou~have~been', 'ed'],   'rp2p' => ['let~ye~have~been', 'ed'],
+      'rp3s' => ['let~it~have~been', 'ed'],     'rp3p' => ['let~them~have~been', 'ed']
+    }[tv.sub('m', 'a') + pn]
+    [prefix, lemma, suffix, middle].compact.join('~')
   end
 
   def self.inflect_verb_infinitive(lemma, tv)
@@ -85,6 +96,18 @@ private
       'ra' => ['have', 'ed'],       'rp' => ['have~been', 'ed']
     }[tv.sub('m', 'a')]
     ['to', helper, lemma, suffix, middle].compact.join('~')
+  end
+
+  def self.inflect_verb_participle(lemma, tv, cng)
+    middle = 'for~self' if tv[1] == 'm'
+    helper, suffix = {
+      'pa' => [nil, 'ing'],             'pp' => ['being', 'ed'],
+      'fa' => ['being~about~to', nil],  'fp' => ['being~about~to~be', 'ed'],
+      'aa' => ['having', 'ed'],         'ap' => [nil, 'ed'],
+      'ra' => ['already~having', 'ed'], 'rp' => ['already', 'ed']
+    }[tv.sub('m', 'a')]
+    form = [helper, lemma, suffix, middle].compact.join('~')
+    inflect_noun form, cng
   end
 
 end
