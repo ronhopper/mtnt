@@ -17,6 +17,7 @@ class Lexeme
   end
 
   PARTS_OF_SPEECH = {
+    :a  => 'adjective',
     :ra => 'article',
     :c  => 'conjunction',
     :n  => 'noun',

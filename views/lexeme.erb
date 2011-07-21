@@ -16,4 +16,6 @@
   <dt>Confidence</dt>
   <dd><%= @lexeme.confidence %> out of 5</dd>
 </dl>
-<div class="button clear"><a href="/<%= @id %>/edit">Edit Lexeme</a></div>
+<% if ENV['DEVELOPMENT'] %>
+  <div class="button clear"><a href="/<%= @id %>/edit">Edit Lexeme</a></div>
+<% end %>

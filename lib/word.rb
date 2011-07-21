@@ -30,6 +30,7 @@ class Word
     process_gsubs! x
     process_tags! x
     x.sub! /^[>@]~/, ''
+    x.gsub!(/~s$/, '') if [:a, :ra, :rp, :rr].include?(lexeme.pos)
     x.gsub! /~(s|ed|ing|er|est)(~|$)/, '\1\2'
     x.tr '~.', '  '
   end
@@ -54,6 +55,8 @@ private
     x.sub!(/^(i|thou|it|we|ye|they)~/, '') if tags.include?('explicit-subject')
     x.sub!(/^(of|to|>)~/, '') if tags.include?('prepositional')
     x[0, 0] = '(of) ' if tags.include?('genitive')
+    x[0, 0] = '(is) ' if tags.include?('implicit-is')
+    x[0, 0] = '(are) ' if tags.include?('implicit-are')
     x << ' (man)' if tags.include?('implicit-man')
     x << ' (woman)' if tags.include?('implicit-woman')
     x.capitalize! if tags.include?('capitalize')

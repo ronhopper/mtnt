@@ -5,6 +5,10 @@ class Book
     @books[name] ||= new(name)
   end
 
+  def self.clear_cache!
+    @books = {}
+  end
+
   def initialize(name)
     @data = []
     filename = File.join('data', 'books', name)

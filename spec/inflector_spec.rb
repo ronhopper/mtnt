@@ -10,6 +10,23 @@ describe Inflector do
     'vs' => '@~BOOK',  'vp' => '@~BOOK~s'
   }
 
+  ADJECTIVE_EXAMPLES = {
+    'nsm' => 'BIG',    'npm' => 'BIG~s',
+    'gsm' => 'of~BIG', 'gpm' => 'of~BIG~s',
+    'dsm' => 'to~BIG', 'dpm' => 'to~BIG~s',
+    'asm' => '>~BIG',  'apm' => '>~BIG~s',
+    'vsm' => '@~BIG',  'vpm' => '@~BIG~s'
+  }
+
+  # add all genders
+  ADJECTIVE_EXAMPLES.dup.each do |inflection, form|
+    %w[f n].each do |g|
+      inflection2 = inflection.dup
+      inflection2[2] = g
+      ADJECTIVE_EXAMPLES[inflection2] = form
+    end
+  end
+
   ARTICLE_EXAMPLES = {
     'nsm' => 'THE',    'npm' => 'THE~s',
     'gsm' => 'of~THE', 'gpm' => 'of~THE~s',
@@ -149,6 +166,12 @@ describe Inflector do
   NOUN_EXAMPLES.each do |inflection, form|
     it "inflects the noun 'BOOK'+#{inflection}" do
       Inflector.inflect('BOOK', :n, inflection).should == form
+    end
+  end
+
+  ADJECTIVE_EXAMPLES.each do |inflection, form|
+    it "inflects the adjective 'BIG'+#{inflection}" do
+      Inflector.inflect('BIG', :a, inflection).should == form
     end
   end
 
