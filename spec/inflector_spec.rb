@@ -42,6 +42,22 @@ describe Inflector do
     end
   end
 
+  RELATIVE_PRONOUN_EXAMPLES = {
+    'nsm' => 'WHO',    'npm' => 'WHO~s',
+    'gsm' => 'of~WHO', 'gpm' => 'of~WHO~s',
+    'dsm' => 'to~WHO', 'dpm' => 'to~WHO~s',
+    'asm' => '>~WHO',  'apm' => '>~WHO~s'
+  }
+
+  # add all genders
+  RELATIVE_PRONOUN_EXAMPLES.dup.each do |inflection, form|
+    %w[f n].each do |g|
+      inflection2 = inflection.dup
+      inflection2[2] = g
+      RELATIVE_PRONOUN_EXAMPLES[inflection2] = form
+    end
+  end
+
   VERB_EXAMPLES = {
     'pai1s' => 'i~HEAL',                        'pai1p' => 'we~HEAL',
     'pai2s' => 'thou~HEAL~s',                   'pai2p' => 'ye~HEAL',
@@ -145,6 +161,12 @@ describe Inflector do
   PERSONAL_PRONOUN_EXAMPLES.each do |inflection, form|
     it "inflects the personal pronoun 'IT'+#{inflection}" do
       Inflector.inflect('IT', :rp, inflection).should == form
+    end
+  end
+
+  RELATIVE_PRONOUN_EXAMPLES.each do |inflection, form|
+    it "inflects the relative pronoun 'WHO'+#{inflection}" do
+      Inflector.inflect('WHO', :rr, inflection).should == form
     end
   end
 

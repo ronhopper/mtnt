@@ -66,19 +66,34 @@ sub.note a {
 a.masculine,
 a.nsm,  a.gsm,  a.dsm,  a.asm,  a.vsm,  a.npm,  a.gpm,  a.dpm,  a.apm,  a.vpm,
 a.nsmc, a.gsmc, a.dsmc, a.asmc, a.vsmc, a.npmc, a.gpmc, a.dpmc, a.apmc, a.vpmc,
-a.nsms, a.gsms, a.dsms, a.asms, a.vsms, a.npms, a.gpms, a.dpms, a.apms, a.vpms {
+a.nsms, a.gsms, a.dsms, a.asms, a.vsms, a.npms, a.gpms, a.dpms, a.apms, a.vpms,
+a.papnsm, a.papgsm, a.papdsm, a.papasm, a.papvsm, a.papnpm, a.papgpm, a.papdpm, a.papapm, a.papvpm,
+a.pdpnsm, a.pdpgsm, a.pdpdsm, a.pdpasm, a.pdpvsm, a.pdpnpm, a.pdpgpm, a.pdpdpm, a.pdpapm, a.pdpvpm,
+a.popnsm, a.popgsm, a.popdsm, a.popasm, a.popvsm, a.popnpm, a.popgpm, a.popdpm, a.popapm, a.popvpm,
+a.pnpnsm, a.pnpgsm, a.pnpdsm, a.pnpasm, a.pnpvsm, a.pnpnpm, a.pnpgpm, a.pnpdpm, a.pnpapm, a.pnpvpm,
+a.pppnsm, a.pppgsm, a.pppdsm, a.pppasm, a.pppvsm, a.pppnpm, a.pppgpm, a.pppdpm, a.pppapm, a.pppvpm {
   color: blue;
 }
 a.feminine,
 a.nsf,  a.gsf,  a.dsf,  a.asf,  a.vsf,  a.npf,  a.gpf,  a.dpf,  a.apf,  a.vpf,
 a.nsfc, a.gsfc, a.dsfc, a.asfc, a.vsfc, a.npfc, a.gpfc, a.dpfc, a.apfc, a.vpfc,
-a.nsfs, a.gsfs, a.dsfs, a.asfs, a.vsfs, a.npfs, a.gpfs, a.dpfs, a.apfs, a.vpfs {
+a.nsfs, a.gsfs, a.dsfs, a.asfs, a.vsfs, a.npfs, a.gpfs, a.dpfs, a.apfs, a.vpfs,
+a.papnsf, a.papgsf, a.papdsf, a.papasf, a.papvsf, a.papnpf, a.papgpf, a.papdpf, a.papapf, a.papvpf,
+a.pdpnsf, a.pdpgsf, a.pdpdsf, a.pdpasf, a.pdpvsf, a.pdpnpf, a.pdpgpf, a.pdpdpf, a.pdpapf, a.pdpvpf,
+a.popnsf, a.popgsf, a.popdsf, a.popasf, a.popvsf, a.popnpf, a.popgpf, a.popdpf, a.popapf, a.popvpf,
+a.pnpnsf, a.pnpgsf, a.pnpdsf, a.pnpasf, a.pnpvsf, a.pnpnpf, a.pnpgpf, a.pnpdpf, a.pnpapf, a.pnpvpf,
+a.pppnsf, a.pppgsf, a.pppdsf, a.pppasf, a.pppvsf, a.pppnpf, a.pppgpf, a.pppdpf, a.pppapf, a.pppvpf {
   color: red;
 }
 a.neuter,
 a.nsn,  a.gsn,  a.dsn,  a.asn,  a.vsn,  a.npn,  a.gpn,  a.dpn,  a.apn,  a.vpn,
 a.nsnc, a.gsnc, a.dsnc, a.asnc, a.vsnc, a.npnc, a.gpnc, a.dpnc, a.apnc, a.vpnc,
-a.nsns, a.gsns, a.dsns, a.asns, a.vsns, a.npns, a.gpns, a.dpns, a.apns, a.vpns {
+a.nsns, a.gsns, a.dsns, a.asns, a.vsns, a.npns, a.gpns, a.dpns, a.apns, a.vpns,
+a.papnsn, a.papgsn, a.papdsn, a.papasn, a.papvsn, a.papnpn, a.papgpn, a.papdpn, a.papapn, a.papvpn,
+a.pdpnsn, a.pdpgsn, a.pdpdsn, a.pdpasn, a.pdpvsn, a.pdpnpn, a.pdpgpn, a.pdpdpn, a.pdpapn, a.pdpvpn,
+a.popnsn, a.popgsn, a.popdsn, a.popasn, a.popvsn, a.popnpn, a.popgpn, a.popdpn, a.popapn, a.popvpn,
+a.pnpnsn, a.pnpgsn, a.pnpdsn, a.pnpasn, a.pnpvsn, a.pnpnpn, a.pnpgpn, a.pnpdpn, a.pnpapn, a.pnpvpn,
+a.pppnsn, a.pppgsn, a.pppdsn, a.pppasn, a.pppvsn, a.pppnpn, a.pppgpn, a.pppdpn, a.pppapn, a.pppvpn {
   color: green;
 }
 a.highlighted {

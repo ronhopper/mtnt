@@ -21,7 +21,8 @@ class Lexeme
     :c  => 'conjunction',
     :n  => 'noun',
     :p  => 'preposition',
-    :rp => 'pronoun',
+    :rp => 'personal pronoun',
+    :rr => 'relative pronoun',
     :v  => 'verb'
   }
 

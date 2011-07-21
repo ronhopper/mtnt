@@ -432,7 +432,7 @@ G431|ἀνεψιός|n|masculine|||||0
 G432|ἄνηθον|n|neuter|||||0
 G433|ἀνήκω|v||||||0
 G434|ἀνήμερος|a||||||0
-G435|ἀνήρ|n|masculine|man||||0
+G435|ἀνήρ|n|masculine|man||a primary word|A man as distinguished from a woman, a god or a youth. In plural it can refer to a group of men and women. Also used to mean husband. {PH}|5
 G436|ἀνθίστημι|v||||||0
 G437|ἀνθομολογέομαι|v||||||0
 G438|ἄνθος|n|neuter|||||0
@@ -1077,7 +1077,7 @@ G1076|γενεαλογία|n|feminine|||||0
 G1077|γενέσια|N-NP||||||0
 G1078|γένεσις|n|feminine|origin||from γίνομαι [G1096]|An origin, source, productive cause or generation. {PH} Used figuratively to mean "nature". {SN} Concerns the manner in which something came to be -- a better translation may be "natural.origin".|3
 G1079|γενετή|n|feminine|||||0
-G1080|γεννάω|v||beget|/beget~ed/begat/|from a variation of γένος [G1085]|Usually of men fathering children, but occasionally of women bearing a child. Also used of the earth producing fruit. It is the causal form of γίγνομαι [G1096], and literally means "cause to come to be". {PH}|3
+G1080|γεννάω|v||beget|/beget~ed/begat/ /was~begat/was~begotten/|from a variation of γένος [G1085]|Usually of men fathering children, but occasionally of women bearing a child. Also used of the earth producing fruit. It is the causal form of γίγνομαι [G1096], and literally means "cause to come to be". {PH}|3
 G1081|γέννημα|n|neuter|||||0
 G1082|Γεννησαρέτ|N-PLI||||||0
 G1083|γέννησις|a||||||0
@@ -2498,7 +2498,7 @@ G2497|Ἰωρίμ|N-PMI||||||0
 G2498|Ἰωσαφάτ|n|indeclinable,masculine,proper|Yehoshaphat[Yah.has.decided]||Hellenization of יְהוֹשָׁפָט [H3092]|Pronounced yeh·hō·shä·fät'. Traditionally rendered Jehoshaphat or Josaphat, meaning "Jehovah has judged". The Hebrew name is derived from יְהֹוָה [H3068] + שָׁפַט [H8199] {BLB} which means "Yah has decided". {MTG} To decide is to make a determination in a case of dispute or wrong-doing. {AHLB}|4
 G2499|Ἰωσή|N-PMI||||||0
 G2500|Ἰωσῆς|N-PMI||||||0
-G2501|Ἰωσήφ|n|indeclinable,masculine,proper|Yoseph[Adding]|||Joseph[YHWH.has.added] Pronounced yō·sāf'. From the Hebrew name [H3130].|0
+G2501|Ἰωσήφ|n|indeclinable,masculine,proper|Yoseph[Adding]||Hellenization of יוֹסֵף [H3130]|Pronounced yō·sāf'. Traditionally rendered Joseph, meaning "Jehovah has added". The Hebrew name is a form of יָסַף [H3254] {BLB} which means "adding". To add is to augment something by increasing it in amount or supply. {MT}|5
 G2502|Ἰωσίας|n|masculine,proper|Yoshiyah[My.pillar.is.Yah]||Hellenization of יֹאשִׁיָּה [H2977]|Pronounced yō·shē·yä'. Traditionally rendered Josiah or Josias, meaning "whom Jehovah heals". The Hebrew name is probably derived from the same root as אָשְׁיָה [H803] + יָהּ [H3050] {BLB} which may mean "my pillar (is) Yah" where a pillar is something which supports the roof. It can be taken as a foundation under someone being pressed down with despair. {AHLB}|2
 G2503|ἰῶτα|n|neuter|||||0
 G2504|κἀγώ|c||||||0
@@ -3001,7 +3001,7 @@ G3000|λατρεύω|v||||||0
 G3001|λάχανον|n|neuter|||||0
 G3002|Λεββαῖος|N-PMI||||||0
 G3003|λεγιών|n|feminine|||||0
-G3004|λέγω|v||say||||0
+G3004|λέγω|v||say|/say~ed/said/|a primary word|To speak, to call, or to tell. {PH}|2
 G3005|λεῖμμα|n|neuter|||||0
 G3006|λεῖος|a||||||0
 G3007|λείπω|v||||||0
@@ -3134,7 +3134,7 @@ G3133|μαραίνω|v||||||0
 G3134|μαράνα θά|INJ||||||0
 G3135|μαργαρίτης|n|masculine|||||0
 G3136|Μάρθα|N-PFI||||||0
-G3137|Μαρία|n|feminine,proper|Mir'yam[Bitter.sea]|||Mary[Rebellion] Pronounced mēr·yäm'. From the Hebrew name [H4813].|0
+G3137|Μαρία|n|feminine,proper|Mir'yam[Bitter.sea]||Hellenization of מִרְיָם [H4813]|Pronounced mēr·yäm'. Traditionally rendered Mary or Miriam, meaning "rebellion". The Hebrew name is derived from מְרִי [H4805] {BLB} which means "bitter sea". Bitter describes a difficult taste or experience. {MT}|5
 G3138|Μᾶρκος|N-PMI||||||0
 G3139|μάρμαρος|n|masculine|||||0
 G3140|μαρτυρέω|v||||||0
@@ -3736,7 +3736,7 @@ G3735|ὄρος|n|neuter|||||0
 G3736|ὀρύσσω|v||||||0
 G3737|ὀρφανός|a||||||0
 G3738|ὀρχέομαι|v||||||0
-G3739|ὅς|p||which||||0
+G3739|ὅς|rr||who|/who~s/who/ /who/which/..n /(to|>)~who/\1~whom/..[mf] /of~who/whose/..[mf] prepositional/whose/of~whom/..[mf]|a primary word|Relative pronoun "who" or "which".|3
 G3740|ὁσάκις|adv||||||0
 G3741|ὅσιος|a||||||0
 G3742|ὁσιότης|n|feminine|||||0
