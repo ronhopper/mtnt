@@ -28,6 +28,8 @@ private
     inflection = normalize_verb(inflection)
     case inflection[2]
     when 'i' then inflect_verb_indicative(lemma, inflection[0, 2], inflection[3, 2])
+    when 's' then inflect_verb_conjunctive(lemma, inflection[0, 3], inflection[3, 2])
+    when 'o' then inflect_verb_conjunctive(lemma, inflection[0, 3], inflection[3, 2])
     when 'm' then inflect_verb_imperative(lemma, inflection[0, 2], inflection[3, 2])
     when 'n' then inflect_verb_infinitive(lemma, inflection[0, 2])
     when 'p' then inflect_verb_participle(lemma, inflection[0, 2], inflection[3, 3])
@@ -65,6 +67,25 @@ private
     [prefix, helper, lemma, suffix, middle].compact.join('~')
   end
 
+  def self.inflect_verb_conjunctive(lemma, tvm, pn)
+    prefix = {
+      '1s' => 'i',    '1p' => 'we',
+      '2s' => 'thou', '2p' => 'ye',
+      '3s' => 'it',   '3p' => 'they'
+    }[pn]
+    middle = {
+      '1s' => 'for~myself',  '1p' => 'for~ourselves',
+      '2s' => 'for~thyself', '2p' => 'for~yourselves',
+      '3s' => 'for~itself',  '3p' => 'for~themselves'
+    }[pn] if tvm[1] == 'm'
+    conjunctive = { 's' => 'might', 'o' => 'would' }[tvm[2]]
+    helper, suffix = {
+      'pa' => ['continue~to', nil], 'pp' => ['continue~to~be', 'ed'],
+      'aa' => [nil, nil],           'ap' => ['be', 'ed']
+    }[tvm[0, 2].sub('m', 'a')]
+    [prefix, conjunctive, helper, lemma, suffix, middle].compact.join('~')
+  end
+
   def self.inflect_verb_imperative(lemma, tv, pn)
     middle = {
       '2s' => 'for~thyself', '2p' => 'for~yourselves',
@@ -90,7 +111,7 @@ private
   def self.inflect_verb_infinitive(lemma, tv)
     middle = 'for~oneself' if tv[1] == 'm'
     helper, suffix = {
-      'pa' => [nil, 'ongoing'],     'pp' => ['be', 'ed~ongoing'],
+      'pa' => ['continue~to', nil], 'pp' => ['continue~to~be', 'ed'],
       'fa' => ['be~about~to', nil], 'fp' => ['be~about~to~be', 'ed'],
       'aa' => [nil, nil],           'ap' => ['be', 'ed'],
       'ra' => ['have', 'ed'],       'rp' => ['have~been', 'ed']
