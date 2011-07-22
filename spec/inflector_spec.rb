@@ -43,6 +43,22 @@ describe Inflector do
     end
   end
 
+  DEMONSTRATIVE_PRONOUN_EXAMPLES = {
+    'nsm' => 'THIS',    'npm' => 'THIS~s',
+    'gsm' => 'of~THIS', 'gpm' => 'of~THIS~s',
+    'dsm' => 'to~THIS', 'dpm' => 'to~THIS~s',
+    'asm' => '>~THIS',  'apm' => '>~THIS~s'
+  }
+
+  # add all genders
+  DEMONSTRATIVE_PRONOUN_EXAMPLES.dup.each do |inflection, form|
+    %w[f n].each do |g|
+      inflection2 = inflection.dup
+      inflection2[2] = g
+      DEMONSTRATIVE_PRONOUN_EXAMPLES[inflection2] = form
+    end
+  end
+
   PERSONAL_PRONOUN_EXAMPLES = {
     'nsm' => 'IT',    'npm' => 'IT~s',
     'gsm' => 'of~IT', 'gpm' => 'of~IT~s',
@@ -253,6 +269,12 @@ describe Inflector do
     end
   end
 
+  DEMONSTRATIVE_PRONOUN_EXAMPLES.each do |inflection, form|
+    it "inflects the demonstrative pronoun 'THIS'+#{inflection}" do
+      Inflector.inflect('THIS', :rd, inflection).should == form
+    end
+  end
+
   PERSONAL_PRONOUN_EXAMPLES.each do |inflection, form|
     it "inflects the personal pronoun 'IT'+#{inflection}" do
       Inflector.inflect('IT', :rp, inflection).should == form
@@ -277,6 +299,10 @@ describe Inflector do
 
   it "inflects the preposition 'FROM'" do
     Inflector.inflect('FROM', :p, nil).should == 'FROM'
+  end
+
+  it "inflects the adverb 'VERY'" do
+    Inflector.inflect('VERY', :d, nil).should == 'VERY'
   end
 
   it "outputs debugging info for unknown inflections" do

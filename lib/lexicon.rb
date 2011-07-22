@@ -45,8 +45,8 @@ private
                :translation => attrs[3],
                :gsubs => parse_gsubs(attrs[4]),
                :etymology => attrs[5],
-               :explanation => attrs[6],
-               :confidence => attrs[7].to_i
+               :explanation => attrs[6] || '',
+               :quality => (attrs[7] || '').split(',').map(&:to_i)
   end
 
   def self.parse_tags(tags)

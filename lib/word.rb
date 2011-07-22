@@ -73,7 +73,17 @@ private
   def collapse_affixes!(x)
     x.sub! /^[>@]~/, ''
     x.gsub!(/~s$/, '') if [:a, :ra, :rp, :rr].include?(lexeme.pos)
-    x.gsub! /~(s|ed|ing|er|est)(~|$)/, '\1\2'
+    x.gsub! /([^jsxz])~s(~|$)/, '\1s\2'
+    x.gsub! /([^aeiou][jsxz])~s(~|$)/, '\1es\2'
+    x.gsub! /([aeiou])([jsxz])~s(~|$)/, '\1\2\2es\3'
+
+
+#    kick~ed = kicked
+#    poke~ed = poked
+
+
+
+    x.gsub! /~(ed|ing|er|est)(~|$)/, '\1\2'
     x.tr! '~', ' '
   end
 

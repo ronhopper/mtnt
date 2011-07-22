@@ -3,13 +3,17 @@
   <div class="span-left"><label>Translation<br>
     <input type="text" name="translation" value="<%= @lexeme.translation %>">
   </label></div>
-  <div class="span-right"><label>Confidence<br>
-    <select name="confidence">
-      <% 0.upto(5) do |i| %>
-        <option value="<%= i %>"<%= ' selected' if @lexeme.confidence == i %>><%= i %></option>
-      <% end %>
-    </select>
-  </label></div>
+  <% unless @lexeme.closed? %>
+    <% %w[Accuracy Flexibility Simplicity Hebraicity Certainty].each_with_index do |label, i| %>
+      <div class="span-right"><label><%= label %><br>
+        <select name="quality[]">
+          <% 0.upto(5) do |j| %>
+            <option value="<%= j %>"<%= ' selected' if @lexeme.quality[i] == j %>><%= j %></option>
+          <% end %>
+        </select> &nbsp;
+      </label></div>
+    <% end %>
+  <% end %>
   <div class="span-left"><fieldset><legend>Tags</legend>
     <% Lexeme::TAGS.each do |tag| %>
       <label>

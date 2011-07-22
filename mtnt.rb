@@ -38,7 +38,7 @@ if ENV['DEVELOPMENT']
     @lexeme.gsubs = Lexicon.parse_gsubs(params[:gsubs].strip.gsub("\n", ' '))
     @lexeme.etymology = params[:etymology].strip.force_encoding('UTF-8')
     @lexeme.explanation = params[:explanation].strip.gsub("\n", ' ').force_encoding('UTF-8')
-    @lexeme.confidence = params[:confidence].to_i
+    @lexeme.quality = params[:quality].map(&:to_i) if params[:quality]
     Lexicon.save
     redirect to("/#{id}")
   end
