@@ -59,9 +59,9 @@ class Formatter
         xlation, meaning = diword[1].split(/[\[\]]/)
         if word.lexeme
           classes = (["word-#{word.id}", word.inflection] + word.lexeme.tags).compact
-          html << %{<a href="/#{word.lexeme_id}" title="#{lexeme_hover(word.lexeme)}" class="#{classes.join(' ')}">#{xlation}</a>}
+          html << %{<a href="/#{word.lexeme_id}" title="#{lexeme_hover(word.lexeme)}" class="#{classes.join(' ')}">#{xlation.tr('.', ' ')}</a>}
           if meaning
-            html[-1] << %{<sup>&nbsp;[#{meaning.gsub(' ', '&nbsp;')}]</sup>}
+            html[-1] << %{<sup>&nbsp;[#{meaning.gsub('.', '&nbsp;')}]</sup>}
           end
           if word.english_note
             html[-1] << %{<sub class="note">[<a title="#{word.english_note}">NOTE</a>]</sub>}

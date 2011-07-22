@@ -32,10 +32,8 @@ class Word
     x = mt
     process_gsubs! x
     process_tags! x
-    x.sub! /^[>@]~/, ''
-    x.gsub!(/~s$/, '') if [:a, :ra, :rp, :rr].include?(lexeme.pos)
-    x.gsub! /~(s|ed|ing|er|est)(~|$)/, '\1\2'
-    x.tr '~.', '  '
+    collapse_affixes! x
+    x
   end
 
 private
@@ -70,6 +68,13 @@ private
         x.capitalize!
       end
     end
+  end
+
+  def collapse_affixes!(x)
+    x.sub! /^[>@]~/, ''
+    x.gsub!(/~s$/, '') if [:a, :ra, :rp, :rr].include?(lexeme.pos)
+    x.gsub! /~(s|ed|ing|er|est)(~|$)/, '\1\2'
+    x.tr! '~', ' '
   end
 
 end
