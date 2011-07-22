@@ -1,39 +1,39 @@
 1:1
- 01 Βίβλος G976+ns capitalize
+ 01 Βίβλος G976+ns U
  02 γενέσεως G1078+gs
  03 Ἰησοῦ G2424+gs
- 04 Χριστοῦ G5547+gs apposition
- 05 υἱοῦ G5207+gs apposition
- 06 Δαυὶδ G1138 genitive
- 07 υἱοῦ G5207+gs apposition
- 08 Ἀβραάμ G11 genitive
+ 04 Χριστοῦ G5547+gs - (the)+ #apposition
+ 05 υἱοῦ G5207+gs - (the)+ #apposition
+ 06 Δαυὶδ G1138 "of+"+ #assumed-genitive
+ 07 υἱοῦ G5207+gs - (the)+ #apposition
+ 08 Ἀβραάμ G11 "of+"+ #assumed-genitive
  09 .
 1:2
  01 Ἀβραὰμ G11
- 02 ἐγέννησεν G1080+aai3s explicit-subject
+ 02 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  03 Ἰσαάκ G2464
  04 ,
  06 Ἰσαὰκ G2464
  05 δὲ G1161
- 07 ἐγέννησεν G1080+aai3s explicit-subject
+ 07 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  08 Ἰακώβ G2384
  09 ,
  11 Ἰακὼβ G2384
  10 δὲ G1161
- 12 ἐγέννησεν G1080+aai3s explicit-subject
+ 12 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  13 Ἰούδαν G2455+as
  14 καὶ G2532
  00 τοὺς G3588+apm
  16 ἀδελφοὺς G80+ap
- 15 αὐτοῦ G846+gsm
+ 15 αὐτοῦ G846+gsm %
  17 ,
 1:3
  02 Ἰούδας G2455+ns
  01 δὲ G1161
- 03 ἐγέννησεν G1080+aai3s explicit-subject
+ 03 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  04 Φάρες G5329
  05 καὶ G2532
@@ -45,39 +45,39 @@
  09 ,
  11 Φάρες G5329
  10 δὲ G1161
- 12 ἐγέννησεν G1080+aai3s explicit-subject
+ 12 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  13 Ἐσρώμ G2074
  14 ,
  16 Ἐσρὼμ G2074
  15 δὲ G1161
- 17 ἐγέννησεν G1080+aai3s explicit-subject
+ 17 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  18 Ἀράμ G689
  19 ,
 1:4
  02 Ἀρὰμ G689
  01 δὲ G1161
- 03 ἐγέννησεν G1080+aai3s explicit-subject
+ 03 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  04 Ἀμιναδάβ G284
  05 ,
  07 Ἀμιναδὰβ G284
  06 δὲ G1161
- 08 ἐγέννησεν G1080+aai3s explicit-subject
+ 08 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  09 Ναασσών G3476
  10 ,
  12 Ναασσὼν G3476
  11 δὲ G1161
- 13 ἐγέννησεν G1080+aai3s explicit-subject
+ 13 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  14 Σαλμών G4533
  15 ,
 1:5
  02 Σαλμὼν G4533
  01 δὲ G1161
- 03 ἐγέννησεν G1080+aai3s explicit-subject
+ 03 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  04 Βόες G1003
  05 ἐκ G1537
@@ -86,7 +86,7 @@
  07 ,
  09 Βόες G1003
  08 δὲ G1161
- 10 ἐγέννησεν G1080+aai3s explicit-subject
+ 10 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  11 Ἰωβὴδ G5601
  12 ἐκ G1537
@@ -95,198 +95,198 @@
  14 ,
  16 Ἰωβὴδ G5601
  15 δὲ G1161
- 17 ἐγέννησεν G1080+aai3s explicit-subject
+ 17 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  18 Ἰεσσαὶ G2421
  19 ,
 1:6
  02 Ἰεσσαὶ G2421
  01 δὲ G1161
- 03 ἐγέννησεν G1080+aai3s explicit-subject
+ 03 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  04 Δαυὶδ G1138
  05 τὸν G3588+asm
  06 βασιλέα G935+as
  07 .
  09 Δαυὶδ G1138
- 08 δὲ G1161 capitalize
- 10 ἐγέννησεν G1080+aai3s explicit-subject
+ 08 δὲ G1161 U
+ 10 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  11 Σολομῶνα G4672+as
  12 ἐκ G1537
- 13 τῆς G3588+gsf prepositional implicit-woman
+ 13 τῆς G3588+gsf - +(woman)
  00 τοῦ G3588+gsm
  14 Οὐρίου G3774+gs
  15 ,
 1:7
  02 Σολομὼν G4672+ns
  01 δὲ G1161
- 03 ἐγέννησεν G1080+aai3s explicit-subject
+ 03 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  04 Ῥοβοάμ G4497
  05 ,
  07 Ῥοβοαμ G4497
  06 δὲ G1161
- 08 ἐγέννησεν G1080+aai3s explicit-subject
+ 08 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  09 Ἀβιά G7
  10 ,
  12 Ἀβιὰ G7
  11 δὲ G1161
- 13 ἐγέννησεν G1080+aai3s explicit-subject
+ 13 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
- 14 Ἀσάφ G760 note:Manuscript+evidence+strongly+supports+the+spelling+Ἀσάφ+(e.g.,+Psalm+50:1),+however+it+is+most+likely+an+early+clerical+error+which+later+manuscripts+correct+to+Ἀσά,+the+king+of+Yehudah+(see+1+Kings+15:9).+{METZ}
+ 14 Ἀσάφ G760 gnote:Manuscript+evidence+strongly+supports+the+spelling+Ἀσάφ+(e.g.,+Psalm+50:1),+however+it+is+most+likely+an+early+clerical+error+which+later+manuscripts+correct+to+Ἀσά,+the+king+of+Yehudah+(see+1+Kings+15:9).+{METZ}+This+translation+assumes+a+reference+to+the+latter.
  15 ,
 1:8
- 02 Ἀσὰφ G760 note:Manuscript+evidence+strongly+supports+the+spelling+Ἀσάφ+(e.g.,+Psalm+50:1),+however+it+is+most+likely+an+early+clerical+error+which+later+manuscripts+correct+to+Ἀσά,+the+king+of+Yehudah+(see+1+Kings+15:9).+{METZ}
+ 02 Ἀσὰφ G760 gnote:Manuscript+evidence+strongly+supports+the+spelling+Ἀσάφ+(e.g.,+Psalm+50:1),+however+it+is+most+likely+an+early+clerical+error+which+later+manuscripts+correct+to+Ἀσά,+the+king+of+Yehudah+(see+1+Kings+15:9).+{METZ}+This+translation+assumes+a+reference+to+the+latter.
  01 δὲ G1161
- 03 ἐγέννησεν G1080+aai3s explicit-subject
+ 03 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  04 Ἰωσαφάτ G2498
  05 ,
  07 Ἰωσαφὰτ G2498
  06 δὲ G1161
- 08 ἐγέννησεν G1080+aai3s explicit-subject
+ 08 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  09 Ἰωράμ G2496
  10 ,
  12 Ἰωρὰμ G2496
  11 δὲ G1161
- 13 ἐγέννησεν G1080+aai3s explicit-subject
+ 13 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  14 Ὀζίαν G3604+as
  15 ,
 1:9
  02 Ὀζίας G3604+ns
  01 δὲ G1161
- 03 ἐγέννησεν G1080+aai3s explicit-subject
+ 03 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  04 Ἰωαθάμ G2488
  05 ,
  07 Ἰωαθὰμ G2488
  06 δὲ G1161
- 08 ἐγέννησεν G1080+aai3s explicit-subject
+ 08 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  09 Ἀχάζ G881
  10 ,
  12 Ἀχὰζ G881
  11 δὲ G1161
- 13 ἐγέννησεν G1080+aai3s explicit-subject
+ 13 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  14 Ἑζεκίαν G1478+as
  15 ,
 1:10
  02 Ἑζεκίας G1478+ns
  01 δὲ G1161
- 03 ἐγέννησεν G1080+aai3s explicit-subject
+ 03 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  04 Μανασσῆ G3128+as
  05 ,
  07 Μανασσῆς G3128+ns
  06 δὲ G1161
- 08 ἐγέννησεν G1080+aai3s explicit-subject
+ 08 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
- 09 Ἀμώς G300 note:Manuscript+evidence+strongly+supports+the+spelling+Ἀμώς+(e.g.,+2+Kings+19:2),+however+it+is+most+likely+an+early+clerical+error+which+later+manuscripts+correct+to+Ἀμών,+the+king+of+Yehudah+(see+2+Kings+21:19).+{METZ}
+ 09 Ἀμώς G300 gnote:Manuscript+evidence+strongly+supports+the+spelling+Ἀμώς+(e.g.,+2+Kings+19:2),+however+it+is+most+likely+an+early+clerical+error+which+later+manuscripts+correct+to+Ἀμών,+the+king+of+Yehudah+(see+2+Kings+21:19).+{METZ}+This+translation+assumes+a+reference+to+the+latter.
  10 ,
- 12 Ἀμὼς G300 note:Manuscript+evidence+strongly+supports+the+spelling+Ἀμώς+(e.g.,+2+Kings+19:2),+however+it+is+most+likely+an+early+clerical+error+which+later+manuscripts+correct+to+Ἀμών,+the+king+of+Yehudah+(see+2+Kings+21:19).+{METZ}
+ 12 Ἀμὼς G300 gnote:Manuscript+evidence+strongly+supports+the+spelling+Ἀμώς+(e.g.,+2+Kings+19:2),+however+it+is+most+likely+an+early+clerical+error+which+later+manuscripts+correct+to+Ἀμών,+the+king+of+Yehudah+(see+2+Kings+21:19).+{METZ}+This+translation+assumes+a+reference+to+the+latter.
  11 δὲ G1161
- 13 ἐγέννησεν G1080+aai3s explicit-subject
+ 13 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  14 Ἰωσίαν G2502+as
  15 ,
 1:11
  02 Ἰωσίας G2502+ns
  01 δὲ G1161
- 03 ἐγέννησεν G1080+aai3s explicit-subject note:In+order+to+match+the+genealogy+in+1+Chronicles+3:15-16,+some+manuscripts+add+&quot;τὸν+Ἰωακείμ,+Ἰωακεὶμ+δὲ+ἐγέννησεν&quot;+(an+extra+generation+for+Yehoyaqiym,+between+Yoshiyah+and+Yekhan'yah),+but+adding+this+throws+off+the+count+to+15+generations,+rather+than+14+as+stated.+{METZ}
+ 03 ἐγέννησεν G1080+aai3s - gnote:Some+manuscripts+add+&quot;τὸν+Ἰωακείμ,+Ἰωακεὶμ+δὲ+ἐγέννησεν&quot;+but+it+is+doubtful+that+this+was+in+the+original+text.+{METZ} enote:In+order+to+match+the+genealogy+in+1+Chronicles+3:15-16,+some+manuscripts+add+&quot;Yehoyaqiym,+and+now+Yehoyaqiym+brought+forth&quot;,+but+it+is+doubtful+that+this+was+in+the+original+text.+Also,+adding+this+conflicts+with+the+count+of+14+generations+in+verse+1:17.+{METZ}
  00 τὸν G3588+asm
  04 Ἰεχονίαν G2423+as
  05 καὶ G2532
  00 τοὺς G3588+apm
  07 ἀδελφοὺς G80+ap
- 06 αὐτοῦ G846+gsm
+ 06 αὐτοῦ G846+gsm %
  08 ἐπὶ G1909 temporal-genitive
- 09 τῆς G3588+gsf prepositional
- 10 μετοικεσίας G3350+gs prepositional
+ 09 τῆς G3588+gsf -
+ 10 μετοικεσίας G3350+gs -
  11 Βαβυλῶνος G897+gs
  12 .
 1:12
  02 Μετὰ G3326 temporal-accusative
- 01 δὲ G1161 capitalize
+ 01 δὲ G1161 U
  03 τὴν G3588+asf
  04 μετοικεσίαν G3350+as
  05 Βαβυλῶνος G897+gs
  06 Ἰεχονίας G2423+ns
- 07 ἐγέννησεν G1080+aai3s explicit-subject
+ 07 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  08 Σαλαθιήλ G4528
  09 ,
  11 Σαλαθιὴλ G4528
  10 δὲ G1161
- 12 ἐγέννησεν G1080+aai3s explicit-subject
+ 12 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  13 Ζοροβαβέλ G2216
  14 ,
 1:13
  02 Ζοροβαβὲλ G2216
  01 δὲ G1161
- 03 ἐγέννησεν G1080+aai3s explicit-subject
+ 03 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  04 Ἀβιούδ G10
  05 ,
  07 Ἀβιοὺδ G10
  06 δὲ G1161
- 08 ἐγέννησεν G1080+aai3s explicit-subject
+ 08 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  09 Ἐλιακίμ G1662
  10 ,
  12 Ἐλιακὶμ G1662
  11 δὲ G1161
- 13 ἐγέννησεν G1080+aai3s explicit-subject
+ 13 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  14 Ἀζώρ G107
  15 ,
 1:14
  02 Ἀζὼρ G107
  01 δὲ G1161
- 03 ἐγέννησεν G1080+aai3s explicit-subject
+ 03 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  04 Σαδώκ G4524
  05 ,
  07 Σαδὼκ G4524
  06 δὲ G1161
- 08 ἐγέννησεν G1080+aai3s explicit-subject
+ 08 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  09 Ἀχίμ G885
  10 ,
  12 Ἀχὶμ G885
  11 δὲ G1161
- 13 ἐγέννησεν G1080+aai3s explicit-subject
+ 13 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  14 Ἐλιούδ G1664
  15 ,
 1:15
  02 Ἐλιοὺδ G1664
  01 δὲ G1161
- 03 ἐγέννησεν G1080+aai3s explicit-subject
+ 03 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  04 Ἐλεάζαρ G1648
  05 ,
  07 Ἐλεάζαρ G1648
  06 δὲ G1161
- 08 ἐγέννησεν G1080+aai3s explicit-subject
+ 08 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  09 Ματθάν G3157
  10 ,
  12 Ματθὰν G3157
  11 δὲ G1161
- 13 ἐγέννησεν G1080+aai3s explicit-subject
+ 13 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  14 Ἰακώβ G2384
  15 ,
 1:16
  02 Ἰακὼβ G2384
  01 δὲ G1161
- 03 ἐγέννησεν G1080+aai3s explicit-subject
+ 03 ἐγέννησεν G1080+aai3s -
  00 τὸν G3588+asm
  04 Ἰωσὴφ G2501
  05 τὸν G3588+asm
@@ -294,10 +294,43 @@
  07 Μαρίας G3137+gs
  08 ,
  09 ἐξ G1537
- 10 ἧς G3739+gsf prepositional
- 11 ἐγεννήθη G1080+api3s explicit-subject
+ 10 ἧς G3739+gsf -
+ 11 ἐγεννήθη G1080+api3s -
  12 Ἰησοῦς G2424+ns
- 13 ὁ G3588+nsm implicit-man
+ 13 ὁ G3588+nsm +(man)
  14 λεγόμενος G3004+pppnsm
  15 Χριστός G5547+ns
  16 .
+1:17
+ 02 Πᾶσαι G3956+npf
+ 01 οὖν G3767 U
+ 03 αἱ G3588+npf
+ 04 γενεαὶ G1074+np
+ 05 ἀπὸ G575
+ 06 Ἀβραὰμ G11
+ 07 ἕως G2193
+ 08 Δαυὶδ G1138
+ 10 γενεαὶ G1074+np
+ 09 δεκατέσσαρες G1180+npf [are]+
+ 11 ,
+ 12 καὶ G2532
+ 13 ἀπὸ G575
+ 14 Δαυὶδ G1138
+ 15 ἕως G2193
+ 16 τῆς G3588+gsf -
+ 17 μετοικεσίας G3350+gs -
+ 18 Βαβυλῶνος G897+gs
+ 20 γενεαὶ G1074+np
+ 19 δεκατέσσαρες G1180+npf [are]+
+ 21 ,
+ 22 καὶ G2532
+ 23 ἀπὸ G575
+ 24 τῆς G3588+gsf -
+ 25 μετοικεσίας G3350+gs -
+ 26 Βαβυλῶνος G897+gs
+ 27 ἕως G2193
+ 28 τοῦ G3588+gsm -
+ 29 Χριστοῦ G5547+gs -
+ 31 γενεαὶ G1074+np
+ 30 δεκατέσσαρες G1180+npf [are]+
+ 32 .

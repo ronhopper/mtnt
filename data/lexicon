@@ -37,7 +37,7 @@ G36|ἀγενής|a||||||0
 G37|ἁγιάζω|v||||||0
 G38|ἁγιασμός|n|masculine|||||0
 G39|ἅγιος|a||||||0
-G40|ἅγιος|a||set.apart|||holy, awful|0
+G40|ἅγιος|a||set-apart|||holy, awful|0
 G41|ἁγιότης|n|feminine|||||0
 G42|ἁγιωσύνη|n|feminine|||||0
 G43|ἀγκάλη|n|feminine|||||0
@@ -52,7 +52,7 @@ G51|ἀγνόημα|n|neuter|||||0
 G52|ἄγνοια|n|feminine|||||0
 G53|ἁγνός|a||||||0
 G54|ἁγνότης|n|feminine|||||0
-G55|ἁγνῶς|adv||||||0
+G55|ἁγνῶς|d|g|||||0
 G56|ἀγνωσία|n|feminine|||||0
 G57|ἄγνωστος|a||||||0
 G58|ἀγορά|n|feminine|||||0
@@ -77,22 +77,22 @@ G76|Ἀδάμ|N-PMI||||||0
 G77|ἀδάπανος|a||||||0
 G78|Ἀδδί|N-PMI||||||0
 G79|ἀδελφή|n|feminine|||||0
-G80|ἀδελφός|n|masculine|brother||from ἄλφα [G1] (as a connective particle) + δελφύς (the womb)|A son of the same mother, literally "same womb". Can also be used of kinsman, colleagues, or as a term of affection such as a wife might call her husband. In the plural, can include sisters. {PH}|5
+G80|ἀδελφός|n|masculine|brother||from ἄλφα [G1] (as a connective particle) + δελφύς (the womb)|A son of the same mother, literally "same womb". Can also be used of kinsman, colleagues, or as a term of affection such as a wife might call her husband. In the plural, can include sisters. {PH} In ancient Hebrew, a brother is one who stands between the enemy and the family; a protector. {NTGH}|3,3,3,3,3
 G81|ἀδελφότης|n|feminine|||||0
 G82|ἄδηλος|a||||||0
 G83|ἀδηλότης|n|feminine|||||0
-G84|ἀδήλως|adv||||||0
+G84|ἀδήλως|d|g|||||0
 G85|ἀδημονέω|v||||||0
 G86|ᾅδης|N-PLI||||||0
 G87|ἀδιάκριτος|a||||||0
 G88|ἀδιάλειπτος|a||||||0
-G89|ἀδιαλείπτως|adv||||||0
+G89|ἀδιαλείπτως|d|g|||||0
 G90|ἀδιαφθορία|n|feminine|||||0
 G91|ἀδικέω|v||||||0
 G92|ἀδίκημα|n|neuter|||||0
 G93|ἀδικία|n|feminine|||||0
 G94|ἄδικος|a||||||0
-G95|ἀδίκως|adv||||||0
+G95|ἀδίκως|d|g|||||0
 G96|ἀδόκιμος|a||||||0
 G97|ἄδολος|a||||||0
 G98|Ἀδραμυττηνός|N-PLI||||||0
@@ -101,7 +101,7 @@ G100|ἁδρότης|n|feminine|||||0
 G101|ἀδυνατέω|v||||||0
 G102|ἀδύνατος|a||||||0
 G103|ᾄδω|v||sing||||0
-G104|ἀεί|adv||||||0
+G104|ἀεί|d|g|||||0
 G105|ἀετός|n|masculine|||||0
 G106|ἄζυμος|a||||||0
 G107|Ἀζώρ|n|indeclinable,masculine,proper|Azur[Helper]||Hellenization of עַזּוּר [H5809]|Pronounced az·zür'. Traditionally rendered Azor or Azur or Azzur, meaning "he that assists". The Hebrew name derives from עָזַר [H5826] {BLB} and means "helper". To help is to give assistance or support to. {MT}|3
@@ -144,7 +144,7 @@ G143|αἰσθάνομαι|v||||||0
 G144|αἴσθησις|n|feminine|||||0
 G145|αἰσθητήριον|n|neuter|||||0
 G146|αἰσχροκερδής|a||||||0
-G147|αἰσχροκερδῶς|adv||||||0
+G147|αἰσχροκερδῶς|d|g|||||0
 G148|αἰσχρολογία|n|feminine|||||0
 G149|αἴσχρον|n|neuter|||||0
 G150|αἰσχρός|a||||||0
@@ -168,7 +168,7 @@ G167|ἀκαθαρσία|n|feminine|||||0
 G168|ἀκαθάρτης|n|feminine|||||0
 G169|ἀκάθαρτος|a||||||0
 G170|ἀκαιρέομαι|v||||||0
-G171|ἀκαίρως|adv||||||0
+G171|ἀκαίρως|d|g|||||0
 G172|ἄκακος|a||||||0
 G173|ἄκανθα|n|feminine|||||0
 G174|ἀκάνθινος|a||||||0
@@ -185,7 +185,7 @@ G184|Ἀκελδαμά|N-PLI||||||0
 G185|ἀκέραιος|a||||||0
 G186|ἀκλινής|a||||||0
 G187|ἀκμάζω|v||||||0
-G188|ἀκμήν|adv||||||0
+G188|ἀκμήν|d|g|||||0
 G189|ἀκοή|n|feminine|||||0
 G190|ἀκολουθέω|v||||||0
 G191|ἀκούω|v||||||0
@@ -196,7 +196,7 @@ G195|ἀκρίβεια|n|feminine|||||0
 G196|ἀκριβής|a||||||0
 G197|ἀκριβέστερον|a||||||0
 G198|ἀκριβόω|v||||||0
-G199|ἀκριβῶς|adv||||||0
+G199|ἀκριβῶς|d|g|||||0
 G200|ἀκρίς|n|feminine|||||0
 G201|ἀκροατήριον|n|neuter|||||0
 G202|ἀκροατής|n|masculine|||||0
@@ -206,7 +206,7 @@ G205|ἀκροθίνιον|n|neuter|||||0
 G206|ἄκρον|a||||||0
 G207|Ἀκύλας|N-PMI||||||0
 G208|ἀκυρόω|v||||||0
-G209|ἀκωλύτως|adv||||||0
+G209|ἀκωλύτως|d|g|||||0
 G210|ἄκων|a||||||0
 G211|ἀλάβαστρον|n|masculine|||||0
 G212|ἀλαζονεία|n|feminine|||||0
@@ -227,14 +227,14 @@ G226|ἀληθεύω|v||||||0
 G227|ἀληθής|a||||||0
 G228|ἀληθινός|a||||||0
 G229|ἀλήθω|v||||||0
-G230|ἀληθῶς|adv||||||0
+G230|ἀληθῶς|d|g|||||0
 G231|ἁλιεύς|n|masculine|||||0
 G232|ἁλιεύω|v||||||0
 G233|ἁλίζω|v||||||0
 G234|ἀλίσγημα|n|neuter|||||0
-G235|ἀλλά|c||but.rather||||0
+G235|ἀλλά|c||but.rather||||
 G236|ἀλλάσσω|v||||||0
-G237|ἀλλαχόθεν|adv||||||0
+G237|ἀλλαχόθεν|d|g|||||0
 G238|ἀλληγορέω|v||||||0
 G239|ἁλληλουϊά|IMP||||||0
 G240|ἀλλήλων|C||||||0
@@ -244,7 +244,7 @@ G243|ἄλλος|a||||||0
 G244|ἀλλοτριεπίσκοπος|n|masculine|||||0
 G245|ἀλλότριος|a||||||0
 G246|ἀλλόφυλος|a||||||0
-G247|ἄλλως|adv||||||0
+G247|ἄλλως|d|g|||||0
 G248|ἀλοάω|v||||||0
 G249|ἄλογος|a||||||0
 G250|ἀλόη|n|feminine|||||0
@@ -271,7 +271,7 @@ G270|ἀμάω|v||||||0
 G271|ἀμέθυστος|n|feminine|||||0
 G272|ἀμελέω|v||||||0
 G273|ἄμεμπτος|a||||||0
-G274|ἀμέμπτως|adv||||||0
+G274|ἀμέμπτως|d|g|||||0
 G275|ἀμέριμνος|a||||||0
 G276|ἀμετάθετος|a||||||0
 G277|ἀμετακίνητος|a||||||0
@@ -314,7 +314,7 @@ G313|ἀναγεννάω|v||||||0
 G314|ἀναγινώσκω|v||||||0
 G315|ἀναγκάζω|v||||||0
 G316|ἀναγκαῖος|a||||||0
-G317|ἀναγκαστῶς|adv||||||0
+G317|ἀναγκαστῶς|d|g|||||0
 G318|ἀνάγκη|n|feminine|||||0
 G319|ἀναγνωρίζω|v||||||0
 G320|ἀνάγνωσις|n|feminine|||||0
@@ -366,9 +366,9 @@ G365|ἀνανεόω|v||||||0
 G366|ἀνανήφω|v||||||0
 G367|Ἁνανίας|N-PMI||||||0
 G368|ἀναντίρρητος|a||||||0
-G369|ἀναντιρρήτως|adv||||||0
+G369|ἀναντιρρήτως|d|g|||||0
 G370|ἀνάξιος|a||||||0
-G371|ἀναξίως|adv||||||0
+G371|ἀναξίως|d|g|||||0
 G372|ἀνάπαυσις|n|feminine|||||0
 G373|ἀναπαύω|v||||||0
 G374|ἀναπείθω|v||||||0
@@ -457,7 +457,7 @@ G456|ἀνοικοδομέω|v||||||0
 G457|ἄνοιξις|n|feminine|||||0
 G458|ἀνομία|n|feminine|||||0
 G459|ἄνομος|a||||||0
-G460|ἀνόμως|adv||||||0
+G460|ἀνόμως|d|g|||||0
 G461|ἀνορθόω|v||||||0
 G462|ἀνόσιος|a||||||0
 G463|ἀνοχή|n|feminine|||||0
@@ -478,7 +478,7 @@ G477|ἀντίθεσις|n|feminine|||||0
 G478|ἀντικαθίστημι|v||||||0
 G479|ἀντικαλέω|v||||||0
 G480|ἀντίκειμαι|v||||||0
-G481|ἀντικρύ|adv||||||0
+G481|ἀντικρύ|d|g|||||0
 G482|ἀντιλαμβάνω|v||||||0
 G483|ἀντιλέγω|v||||||0
 G484|ἀντίλημψις|n|feminine|||||0
@@ -492,7 +492,7 @@ G491|Ἀντιοχεύς|n|masculine|||||0
 G492|ἀντιπαρέρχομαι|v||||||0
 G493|Ἀντίπας|N-PMI||||||0
 G494|Ἀντιπατρίς|N-PLI||||||0
-G495|ἀντιπέραν|adv||||||0
+G495|ἀντιπέραν|d|g|||||0
 G496|ἀντιπίπτω|v||||||0
 G497|ἀντιστρατεύομαι|v||||||0
 G498|ἀντιτάσσω|v||||||0
@@ -504,16 +504,16 @@ G503|ἀντοφθαλμέω|v||||||0
 G504|ἄνυδρος|a||||||0
 G505|ἀνυπόκριτος|a||||||0
 G506|ἀνυπότακτος|a||||||0
-G507|ἄνω|adv||||||0
+G507|ἄνω|d|g|||||0
 G508|ἀνώγεον|n|neuter|||||0
-G509|ἄνωθεν|adv||||||0
+G509|ἄνωθεν|d|g|||||0
 G510|ἀνωτερικός|a||||||0
 G511|ἀνώτερος|a||||||0
 G512|ἀνωφελής|a||||||0
 G513|ἀξίνη|n|feminine|||||0
 G514|ἄξιος|a||||||0
 G515|ἀξιόω|v||||||0
-G516|ἀξίως|adv||||||0
+G516|ἀξίως|d|g|||||0
 G517|ἀόρατος|a||||||0
 G518|ἀπαγγέλλω|v||||||0
 G519|ἀπάγχω|v||||||0
@@ -527,11 +527,11 @@ G526|ἀπαλλοτριόω|v||||||0
 G527|ἁπαλός|a||||||0
 G528|ἀπαντάω|v||||||0
 G529|ἀπάντησις|n|feminine|||||0
-G530|ἅπαξ|adv||||||0
+G530|ἅπαξ|d|g|||||0
 G531|ἀπαράβατος|a||||||0
 G532|ἀπαρασκεύαστος|a||||||0
 G533|ἀπαρνέομαι|v||||||0
-G534|ἀπάρτι|adv||||||0
+G534|ἀπάρτι|d|g|||||0
 G535|ἀπαρτισμός|n|masculine|||||0
 G536|ἀπαρχή|n|feminine|||||0
 G537|ἅπας|a||||||0
@@ -560,7 +560,7 @@ G559|Ἀπελλῆς|N-PMI||||||0
 G560|ἀπελπίζω|v||||||0
 G561|ἀπέναντι|prep||||||0
 G562|ἀπέραντος|a||||||0
-G563|ἀπερισπάστως|adv||||||0
+G563|ἀπερισπάστως|d|g|||||0
 G564|ἀπερίτμητος|a||||||0
 G565|ἀπέρχομαι|v||||||0
 G566|ἀπέχει|v||||||0
@@ -571,8 +571,8 @@ G570|ἀπιστία|n|feminine|||||0
 G571|ἄπιστος|a||||||0
 G572|ἁπλότης|n|feminine|||||0
 G573|ἁπλοῦς|a||||||0
-G574|ἁπλῶς|adv||||||0
-G575|ἀπό|prep||from|||from of~X = from X / away from X|0
+G574|ἁπλῶς|d|g|||||0
+G575|ἀπό|p||from||a primary word|A preposition with the genitive. Of place, it denotes action from the surface of something away from it. Of time, it denotes the period since that time. Of origin, it denotes the source/instrument/agent from which something came. {PH}|
 G576|ἀποβαίνω|v||||||0
 G577|ἀποβάλλω|v||||||0
 G578|ἀποβλέπω|v||||||0
@@ -661,7 +661,7 @@ G660|ἀποτινάσσω|v||||||0
 G661|ἀποτίνω|v||||||0
 G662|ἀποτολμάω|v||||||0
 G663|ἀποτομία|n|feminine|||||0
-G664|ἀποτόμως|adv||||||0
+G664|ἀποτόμως|d|g|||||0
 G665|ἀποτρέπω|v||||||0
 G666|ἀπουσία|n|feminine|||||0
 G667|ἀποφέρω|v||||||0
@@ -675,7 +675,7 @@ G674|ἀποψύχω|v||||||0
 G675|Ἄππιος|N-PLI||||||0
 G676|ἀπρόσιτος|a||||||0
 G677|ἀπρόσκοπος|a||||||0
-G678|ἀπροσωπολήμπτως|adv||||||0
+G678|ἀπροσωπολήμπτως|d|g|||||0
 G679|ἄπταιστος|a||||||0
 G680|ἅπτομαι|v||||||0
 G681|ἅπτω|v||||||0
@@ -734,7 +734,7 @@ G733|ἀρσενοκοίτης|n|masculine|||||0
 G734|Ἀρτεμᾶς|N-PMI||||||0
 G735|Ἄρτεμις|N-PFI||||||0
 G736|ἀρτέμων|n|masculine|||||0
-G737|ἄρτι|adv||||||0
+G737|ἄρτι|d|g|||||0
 G738|ἀρτιγέννητος|a||||||0
 G739|ἄρτιος|a||||||0
 G740|ἄρτος|n|masculine|||||0
@@ -777,7 +777,7 @@ G776|ἀσιτία|n|feminine|||||0
 G777|ἄσιτος|a||||||0
 G778|ἀσκέω|v||||||0
 G779|ἀσκός|n|masculine|||||0
-G780|ἀσμένως|adv||||||0
+G780|ἀσμένως|d|g|||||0
 G781|ἄσοφος|a||||||0
 G782|ἀσπάζομαι|v||||||0
 G783|ἀσπασμός|n|masculine|||||0
@@ -785,7 +785,7 @@ G784|ἄσπιλος|a||||||0
 G785|ἀσπίς|n|masculine|||||0
 G786|ἄσπονδος|a||||||0
 G787|ἀσσάριον|n|neuter|||||0
-G788|ἆσσον|adv||||||0
+G788|ἆσσον|d|g|||||0
 G789|Ἆσσος|N-PLI||||||0
 G790|ἀστατέω|v||||||0
 G791|ἀστεῖος|a||||||0
@@ -803,15 +803,15 @@ G802|ἀσύνθετος|a||||||0
 G803|ἀσφάλεια|n|feminine|||||0
 G804|ἀσφαλής|a||||||0
 G805|ἀσφαλίζω|v||||||0
-G806|ἀσφαλῶς|adv||||||0
+G806|ἀσφαλῶς|d|g|||||0
 G807|ἀσχημονέω|v||||||0
 G808|ἀσχημοσύνη|n|feminine|||||0
 G809|ἀσχήμων|a||||||0
 G810|ἀσωτία|n|feminine|||||0
-G811|ἀσώτως|adv||||||0
+G811|ἀσώτως|d|g|||||0
 G812|ἀτακτέω|v||||||0
 G813|ἄτακτος|a||||||0
-G814|ἀτάκτως|adv||||||0
+G814|ἀτάκτως|d|g|||||0
 G815|ἄτεκνος|a||||||0
 G816|ἀτενίζω|v||||||0
 G817|ἄτερ|prep||||||0
@@ -836,16 +836,16 @@ G835|αὐλίζομαι|v||||||0
 G836|αὐλός|n|masculine|||||0
 G837|αὐξάνω|v||||||0
 G838|αὔξησις|n|feminine|||||0
-G839|αὔριον|adv||||||0
+G839|αὔριον|d|g|||||0
 G840|αὐστηρός|a||||||0
 G841|αὐτάρκεια|n|feminine|||||0
 G842|αὐτάρκης|a||||||0
 G843|αὐτοκατάκριτος|a||||||0
 G844|αὐτόματος|a||||||0
 G845|αὐτόπτης|n|masculine|||||0
-G846|αὐτός|rp||it|/of~it/his/..m /of~it/her/..f /of~it/its/..n|a primary word|The 3rd person personal pronouns (he, she, it, they, etc.) or reflexively as self (himself, herself, itself, themselves, etc.).  Also used as a reference to the "same". {BLB}|3
-G847|αὐτοῦ|adv||||||0
-G848|αὑτοῦ|p||||||0
+G846|αὐτός|rp||it|/it/they/.p. /it/he/..m /it/she/..f /of~they/of~them/ /of~he/of~him/ /of~she/of~her/ /of~they/to~them/ /to~he/to~him/ /to~she/to~her/ />~they/>~them/ />~he/>~him/ />~she/>~her/ %/of~them/their/ %/of~him/his/ %/of~her/her/ %/of~it/its/|a primary word|The 3rd person personal pronouns (he, she, it, they, etc.) or reflexively as self (himself, herself, itself, themselves, etc.).  Also used as a reference to the "same". {BLB}|
+G847|αὐτοῦ|d|g|||||0
+G848|αὑτοῦ|?||||||0
 G849|αὐτόχειρ|a||||||0
 G850|αὐχμηρός|a||||||0
 G851|ἀφαιρέω|v||||||0
@@ -866,8 +866,8 @@ G865|ἀφιλάγαθος|a||||||0
 G866|ἀφιλάργυρος|a||||||0
 G867|ἄφιξις|n|feminine|||||0
 G868|ἀφίστημι|v||||||0
-G869|ἄφνω|adv||||||0
-G870|ἀφόβως|adv||||||0
+G869|ἄφνω|d|g|||||0
+G870|ἀφόβως|d|g|||||0
 G871|ἀφομοιόω|v||||||0
 G872|ἀφοράω|v||||||0
 G873|ἀφορίζω|v||||||0
@@ -914,7 +914,7 @@ G913|Βαράκ|N-PMI||||||0
 G914|Βαραχίας|N-PMI||||||0
 G915|βάρβαρος|a||||||0
 G916|βαρέω|v||||||0
-G917|βαρέως|adv||||||0
+G917|βαρέως|d|g|||||0
 G918|Βαρθολομαῖος|N-PMI||||||0
 G919|Βαριησοῦ|N-PMI||||||0
 G920|Βαριωνᾶ|N-PMI||||||0
@@ -932,7 +932,7 @@ G931|βάσανος|n|masculine|||||0
 G932|βασιλεία|n|feminine|||||0
 G933|βασίλειος|a||||||0
 G934|βασίλειος|a||||||0
-G935|βασιλεύς|n|masculine|king||uncertain|A king, exercising the functions of commander-in-chief, priest, and judge. {PH}|5
+G935|βασιλεύς|n|masculine|king||uncertain|A king, exercising the functions of commander-in-chief, priest, and judge. {PH}|3,3,3,3,3
 G936|βασιλεύω|v||||||0
 G937|βασιλικός|a||||||0
 G938|βασίλισσα|n|feminine|||||0
@@ -973,7 +973,7 @@ G972|βίαιος|a||||||0
 G973|βιαστής|n|masculine|||||0
 G974|βιβλαρίδιον|n|neuter|small.scroll|||A diminutive of [G976].|0
 G975|βιβλίον|n|neuter|scroll|||booklet, letter, papyrus strip A strip of Egyptian papyrus. Implies something briefer than [G976], though it is often used the same way.|0
-G976|βίβλος|n|feminine|book||uncertain, probably foreign|The inner bark of the papyrus (βύβλος), or a book, of which the leaves were made of this bark. {PH}|5
+G976|βίβλος|n|feminine|book||uncertain, probably foreign|The inner bark of the papyrus (βύβλος), or a book, of which the leaves were made of this bark. {PH}|2,3,3,3,3
 G977|βιβρώσκω|v||||||0
 G978|Βιθυνία|N-PLI||||||0
 G979|βίος|n|masculine|||||0
@@ -1060,7 +1060,7 @@ G1059|Γαμαλιήλ|N-PMI||||||0
 G1060|γαμέω|v||||||0
 G1061|γαμίζω|v||||||0
 G1062|γάμος|n|masculine|||||0
-G1063|γάρ|c||for||||0
+G1063|γάρ|c||for||||
 G1064|γαστήρ|n|feminine|belly||||0
 G1065|γέ|PRT||||||0
 G1066|Γεδεών|N-PMI||||||0
@@ -1071,13 +1071,13 @@ G1070|γελάω|v||||||0
 G1071|γέλως|n|masculine|||||0
 G1072|γεμίζω|v||||||0
 G1073|γέμω|v||||||0
-G1074|γενεά|n|feminine|generation||||0
+G1074|γενεά|n|feminine|generation||from (a presumed derivative of) γένος [G1085]|A group of people born with some commonality about the circumstances of their birth. For example, this can be used for a group of people born in the same time period, or for a group of people born into the same race, clan or family. By extension it can be used as a general reference to time or place of birth. {PH}|4,5,0,0,0
 G1075|γενεαλογέω|v||||||0
 G1076|γενεαλογία|n|feminine|||||0
 G1077|γενέσια|N-NP||||||0
-G1078|γένεσις|n|feminine|origin||from γίνομαι [G1096]|An origin, source, productive cause or generation. {PH} Used figuratively to mean "nature". {SN} Concerns the manner in which something came to be -- a better translation may be "natural.origin".|3
+G1078|γένεσις|n|feminine|origin||from γίνομαι [G1096]|An origin, source, productive cause or generation. {PH} Used figuratively to mean "nature". {SN} Concerns the manner in which something came to be -- a better translation may be "natural.origin".|2,2,3,1,3
 G1079|γενετή|n|feminine|||||0
-G1080|γεννάω|v||beget|/beget~ed/begat/ /was~begat/was~begotten/|from a variation of γένος [G1085]|Usually of men fathering children, but occasionally of women bearing a child. Also used of the earth producing fruit. It is the causal form of γίγνομαι [G1096], and literally means "cause to come to be". {PH}|3
+G1080|γεννάω|v||bring.forth|/bring.forth~ed/brought.forth/|from a variation of γένος [G1085]|Usually of men fathering children, but occasionally of women bearing a child. Also used of the earth producing fruit. It is the causal form of γίγνομαι [G1096], and literally means "cause to come to be". {PH}|3,3,3,3,3
 G1081|γέννημα|n|neuter|||||0
 G1082|Γεννησαρέτ|N-PLI||||||0
 G1083|γέννησις|a||||||0
@@ -1101,7 +1101,7 @@ G1100|γλῶσσα|n|feminine|||||0
 G1101|γλωσσόκομον|n|neuter|||||0
 G1102|γναφεύς|n|masculine|||||0
 G1103|γνήσιος|a||||||0
-G1104|γνησίως|adv||||||0
+G1104|γνησίως|d|g|||||0
 G1105|γνόφος|n|masculine|||||0
 G1106|γνώμη|n|feminine|||||0
 G1107|γνωρίζω|v||||||0
@@ -1158,7 +1158,7 @@ G1157|δανειστής|n|masculine|||||0
 G1158|Δανιήλ|N-PMI||||||0
 G1159|δαπανάω|v||||||0
 G1160|δαπάνη|n|feminine|||||0
-G1161|δέ|c||and.now||a primary word|A conjunctive particle with adversative force. Often being used merely to pass on from one thing to another. Frequently it is redundant. Can introduce the apodosis, or be used to resume after interruption. It is placed second in a clause that it introduces, rather than first. {PH} Most often rendered simply as "and" or "but" depending on context. {BLB}|2
+G1161|δέ|c||and.now||a primary word|A conjunctive particle with adversative force. Often being used merely to pass on from one thing to another. Frequently it is redundant. Can introduce the apodosis, or be used to resume after interruption. It is placed second in a clause that it introduces, rather than first. {PH} Most often rendered simply as "and" or "but" depending on context. {BLB}|
 G1162|δέησις|n|feminine|||||0
 G1163|δεῖ|v||||||0
 G1164|δεῖγμα|n|neuter|||||0
@@ -1168,7 +1168,7 @@ G1167|δειλία|n|feminine|||||0
 G1168|δειλιάω|v||||||0
 G1169|δειλός|a||||||0
 G1170|δεῖνα|N-MFN||||||0
-G1171|δεινῶς|adv||||||0
+G1171|δεινῶς|d|g|||||0
 G1172|δειπνέω|v||||||0
 G1173|δεῖπνον|n|neuter|||||0
 G1174|δεισιδαίμων|a||||||0
@@ -1177,7 +1177,7 @@ G1176|δέκα|N-I||||||0
 G1177|δεκαδύο|N-I||||||0
 G1178|δεκαπέντε|N-I||||||0
 G1179|Δεκάπολις|N-PLI||||||0
-G1180|δεκατέσσαρες|a|indeclinable|fourteen||||0
+G1180|δεκατέσσαρες|a|indeclinable|fourteen||from δέκα [G1176] + τέσσαρες [G5064]|Literally: ten and four. {BLB}|5,5,5,5,5
 G1181|δεκάτη|a||||||0
 G1182|δέκατος|a||||||0
 G1183|δεκατόω|v||||||0
@@ -1201,8 +1201,8 @@ G1200|δεσμοφύλαξ|n|masculine|||||0
 G1201|δεσμωτήριον|n|neuter|||||0
 G1202|δεσμώτης|n|masculine|||||0
 G1203|δεσπότης|n|masculine|||||0
-G1204|δεῦρο|adv||||||0
-G1205|δεῦτε|adv||||||0
+G1204|δεῦρο|d|g|||||0
+G1205|δεῦτε|d|g|||||0
 G1206|δευτεραῖος|a||||||0
 G1207|δευτερόπρωτος|a||||||0
 G1208|δεύτερος|a||||||0
@@ -1218,8 +1218,8 @@ G1217|δημιουργός|n|masculine|||||0
 G1218|δῆμος|n|masculine|||||0
 G1219|δημόσιος|a||||||0
 G1220|δηνάριον|n|neuter|||||0
-G1221|δήποτε|adv||||||0
-G1222|δήπου|adv||||||0
+G1221|δήποτε|d|g|||||0
+G1222|δήπου|d|g|||||0
 G1223|διά|prep||through|||through of~X = through X, through >~X = on account of X|0
 G1224|διαβαίνω|v||||||0
 G1225|διαβάλλω|v||||||0
@@ -1272,7 +1272,7 @@ G1271|διάνοια|n|feminine|||||0
 G1272|διανοίγω|v||||||0
 G1273|διανυκτερεύω|v||||||0
 G1274|διανύω|v||||||0
-G1275|διαπαντός|adv||||||0
+G1275|διαπαντός|d|g|||||0
 G1276|διαπεράω|v||||||0
 G1277|διαπλέω|v||||||0
 G1278|διαπονέομαι|v||||||0
@@ -1299,7 +1299,7 @@ G1298|διαταράσσω|v||||||0
 G1299|διατάσσω|v||||||0
 G1300|διατελέω|v||||||0
 G1301|διατηρέω|v||||||0
-G1302|διατί|p||||||0
+G1302|διατί|p||||||
 G1303|διατίθημι|v||||||0
 G1304|διατρίβω|v||||||0
 G1305|διατροφή|n|feminine|||||0
@@ -1343,25 +1343,25 @@ G1342|δίκαιος|a||righteous|||Someone observant of social rules, civilize
 G1343|δικαιοσύνη|n|feminine|||||0
 G1344|δικαιόω|v||||||0
 G1345|δικαίωμα|n|neuter|||||0
-G1346|δικαίως|adv||||||0
+G1346|δικαίως|d|g|||||0
 G1347|δικαίωσις|n|feminine|||||0
 G1348|δικαστής|n|masculine|||||0
 G1349|δίκη|n|feminine|||||0
 G1350|δίκτυον|n|neuter|||||0
 G1351|δίλογος|v||||||0
-G1352|διό|c||||||0
+G1352|διό|c||||||
 G1353|διοδεύω|v||||||0
 G1354|Διονύσιος|N-PMI||||||0
-G1355|διόπερ|c||||||0
+G1355|διόπερ|c||||||
 G1356|διοπετής|a||||||0
 G1357|διόρθωσις|n|feminine|||||0
 G1358|διορύσσω|v||||||0
 G1359|Διόσκουροι|N-PMI||||||0
-G1360|διότι|c||||||0
+G1360|διότι|c||||||
 G1361|Διοτρεφής|N-PMI||||||0
 G1362|διπλοῦς|a||||||0
 G1363|διπλόω|v||||||0
-G1364|δίς|adv||||||0
+G1364|δίς|d|g|||||0
 G1365|διστάζω|v||||||0
 G1366|δίστομος|a||||||0
 G1367|δισχίλιοι|a||||||0
@@ -1420,7 +1420,7 @@ G1419|δυσβάστακτος|a||||||0
 G1420|δυσεντερία|n|neuter|||||0
 G1421|δυσερμήνευτος|a||||||0
 G1422|δύσκολος|a||||||0
-G1423|δυσκόλως|adv||||||0
+G1423|δυσκόλως|d|g|||||0
 G1424|δυσμή|n|feminine|||||0
 G1425|δυσνόητος|a||||||0
 G1426|δυσφημία|n|feminine|||||0
@@ -1434,23 +1434,23 @@ G1433|δωρέομαι|v||||||0
 G1434|δώρημα|n|neuter|||||0
 G1435|δῶρον|n|neuter|||||0
 G1436|ἔα|INJ||||||0
-G1437|ἐάν|c||||||0
-G1438|ἑαυτοῦ|p||||||0
+G1437|ἐάν|c||||||
+G1438|ἑαυτοῦ|p||||||
 G1439|ἐάω|v||||||0
 G1440|ἑβδομήκοντα|N-I||||||0
-G1441|ἑβδομηκοντάκις|adv||||||0
+G1441|ἑβδομηκοντάκις|d|g|||||0
 G1442|ἕβδομος|a||||||0
 G1443|Ἐβέρ|N-PMI||||||0
 G1444|Ἑβραϊκός|a||||||0
 G1445|Ἑβραῖος|n|masculine|||||0
 G1446|Ἑβραΐς|n|feminine|||||0
-G1447|Ἑβραϊστί|adv||||||0
+G1447|Ἑβραϊστί|d|g|||||0
 G1448|ἐγγίζω|v||||||0
 G1449|ἐγγράφω|v||||||0
 G1450|ἔγγυος|a||||||0
-G1451|ἐγγύς|adv||||||0
+G1451|ἐγγύς|d|g|||||0
 G1452|ἐγγύτερον|CMP||||||0
-G1453|ἐγείρω|v||arise||||0
+G1453|ἐγείρω|v||rouse||||0
 G1454|ἔγερσις|n|feminine|||||0
 G1455|ἐγκάθετος|a||||||0
 G1456|ἐγκαίνια|n|neuter|||||0
@@ -1470,7 +1470,7 @@ G1469|ἐγκρίνω|v||||||0
 G1470|ἐγκρύπτω|v||||||0
 G1471|ἔγκυος|a||||||0
 G1472|ἐγχρίω|v||||||0
-G1473|ἐγώ|p||||||0
+G1473|ἐγώ|?||||||0
 G1474|ἐδαφίζω|v||||||0
 G1475|ἔδαφος|n|neuter|||||0
 G1476|ἑδραῖος|a||||||0
@@ -1480,14 +1480,14 @@ G1479|ἐθελοθρησκία|n|feminine|||||0
 G1480|ἐθίζω|v||||||0
 G1481|ἐθνάρχης|n|masculine|||||0
 G1482|ἐθνικός|n|masculine|||||0
-G1483|ἐθνικῶς|adv||||||0
+G1483|ἐθνικῶς|d|g|||||0
 G1484|ἔθνος|n|neuter|||||0
 G1485|ἔθος|n|neuter|||||0
 G1486|ἔθω|v||||||0
-G1487|εἰ|c||||||0
+G1487|εἰ|c||||||
 G1488|εἶ|v||||||0
-G1489|εἴγε|c||||||0
-G1490|εἰ δὲ μή (γε)|c||||||0
+G1489|εἴγε|c||||||
+G1490|εἰ δὲ μή (γε)|c||||||
 G1491|εἶδος|n|neuter|||||0
 G1492|εἴδω|v||||||0
 G1493|εἰδωλεῖον|n|neuter|||||0
@@ -1496,8 +1496,8 @@ G1495|εἰδωλολατρία|n|feminine|||||0
 G1496|εἰδωλολάτρης|n|masculine|||||0
 G1497|εἴδωλον|n|neuter|||||0
 G1498|εἴην|v||||||0
-G1499|εἰ καί|c||||||0
-G1500|εἰκῇ|adv||||||0
+G1499|εἰ καί|c||||||
+G1500|εἰκῇ|d|g|||||0
 G1501|εἴκοσι|N-I||||||0
 G1502|εἴκω|v||||||0
 G1503|εἴκω|v||||||0
@@ -1505,12 +1505,12 @@ G1504|εἰκών|n|feminine|||||0
 G1505|εἰλικρίνεια|n|feminine|||||0
 G1506|εἰλικρινής|a||||||0
 G1507|εἱλίσσω|v||||||0
-G1508|εἰ μή|c||||||0
-G1509|εἰ μήτι|c||||||0
+G1508|εἰ μή|c||||||
+G1509|εἰ μήτι|c||||||
 G1510|εἰμί|v||||||0
 G1511|εἶναι|v||||||0
-G1512|εἴ περ|c||||||0
-G1513|εἴ πως|c||||||0
+G1512|εἴ περ|c||||||
+G1513|εἴ πως|c||||||
 G1514|εἰρηνεύω|v||||||0
 G1515|εἰρήνη|n|feminine|||||0
 G1516|εἰρηνικός|a||||||0
@@ -1531,12 +1531,12 @@ G1530|εἰσπηδάω|v||||||0
 G1531|εἰσπορεύομαι|v||||||0
 G1532|εἰστρέχω|v||||||0
 G1533|εἰσφέρω|v||||||0
-G1534|εἶτα|adv||||||0
-G1535|εἴτε|c||||||0
-G1536|εἴ τις|p||||||0
-G1537|ἐκ|p||out.of||a primary word|A preposition with the genitive. Of place, it denotes action from in something to out of it. Of time, it denotes a period from that time forward. Of origin, it denotes the material out of which something is made, or its originator/cause. {PH}|4
+G1534|εἶτα|d|g|||||0
+G1535|εἴτε|c||||||
+G1536|εἴ τις|p||||||
+G1537|ἐκ|p||out.of||a primary word|A preposition with the genitive. Of place, it denotes action from in something to out of it. Of time, it denotes the period from that time forward. Of origin, it denotes the material out of which something is made, or its originator/cause. {PH}|
 G1538|ἕκαστος|a||||||0
-G1539|ἑκάστοτε|adv||||||0
+G1539|ἑκάστοτε|d|g|||||0
 G1540|ἑκατόν|N-I||||||0
 G1541|ἑκατονταέτης|a||||||0
 G1542|ἑκατονταπλασίων|a||||||0
@@ -1560,10 +1560,10 @@ G1559|ἐκδιώκω|v||||||0
 G1560|ἔκδοτος|a||||||0
 G1561|ἐκδοχή|n|feminine|||||0
 G1562|ἐκδύω|v||||||0
-G1563|ἐκεῖ|adv||||||0
-G1564|ἐκεῖθεν|adv||||||0
-G1565|ἐκεῖνος|p||that||||0
-G1566|ἐκεῖσε|adv||||||0
+G1563|ἐκεῖ|d|g|||||0
+G1564|ἐκεῖθεν|d|g|||||0
+G1565|ἐκεῖνος|p||that||||
+G1566|ἐκεῖσε|d|g|||||0
 G1567|ἐκζητέω|v||||||0
 G1568|ἐκθαμβέω|v||||||0
 G1569|ἔκθαμβος|a||||||0
@@ -1593,8 +1593,8 @@ G1592|ἐκμυκτηρίζω|v||||||0
 G1593|ἐκνεύω|v||||||0
 G1594|ἐκνήφω|v||||||0
 G1595|ἑκούσιος|a||||||0
-G1596|ἑκουσίως|adv||||||0
-G1597|ἔκπαλαι|adv||||||0
+G1596|ἑκουσίως|d|g|||||0
+G1597|ἔκπαλαι|d|g|||||0
 G1598|ἐκπειράζω|v||||||0
 G1599|ἐκπέμπω|v||||||0
 G1600|ἐκπετάννυμι|v||||||0
@@ -1616,10 +1616,10 @@ G1615|ἐκτελέω|v||||||0
 G1616|ἐκτένεια|n|feminine|||||0
 G1617|ἐκτενέστερον|a||||||0
 G1618|ἐκτενής|a||||||0
-G1619|ἐκτενῶς|adv||||||0
+G1619|ἐκτενῶς|d|g|||||0
 G1620|ἐκτίθημι|v||||||0
 G1621|ἐκτινάσσω|v||||||0
-G1622|ἐκτός|adv||||||0
+G1622|ἐκτός|d|g|||||0
 G1623|ἕκτος|a||||||0
 G1624|ἐκτρέπω|v||||||0
 G1625|ἐκτρέφω|v||||||0
@@ -1673,14 +1673,14 @@ G1672|Ἕλλην|n|masculine|||||0
 G1673|Ἑλληνικός|a||||||0
 G1674|Ἑλληνίς|n|feminine|||||0
 G1675|Ἑλληνιστής|n|masculine|||||0
-G1676|Ἑλληνιστί|adv||||||0
+G1676|Ἑλληνιστί|d|g|||||0
 G1677|ἐλλογέω|v||||||0
 G1678|Ἐλμωδάμ|N-PMI||||||0
 G1679|ἐλπίζω|v||||||0
 G1680|ἐλπίς|n|feminine|||||0
 G1681|Ἐλύμας|N-PMI||||||0
 G1682|ἐλωΐ|N-AI||||||0
-G1683|ἐμαυτοῦ|p||||||0
+G1683|ἐμαυτοῦ|p||||||
 G1684|ἐμβαίνω|v||||||0
 G1685|ἐμβάλλω|v||||||0
 G1686|ἐμβάπτω|v||||||0
@@ -1696,7 +1696,7 @@ G1695|Ἐμμαοῦς|N-PLI||||||0
 G1696|ἐμμένω|v||||||0
 G1697|Ἐμμόρ|N-PMI||||||0
 G1698|ἐμοί|P-D||||||0
-G1699|ἐμός|p||||||0
+G1699|ἐμός|p||||||
 G1700|ἐμοῦ|P-G||||||0
 G1701|ἐμπαιγμός|n|masculine|||||0
 G1702|ἐμπαίζω|v||||||0
@@ -1712,17 +1712,17 @@ G1711|ἐμπορία|n|feminine|||||0
 G1712|ἐμπόριον|n|neuter|||||0
 G1713|ἔμπορος|n|masculine|||||0
 G1714|ἐμπί(μ)πρημι|v||||||0
-G1715|ἔμπροσθεν|adv||||||0
+G1715|ἔμπροσθεν|d|g|||||0
 G1716|ἐμπτύω|v||||||0
 G1717|ἐμφανής|a||||||0
 G1718|ἐμφανίζω|v||||||0
 G1719|ἔμφοβος|a||||||0
 G1720|ἐμφυσάω|v||||||0
 G1721|ἔμφυτος|a||||||0
-G1722|ἐν|prep||in|||in to~X = in X|0
+G1722|ἐν|p||in|||in to~X = in X|
 G1723|ἐναγκαλίζομαι|v||||||0
 G1724|ἐνάλιος|a||||||0
-G1725|ἔναντι|adv||||||0
+G1725|ἔναντι|d|g|||||0
 G1726|ἐναντίον|prep||||||0
 G1727|ἐναντίος|a||||||0
 G1728|ἐνάρχομαι|v||||||0
@@ -1756,7 +1756,7 @@ G1755|ἐνέργημα|n|neuter|||||0
 G1756|ἐνεργής|a||||||0
 G1757|ἐνευλογέω|v||||||0
 G1758|ἐνέχω|v||||||0
-G1759|ἐνθάδε|adv||||||0
+G1759|ἐνθάδε|d|g|||||0
 G1760|ἐνθυμέομαι|v||passionately.ponder||||0
 G1761|ἐνθύμησις|n|feminine|||||0
 G1762|ἔνι|v||||||0
@@ -1779,7 +1779,7 @@ G1778|ἔνταλμα|n|neuter|||||0
 G1779|ἐνταφιάζω|v||||||0
 G1780|ἐνταφιασμός|n|masculine|||||0
 G1781|ἐντέλλω|v||||||0
-G1782|ἐντεῦθεν|adv||||||0
+G1782|ἐντεῦθεν|d|g|||||0
 G1783|ἔντευξις|n|feminine|||||0
 G1784|ἔντιμος|a||||||0
 G1785|ἐντολή|n|feminine|||||0
@@ -1807,7 +1807,7 @@ G1806|ἐξάγω|v||||||0
 G1807|ἐξαιρέω|v||||||0
 G1808|ἐξαίρω|v||||||0
 G1809|ἐξαιτέω|v||||||0
-G1810|ἐξαίφνης|adv||||||0
+G1810|ἐξαίφνης|d|g|||||0
 G1811|ἐξακολουθέω|v||||||0
 G1812|ἑξακόσιοι|a||||||0
 G1813|ἐξαλείφω|v||||||0
@@ -1816,12 +1816,12 @@ G1815|ἐξανάστασις|n|feminine|||||0
 G1816|ἐξανατέλλω|v||||||0
 G1817|ἐξανίστημι|v||||||0
 G1818|ἐξαπατάω|v||||||0
-G1819|ἐξάπινα|adv||||||0
+G1819|ἐξάπινα|d|g|||||0
 G1820|ἐξαπορέω|v||||||0
 G1821|ἐξαποστέλλω|v||||||0
 G1822|ἐξαρτίζω|v||||||0
 G1823|ἐξαστράπτω|v||||||0
-G1824|ἐξαυτῆς|adv||||||0
+G1824|ἐξαυτῆς|d|g|||||0
 G1825|ἐξεγείρω|v||||||0
 G1826|ἔξειμι|v||||||0
 G1827|ἐξελέγχω|v||||||0
@@ -1833,7 +1833,7 @@ G1832|ἔξεστι|v||||||0
 G1833|ἐξετάζω|v||||||0
 G1834|ἐξηγέομαι|v||||||0
 G1835|ἑξήκοντα|N-I||||||0
-G1836|ἑξῆς|adv||||||0
+G1836|ἑξῆς|d|g|||||0
 G1837|ἐξηχέω|v||||||0
 G1838|ἕξις|n|feminine|||||0
 G1839|ἐξίστημι|v||||||0
@@ -1851,8 +1851,8 @@ G1850|ἐξουσιάζω|v||||||0
 G1851|ἐξοχή|n|feminine|||||0
 G1852|ἐξυπνίζω|v||||||0
 G1853|ἔξυπνος|a||||||0
-G1854|ἔξω|adv||||||0
-G1855|ἔξωθεν|adv||||||0
+G1854|ἔξω|d|g|||||0
+G1855|ἔξωθεν|d|g|||||0
 G1856|ἐξωθέω|v||||||0
 G1857|ἐξώτερος|a||||||0
 G1858|ἑορτάζω|v||||||0
@@ -1872,7 +1872,7 @@ G1871|ἐπαιτέω|v||||||0
 G1872|ἐπακολουθέω|v||||||0
 G1873|ἐπακούω|v||||||0
 G1874|ἐπακροάομαι|v||||||0
-G1875|ἐπάν|c||||||0
+G1875|ἐπάν|c||||||
 G1876|ἐπάναγκες|a||||||0
 G1877|ἐπανάγω|v||||||0
 G1878|ἐπαναμιμνῄσκω|v||||||0
@@ -1880,24 +1880,24 @@ G1879|ἐπαναπαύομαι|v||||||0
 G1880|ἐπανέρχομαι|v||||||0
 G1881|ἐπανίστημι|v||||||0
 G1882|ἐπανόρθωσις|n|feminine|||||0
-G1883|ἐπάνω|adv||||||0
+G1883|ἐπάνω|d|g|||||0
 G1884|ἐπαρκέω|v||||||0
 G1885|ἐπαρχεία|n|feminine|||||0
 G1886|ἔπαυλις|n|feminine|||||0
-G1887|ἐπαύριον|adv||||||0
-G1888|αὐτόφωρος|adv||||||0
+G1887|ἐπαύριον|d|g|||||0
+G1888|αὐτόφωρος|d|g|||||0
 G1889|Ἐπαφρᾶς|N-PMI||||||0
 G1890|ἐπαφρίζω|v||||||0
 G1891|Ἐπαφρόδιτος|N-PMI||||||0
 G1892|ἐπεγείρω|v||||||0
-G1893|ἐπεί|c||||||0
-G1894|ἐπειδή|c||||||0
-G1895|ἐπειδήπερ|c||||||0
+G1893|ἐπεί|c||||||
+G1894|ἐπειδή|c||||||
+G1895|ἐπειδήπερ|c||||||
 G1896|ἐπεῖδον|v||||||0
-G1897|ἐπείπερ|c||||||0
+G1897|ἐπείπερ|c||||||
 G1898|ἐπεισαγωγή|n|feminine|||||0
-G1899|ἔπειτα|adv||||||0
-G1900|ἐπέκεινα|adv||||||0
+G1899|ἔπειτα|d|g|||||0
+G1900|ἐπέκεινα|d|g|||||0
 G1901|ἐπεκτείνομαι|v||||||0
 G1902|ἐπενδύομαι|v||||||0
 G1903|ἐπενδύτης|n|masculine|||||0
@@ -1906,7 +1906,7 @@ G1905|ἐπερωτάω|v||||||0
 G1906|ἐπερώτημα|n|neuter|||||0
 G1907|ἐπέχω|v||||||0
 G1908|ἐπηρεάζω|v||||||0
-G1909|ἐπί|p||upon|temporal-genitive/upon/in.the.time.of/|a primary word|A preposition with the genitive, dative or accusative. With genitive of place, denotes a location upon something or a motion unto somewhere. With genitive of time, means "in the time of". With a causal genitive, can mean over or after someone. With dative of place, implies location upon something. With dative of time, means on or after that time. With a causal dative, can explain the reason or purpose. With accusative of place, implies motion up to or onto something. With accusative of time, implies during or until a certain time. With a causal accusative, can mean "according to". {PH}|2
+G1909|ἐπί|p||upon|temporal-genitive/upon/in.the.time.of/|a primary word|A preposition with the genitive, dative or accusative. With genitive of place, denotes a location upon something or a motion unto somewhere. With genitive of time, means "in the time of". With a causal genitive, can mean over or after someone. With dative of place, implies location upon something. With dative of time, means on or after that time. With a causal dative, can explain the reason or purpose. With accusative of place, implies motion up to or onto something. With accusative of time, implies during or until a certain time. With a causal accusative, can mean "according to". {PH}|
 G1910|ἐπιβαίνω|v||||||0
 G1911|ἐπιβάλλω|v||||||0
 G1912|ἐπιβαρέω|v||||||0
@@ -1957,7 +1957,7 @@ G1956|ἐπιλύω|v||||||0
 G1957|ἐπιμαρτυρέω|v||||||0
 G1958|ἐπιμέλεια|n|feminine|||||0
 G1959|ἐπιμελέομαι|v||||||0
-G1960|ἐπιμελῶς|adv||||||0
+G1960|ἐπιμελῶς|d|g|||||0
 G1961|ἐπιμένω|v||||||0
 G1962|ἐπινεύω|v||||||0
 G1963|ἐπίνοια|n|feminine|||||0
@@ -2031,7 +2031,7 @@ G2030|ἐπόπτης|n|masculine|||||0
 G2031|ἔπος|n|neuter|||||0
 G2032|ἐπουράνιος|a||||||0
 G2033|ἑπτά|N-I||||||0
-G2034|ἑπτάκις|adv||||||0
+G2034|ἑπτάκις|d|g|||||0
 G2035|ἑπτακισχίλιοι|NUM||||||0
 G2036|εἶπον|v||||||0
 G2037|Ἔραστος|N-PMI||||||0
@@ -2076,30 +2076,30 @@ G2075|ἐστέ|v||||||0
 G2076|ἐστί|v||be||||0
 G2077|ἔστω|v||||||0
 G2078|ἔσχατος|a||||||0
-G2079|ἐσχάτως|adv||||||0
-G2080|ἔσω|adv||||||0
-G2081|ἔσωθεν|adv||||||0
+G2079|ἐσχάτως|d|g|||||0
+G2080|ἔσω|d|g|||||0
+G2081|ἔσωθεν|d|g|||||0
 G2082|ἐσώτερος|a||||||0
 G2083|ἑταῖρος|n|masculine|||||0
 G2084|ἑτερόγλωσσος|a||||||0
 G2085|ἑτεροδιδασκαλέω|v||||||0
 G2086|ἑτεροζυγέω|v||||||0
 G2087|ἕτερος|a||||||0
-G2088|ἑτέρως|adv||||||0
-G2089|ἔτι|adv||||||0
+G2088|ἑτέρως|d|g|||||0
+G2089|ἔτι|d|g|||||0
 G2090|ἑτοιμάζω|v||||||0
 G2091|ἑτοιμασία|n|feminine|||||0
 G2092|ἕτοιμος|a||||||0
-G2093|ἑτοίμως|adv||||||0
+G2093|ἑτοίμως|d|g|||||0
 G2094|ἔτος|n|neuter|||||0
-G2095|εὖ|adv||||||0
+G2095|εὖ|d|g|||||0
 G2096|Εὕα|N-PFI||||||0
 G2097|εὐαγγελίζω|v||||||0
 G2098|εὐαγγέλιον|n|neuter|good.message|||gospel, good news, a reward for good tidings Originally this was a reward given to a messenger who brought good news.  Later it evolved to just signify the good news itself.|0
 G2099|εὐαγγελιστής|n|masculine|||||0
 G2100|εὐαρεστέω|v||||||0
 G2101|εὐάρεστος|a||||||0
-G2102|εὐαρέστως|adv||||||0
+G2102|εὐαρέστως|d|g|||||0
 G2103|Εὔβουλος|N-PMI||||||0
 G2104|εὐγενής|a||||||0
 G2105|εὐδία|n|feminine|||||0
@@ -2109,17 +2109,17 @@ G2108|εὐεργεσία|n|feminine|||||0
 G2109|εὐεργετέω|v||||||0
 G2110|εὐεργέτης|n|masculine|||||0
 G2111|εὔθετος|a||||||0
-G2112|εὐθέως|adv||||||0
+G2112|εὐθέως|d|g|||||0
 G2113|εὐθυδρομέω|v||||||0
 G2114|εὐθυμέω|v||||||0
 G2115|εὔθυμος|a||||||0
-G2116|εὐθύνω|adv||||||0
+G2116|εὐθύνω|d|g|||||0
 G2117|εὐθύς|a||||||0
 G2118|εὐθύτης|n|feminine|||||0
 G2119|εὐκαιρέω|v||||||0
 G2120|εὐκαιρία|n|feminine|||||0
 G2121|εὔκαιρος|a||||||0
-G2122|εὐκαίρως|adv||||||0
+G2122|εὐκαίρως|d|g|||||0
 G2123|εὔκοπος|a||||||0
 G2124|εὐλάβεια|n|feminine|||||0
 G2125|εὐλαβέομαι|v||||||0
@@ -2144,19 +2144,19 @@ G2143|εὐπρέπεια|n|feminine|||||0
 G2144|εὐπρόσδεκτος|a||||||0
 G2145|εὐπρόσεδρος|a||||||0
 G2146|εὐπροσωπέω|v||||||0
-G2147|εὑρίσκω|v||find||||0
+G2147|εὑρίσκω|v||find|/find~ed/found/|||0
 G2148|εὐρακύλων|n|masculine|||||0
 G2149|εὐρύχωρος|a||||||0
 G2150|εὐσέβεια|n|feminine|||||0
 G2151|εὐσεβέω|v||||||0
 G2152|εὐσεβής|a||||||0
-G2153|εὐσεβῶς|adv||||||0
+G2153|εὐσεβῶς|d|g|||||0
 G2154|εὔσημος|a||||||0
 G2155|εὔσπλαγχνος|a||||||0
-G2156|εὐσχημόνως|adv||||||0
+G2156|εὐσχημόνως|d|g|||||0
 G2157|εὐσχημοσύνη|n|feminine|||||0
 G2158|εὐσχήμων|a||||||0
-G2159|εὐτόνως|adv||||||0
+G2159|εὐτόνως|d|g|||||0
 G2160|εὐτραπελία|n|feminine|||||0
 G2161|Εὔτυχος|N-PMI||||||0
 G2162|εὐφημία|n|feminine|||||0
@@ -2175,7 +2175,7 @@ G2174|εὐψυχέω|v||||||0
 G2175|εὐωδία|n|feminine|||||0
 G2176|εὐώνυμος|a||||||0
 G2177|ἐφάλλομαι|v||||||0
-G2178|ἐφάπαξ|adv||||||0
+G2178|ἐφάπαξ|d|g|||||0
 G2179|Ἐφεσῖνος|a||||||0
 G2180|Ἐφέσιος|a||||||0
 G2181|Ἔφεσος|N-PLI||||||0
@@ -2189,8 +2189,8 @@ G2188|εφφαθα|IMP||||||0
 G2189|ἔχθρα|n|feminine|||||0
 G2190|ἐχθρός|a||||||0
 G2191|ἔχιδνα|n|feminine|||||0
-G2192|ἔχω|v||have||||0
-G2193|ἕως|prep||until||||0
+G2192|ἔχω|v||have|/have~ing/having/|||0
+G2193|ἕως|p||until||uncertain|A preposition with the genitive. Expresses the point up to which an action goes before it ends. Of time, "until". Of place, "as far as".|
 G2194|Ζαβουλών|N-PMI||||||0
 G2195|Ζακχαῖος|N-PMI||||||0
 G2196|Ζάρα|n|indeclinable,masculine,proper|Zerahh[Rising.sun]||Hellenization of זֶרַח [H2226]|Pronounced zeh'·rakh. Traditionally rendered Zerah or Zara or Zarah which means "rising". The Hebrew name is the same as זֶרַח [H2225] {BLB} which means "rising sun". {MT} The pictographic root of this name is of the rising of the sun in the eastern horizon. {AHLB}|4
@@ -2225,14 +2225,14 @@ G2224|ζώννυμι|v||||||0
 G2225|ζῳογονέω|v||||||0
 G2226|ζῷον|n|neuter|||||0
 G2227|ζῳοποιέω|v||||||0
-G2228|ἤ|c||or||||0
-G2229|ἦ|adv||||||0
+G2228|ἤ|c||or||||
+G2229|ἦ|d|g|||||0
 G2230|ἡγεμονεύω|v||||||0
 G2231|ἡγεμονία|n|feminine|||||0
 G2232|ἡγεμών|n|masculine|||||0
 G2233|ἡγέομαι|v||||||0
-G2234|ἡδέως|adv||||||0
-G2235|ἤδη|adv||||||0
+G2234|ἡδέως|d|g|||||0
+G2235|ἤδη|d|g|||||0
 G2236|ἥδιστα|SUP||||||0
 G2237|ἡδονή|n|feminine|||||0
 G2238|ἡδύοσμον|n|neuter|||||0
@@ -2245,17 +2245,17 @@ G2244|ἡλικία|n|feminine|||||0
 G2245|ἡλίκος|a||||||0
 G2246|ἥλιος|n|masculine|||||0
 G2247|ἧλος|n|masculine|||||0
-G2248|ἡμᾶς|p||||||0
-G2249|ἡμεῖς|p||||||0
+G2248|ἡμᾶς|p||||||
+G2249|ἡμεῖς|p||||||
 G2250|ἡμέρα|n|feminine|||||0
-G2251|ἡμέτερος|p||||||0
-G2252|ἤμην|adv||||||0
+G2251|ἡμέτερος|p||||||
+G2252|ἤμην|d|g|||||0
 G2253|ἡμιθανής|a||||||0
-G2254|ἡμῖν|p||us||||0
+G2254|ἡμῖν|p||us||||
 G2255|ἥμισυς|a||||||0
 G2256|ἡμιώριον|n|neuter|||||0
-G2257|ἡμῶν|p||us||||0
-G2258|ἦν|v||be||||0
+G2257|ἡμῶν|p||us||||
+G2258|ἦν|v||be|/was~be~ing/was/|||0
 G2259|ἡνίκα|PRT||||||0
 G2260|ἤπερ|PRT||||||0
 G2261|ἤπιος|a||||||0
@@ -2270,7 +2270,7 @@ G2269|Ἠσαῦ|N-PMI||||||0
 G2270|ἡσυχάζω|v||||||0
 G2271|ἡσυχία|n|feminine|||||0
 G2272|ἡσύχιος|a||||||0
-G2273|ἤτοι|c||whether||||0
+G2273|ἤτοι|c||whether||||
 G2274|ἡττάομαι|v||||||0
 G2275|ἥττημα|n|neuter|||||0
 G2276|ἥσσων|a||||||0
@@ -2397,7 +2397,7 @@ G2396|ἴδε|PRT||||||0
 G2397|ἰδέα|n|feminine|||||0
 G2398|ἴδιος|a||uniquely.own||||0
 G2399|ἰδιώτης|n|masculine|||||0
-G2400|ἰδού|adv||Look!||||0
+G2400|ἰδού|v||look||||0
 G2401|Ἰδουμαία|N-PLI||||||0
 G2402|ἱδρώς|n|masculine|||||0
 G2403|Ἰεζάβελ|N-PFI||||||0
@@ -2440,8 +2440,8 @@ G2439|ἱματίζω|v||||||0
 G2440|ἱμάτιον|n|neuter|||||0
 G2441|ἱματισμός|n|masculine|||||0
 G2442|ὁμείρομαι|v||||||0
-G2443|ἵνα|c||so.that||||0
-G2444|ἱνατί|c||||||0
+G2443|ἵνα|c||so.that||||
+G2444|ἱνατί|c||||||
 G2445|Ἰόππη|N-PLI||||||0
 G2446|Ἰορδάνης|N-PLI||||||0
 G2447|ἰός|n|masculine|||||0
@@ -2449,7 +2449,7 @@ G2448|Ἰούδα|N-PLI||||||0
 G2449|Ἰουδαία|N-PLI||||||0
 G2450|ἰουδαΐζω|v||||||0
 G2451|Ἰουδαϊκός|a||||||0
-G2452|Ἰουδαϊκῶς|adv||||||0
+G2452|Ἰουδαϊκῶς|d|g|||||0
 G2453|Ἰουδαῖος|a||||||0
 G2454|Ἰουδαϊσμός|n|masculine|||||0
 G2455|Ἰούδας|n|indeclinable,masculine,proper|Yehudah[Thanksgiving]||Hellenization of יְהוּדָה [H3063]|Pronounced yeh·hü·dä'. Traditionally rendered Judah or Judas, which means "praised". The Hebrew name is a form of יָדָה [H3034] {BLB} which means "thanksgiving" {MT} and is derived from a root meaning "hand moves" with a variety of implications, such as "throwing", "praising", and "confessing". {AHLB}|4
@@ -2478,7 +2478,7 @@ G2477|ἱστορέω|v||||||0
 G2478|ἰσχυρός|a||||||0
 G2479|ἰσχύς|n|feminine|||||0
 G2480|ἰσχύω|v||||||0
-G2481|ἴσως|adv||||||0
+G2481|ἴσως|d|g|||||0
 G2482|Ἰταλία|N-PLI||||||0
 G2483|Ἰταλικός|a||||||0
 G2484|Ἰτουραῖος|a||||||0
@@ -2501,7 +2501,7 @@ G2500|Ἰωσῆς|N-PMI||||||0
 G2501|Ἰωσήφ|n|indeclinable,masculine,proper|Yoseph[Adding]||Hellenization of יוֹסֵף [H3130]|Pronounced yō·sāf'. Traditionally rendered Joseph, meaning "Jehovah has added". The Hebrew name is a form of יָסַף [H3254] {BLB} which means "adding". To add is to augment something by increasing it in amount or supply. {MT}|5
 G2502|Ἰωσίας|n|masculine,proper|Yoshiyah[My.pillar.is.Yah]||Hellenization of יֹאשִׁיָּה [H2977]|Pronounced yō·shē·yä'. Traditionally rendered Josiah or Josias, meaning "whom Jehovah heals". The Hebrew name is probably derived from the same root as אָשְׁיָה [H803] + יָהּ [H3050] {BLB} which may mean "my pillar (is) Yah" where a pillar is something which supports the roof. It can be taken as a foundation under someone being pressed down with despair. {AHLB}|2
 G2503|ἰῶτα|n|neuter|||||0
-G2504|κἀγώ|c||||||0
+G2504|κἀγώ|c||||||
 G2505|καθά|ADV/CONJ||||||0
 G2506|καθαίρεσις|n|feminine|||||0
 G2507|καθαιρέω|v||||||0
@@ -2514,7 +2514,7 @@ G2513|καθαρός|a||||||0
 G2514|καθαρότης|n|feminine|||||0
 G2515|καθέδρα|n|feminine|||||0
 G2516|καθέζομαι|v||||||0
-G2517|καθεξῆς|adv||||||0
+G2517|καθεξῆς|d|g|||||0
 G2518|καθεύδω|v||||||0
 G2519|καθηγητής|n|masculine|||||0
 G2520|καθήκω|v||||||0
@@ -2523,28 +2523,28 @@ G2522|καθημερινός|a||||||0
 G2523|καθίζω|v||||||0
 G2524|καθίημι|v||||||0
 G2525|καθίστημι|v||||||0
-G2526|καθό|adv||||||0
-G2527|καθόλου|adv||||||0
+G2526|καθό|d|g|||||0
+G2527|καθόλου|d|g|||||0
 G2528|καθοπλίζω|v||||||0
 G2529|καθοράω|v||||||0
-G2530|καθότι|adv||||||0
-G2531|καθώς|adv||just.as|||From κατά [G2596] + ὡς [G5613].|0
-G2532|καί|c||and||a primary word|A copulative conjunction, linking things together. Can be used in the sense of "and", "also" or "even". {BLB}|3
+G2530|καθότι|d|g|||||0
+G2531|καθώς|d|g|just.as|||From κατά [G2596] + ὡς [G5613].|0
+G2532|καί|c||and||a primary word|A copulative conjunction, linking things together. Can be used in the sense of "and", "also" or "even". {BLB}|
 G2533|Καϊάφας|N-PMI||||||0
-G2534|καί γε|c||||||0
+G2534|καί γε|c||||||
 G2535|Κάϊν|N-PMI||||||0
 G2536|Καϊνάμ|N-PMI||||||0
 G2537|καινός|a||||||0
 G2538|καινότης|n|feminine|||||0
-G2539|καίπερ|c||||||0
+G2539|καίπερ|c||||||
 G2540|καιρός|n|masculine|||||0
 G2541|Καῖσαρ|n|masculine|||||0
 G2542|Καισάρεια|N-PLI||||||0
 G2543|καίτοι|PRT||||||0
 G2544|καίτοιγε|PRT||||||0
 G2545|καίω|v||||||0
-G2546|κἀκεῖ|adv||||||0
-G2547|κἀκεῖθεν|adv||||||0
+G2546|κἀκεῖ|d|g|||||0
+G2547|κἀκεῖθεν|d|g|||||0
 G2548|κἀκεῖνος|d||||||0
 G2549|κακία|n|feminine|||||0
 G2550|κακοήθεια|n|feminine|||||0
@@ -2557,7 +2557,7 @@ G2556|κακός|a||||||0
 G2557|κακοῦργος|a||||||0
 G2558|κακουχέω|v||||||0
 G2559|κακόω|v||||||0
-G2560|κακῶς|adv||||||0
+G2560|κακῶς|d|g|||||0
 G2561|κάκωσις|n|feminine|||||0
 G2562|καλάμη|n|feminine|||||0
 G2563|κάλαμος|n|masculine|||||0
@@ -2570,7 +2570,7 @@ G2569|καλοποιέω|v||||||0
 G2570|καλός|a||||||0
 G2571|κάλυμμα|n|neuter|||||0
 G2572|καλύπτω|v||||||0
-G2573|καλῶς|adv||||||0
+G2573|καλῶς|d|g|||||0
 G2574|κάμηλος|N-MF||||||0
 G2575|κάμινος|n|feminine|||||0
 G2576|καμμύω|v||||||0
@@ -2710,8 +2710,8 @@ G2709|καταχθόνιος|a||||||0
 G2710|καταχράομαι|v||||||0
 G2711|καταψύχω|v||||||0
 G2712|κατείδωλος|a||||||0
-G2713|κατέναντι|adv||||||0
-G2714|κατενώπιον|adv||||||0
+G2713|κατέναντι|d|g|||||0
+G2714|κατενώπιον|d|g|||||0
 G2715|κατεξουσιάζω|v||||||0
 G2716|κατεργάζομαι|v||||||0
 G2717||N/A||||||0
@@ -2733,7 +2733,7 @@ G2732|κατοικητήριον|n|neuter|||||0
 G2733|κατοικία|n|feminine|||||0
 G2734|κατοπτρίζω|v||||||0
 G2735|διόρθωμα|n|neuter|||||0
-G2736|κάτω|adv||||||0
+G2736|κάτω|d|g|||||0
 G2737|κατώτερος|a||||||0
 G2738|καῦμα|n|neuter|||||0
 G2739|καυματίζω|v||||||0
@@ -2758,7 +2758,7 @@ G2757|κενοφωνία|n|feminine|||||0
 G2758|κενόω|v||||||0
 G2759|κέντρον|n|neuter|||||0
 G2760|κεντυρίων|n|masculine|||||0
-G2761|κενῶς|adv||||||0
+G2761|κενῶς|d|g|||||0
 G2762|κεραία|n|feminine|||||0
 G2763|κεραμεύς|n|masculine|||||0
 G2764|κεραμικός|a||||||0
@@ -2863,7 +2863,7 @@ G2862|κολωνία|n|feminine|||||0
 G2863|κομάω|v||||||0
 G2864|κόμη|n|feminine|||||0
 G2865|κομίζω|v||||||0
-G2866|κομψότερον|adv||||||0
+G2866|κομψότερον|d|g|||||0
 G2867|κονιάω|v||||||0
 G2868|κονιορτός|n|masculine|||||0
 G2869|κοπάζω|v||||||0
@@ -2905,7 +2905,7 @@ G2904|κράτος|n|neuter|||||0
 G2905|κραυγάζω|v||||||0
 G2906|κραυγή|n|feminine|||||0
 G2907|κρέας|n|neuter|||||0
-G2908|κρεῖσσον|adv||||||0
+G2908|κρεῖσσον|d|g|||||0
 G2909|κρείττων|a||||||0
 G2910|κρεμάννυμι|v||||||0
 G2911|κρημνός|n|masculine|||||0
@@ -2928,7 +2928,7 @@ G2927|κρυπτός|a||||||0
 G2928|κρύπτω|v||||||0
 G2929|κρυσταλλίζω|v||||||0
 G2930|κρύσταλλος|n|masculine|||||0
-G2931|κρυφῇ|adv||||||0
+G2931|κρυφῇ|d|g|||||0
 G2932|κτάομαι|v||||||0
 G2933|κτῆμα|n|neuter|||||0
 G2934|κτῆνος|n|neuter|||||0
@@ -2940,9 +2940,9 @@ G2939|κτίστης|n|masculine|||||0
 G2940|κυβεία|n|feminine|||||0
 G2941|κυβέρνησις|n|feminine|||||0
 G2942|κυβερνήτης|n|masculine|||||0
-G2943|κυκλόθεν|adv||||||0
+G2943|κυκλόθεν|d|g|||||0
 G2944|κυκλόω|v||||||0
-G2945|κύκλῳ|adv||||||0
+G2945|κύκλῳ|d|g|||||0
 G2946|κυλισμός|n|neuter|||||0
 G2947|κυλίω|v||||||0
 G2948|κυλλός|a||||||0
@@ -2974,7 +2974,7 @@ G2973|Κωσάμ|N-PMI||||||0
 G2974|κωφός|a||||||0
 G2975|λαγχάνω|v||||||0
 G2976|Λάζαρος|N-PMI||||||0
-G2977|λάθρᾳ|adv||secretly||||0
+G2977|λάθρᾳ|d|g|secretly||||0
 G2978|λαῖλαψ|n|feminine|||||0
 G2979|λακτίζω|v||||||0
 G2980|λαλέω|v||||||0
@@ -2985,7 +2985,7 @@ G2984|Λάμεχ|N-PMI||||||0
 G2985|λαμπάς|n|feminine|||||0
 G2986|λαμπρός|a||||||0
 G2987|λαμπρότης|n|feminine|||||0
-G2988|λαμπρῶς|adv||||||0
+G2988|λαμπρῶς|d|g|||||0
 G2989|λάμπω|v||||||0
 G2990|λανθάνω|v||||||0
 G2991|λαξευτός|a||||||0
@@ -3001,7 +3001,7 @@ G3000|λατρεύω|v||||||0
 G3001|λάχανον|n|neuter|||||0
 G3002|Λεββαῖος|N-PMI||||||0
 G3003|λεγιών|n|feminine|||||0
-G3004|λέγω|v||say|/say~ed/said/|a primary word|To speak, to call, or to tell. {PH}|2
+G3004|λέγω|v||say|/say~ed/said/|a primary word|To speak, to call, or to tell. {PH}|2,1,3,3,3
 G3005|λεῖμμα|n|neuter|||||0
 G3006|λεῖος|a||||||0
 G3007|λείπω|v||||||0
@@ -3026,7 +3026,7 @@ G3025|ληνός|n|feminine|||||0
 G3026|λῆρος|n|masculine|||||0
 G3027|λῃστής|n|masculine|||||0
 G3028|λῆμψις|n|feminine|||||0
-G3029|λίαν|adv||||||0
+G3029|λίαν|d|g|||||0
 G3030|λίβανος|n|masculine|||||0
 G3031|λιβανωτός|n|masculine|||||0
 G3032|Λιβερτῖνος|n|masculine|||||0
@@ -3059,8 +3059,8 @@ G3058|λοιδορέω|v||||||0
 G3059|λοιδορία|n|feminine|||||0
 G3060|λοίδορος|n|masculine|||||0
 G3061|λοιμός|n|masculine|||||0
-G3062|λοιπός|adv||||||0
-G3063|λοιπόν|adv||||||0
+G3062|λοιπός|d|g|||||0
+G3063|λοιπόν|d|g|||||0
 G3064|λοιποῦ|a||||||0
 G3065|Λουκᾶς|N-PMI||||||0
 G3066|Λούκιος|N-PMI||||||0
@@ -3069,7 +3069,7 @@ G3068|λούω|v||||||0
 G3069|Λύδδα|N-PLI||||||0
 G3070|Λυδία|N-PFI||||||0
 G3071|Λυκαονία|N-PLI||||||0
-G3072|Λυκαονιστί|adv||||||0
+G3072|Λυκαονιστί|d|g|||||0
 G3073|Λυκία|N-PLI||||||0
 G3074|λύκος|n|masculine|||||0
 G3075|λυμαίνω|v||||||0
@@ -3109,18 +3109,18 @@ G3108|μακαρισμός|n|masculine|||||0
 G3109|Μακεδονία|N-PLI||||||0
 G3110|Μακεδών|N-PMI||||||0
 G3111|μάκελλον|n|neuter|||||0
-G3112|μακράν|adv||||||0
-G3113|μακρόθεν|adv||||||0
+G3112|μακράν|d|g|||||0
+G3113|μακρόθεν|d|g|||||0
 G3114|μακροθυμέω|v||||||0
 G3115|μακροθυμία|n|feminine|||||0
-G3116|μακροθύμως|adv||||||0
+G3116|μακροθύμως|d|g|||||0
 G3117|μακρός|a||||||0
 G3118|μακροχρόνιος|a||||||0
 G3119|μαλακία|n|feminine|||||0
 G3120|μαλακός|a||||||0
 G3121|Μαλελεήλ|N-PMI||||||0
-G3122|μάλιστα|adv||||||0
-G3123|μᾶλλον|adv||||||0
+G3122|μάλιστα|d|g|||||0
+G3123|μᾶλλον|d|g|||||0
 G3124|Μάλχος|N-PMI||||||0
 G3125|μάμμη|n|feminine|||||0
 G3126|μαμωνᾶς|n|masculine|||||0
@@ -3152,7 +3152,7 @@ G3151|ματαιολόγος|n|masculine|||||0
 G3152|μάταιος|a||||||0
 G3153|ματαιότης|n|feminine|||||0
 G3154|ματαιόω|v||||||0
-G3155|μάτην|adv||||||0
+G3155|μάτην|d|g|||||0
 G3156|Μαθθαῖος|N-PMI||||||0
 G3157|Ματθάν|n|indeclinable,masculine,proper|Matan[Gift]||Hellenization of מַתָּן [H4977]|Pronounced mat·tän'. Traditionally rendered Matthan or Mattan, meaning "a gift". The Hebrew name is the same as מַתָּן [H4976] {BLB} which means "gift". To give a gift is to endow with some power, quality, or attribute. {MT}|5
 G3158|Μαθθάτ|N-PMI||||||0
@@ -3162,13 +3162,13 @@ G3161|Ματταθίας|N-PMI||||||0
 G3162|μάχαιρα|n|feminine|||||0
 G3163|μάχη|n|feminine|||||0
 G3164|μάχομαι|v||||||0
-G3165|με|p||||||0
+G3165|με|p||||||
 G3166|αὐχέω|v||||||0
 G3167|μεγαλεῖος|a||||||0
 G3168|μεγαλειότης|n|feminine|||||0
 G3169|μεγαλοπρεπής|a||||||0
 G3170|μεγαλύνω|v||||||0
-G3171|μεγάλως|adv||||||0
+G3171|μεγάλως|d|g|||||0
 G3172|μεγαλωσύνη|n|feminine|||||0
 G3173|μέγας|a||||||0
 G3174|μέγεθος|n|neuter|||||0
@@ -3182,7 +3182,7 @@ G3181|μεθόριον|n|neuter|||||0
 G3182|μεθύσκω|v||||||0
 G3183|μέθυσος|n|masculine|||||0
 G3184|μεθύω|v||||||0
-G3185|μείζων|adv||||||0
+G3185|μείζων|d|g|||||0
 G3186|μειζότερος|CMP||||||0
 G3187|μείζων|CMP||||||0
 G3188|μέλαν|n|neuter|||||0
@@ -3323,7 +3323,7 @@ G3322|μεσόω|v||||||0
 G3323|Μεσσίας|n|masculine|||||0
 G3324|μεστός|a||||||0
 G3325|μεστόω|v||||||0
-G3326|μετά|p||along.with|temporal-accusative/along.with/after/|a primary word|A preposition with the genitive or accusative. With genitive signifies accompaniment, hence "along with". With the accusative of location, means "into the midst of" or "in pursuit of". With accusative of time, denotes "after". With accusative can also mean "among". Adverbially, it can mean "among them" or "thereafter". {PH}|2
+G3326|μετά|p||along.with|temporal-accusative/along.with/after/|a primary word|A preposition with the genitive or accusative. With genitive signifies accompaniment, hence "along with". With the accusative of location, means "into the midst of" or "in pursuit of". With accusative of time, denotes "after". With accusative can also mean "among". Adverbially, it can mean "among them" or "thereafter". {PH}|
 G3327|μεταβαίνω|v||||||0
 G3328|μεταβάλλω|v||||||0
 G3329|μετάγω|v||||||0
@@ -3344,31 +3344,31 @@ G3343|μεταπέμπω|v||||||0
 G3344|μεταστρέφω|v||||||0
 G3345|μετασχηματίζω|v||||||0
 G3346|μετατίθημι|v||||||0
-G3347|μετέπειτα|adv||||||0
+G3347|μετέπειτα|d|g|||||0
 G3348|μετέχω|v||||||0
 G3349|μετεωρίζομαι|v||||||0
-G3350|μετοικεσία|n|feminine|Deportation||drom a derivative of a compound of μετά [G3326] + οἶκος [G3624]|Literally, a change of home, specifically implying a forced migration. {BLB} A word specific to the Jewish captivity in Babylon; from μετοικία (migration). {PH}|3
+G3350|μετοικεσία|n|feminine|deportation||from μετοικία, a compound of μετά [G3326] + οἶκος [G3624]|A forced change of home from one country to another. {BLB} A word specific to the Jewish captivity in Babylon which is derived from μετοικία (migration). {PH}|3,3,3,1,2
 G3351|μετοικίζω|v||||||0
 G3352|μετοχή|n|feminine|||||0
 G3353|μέτοχος|a||||||0
 G3354|μετρέω|v||||||0
 G3355|μετρητής|n|masculine|||||0
 G3356|μετριοπαθέω|v||||||0
-G3357|μετρίως|adv||||||0
+G3357|μετρίως|d|g|||||0
 G3358|μέτρον|n|neuter|||||0
 G3359|μέτωπον|n|neuter|||||0
 G3360|μέχρι|PRT||||||0
-G3361|μή|adv||not||||0
+G3361|μή|d|g|not||||0
 G3362|ἐὰν μή|PRT-CONJ||||||0
 G3363|ἵνα μή|PRT-CONJ||||||0
 G3364|οὐ μή|PRT||||||0
-G3365|μηδαμῶς|adv||||||0
+G3365|μηδαμῶς|d|g|||||0
 G3366|μηδέ|PRT||||||0
 G3367|μηδείς|a||||||0
-G3368|μηδέποτε|adv||||||0
-G3369|μηδέπω|adv||||||0
+G3368|μηδέποτε|d|g|||||0
+G3369|μηδέπω|d|g|||||0
 G3370|Μῆδος|N-PMI||||||0
-G3371|μηκέτι|adv||||||0
+G3371|μηκέτι|d|g|||||0
 G3372|μῆκος|n|neuter|||||0
 G3373|μηκύνω|v||||||0
 G3374|μηλωτή|n|feminine|||||0
@@ -3376,15 +3376,15 @@ G3375|μήν|PRT||||||0
 G3376|μήν|n|masculine|||||0
 G3377|μηνύω|v||||||0
 G3378|μὴ οὐκ|PRT||||||0
-G3379|μήποτε|c||||||0
-G3380|μήπω|adv||||||0
-G3381|μή πως|c||||||0
+G3379|μήποτε|c||||||
+G3380|μήπω|d|g|||||0
+G3381|μή πως|c||||||
 G3382|μηρός|n|masculine|||||0
-G3383|μήτε|c||||||0
+G3383|μήτε|c||||||
 G3384|μήτηρ|n|feminine|mother||||0
 G3385|μήτι|PRT||||||0
 G3386|μήτι γε|PRT||||||0
-G3387|μή τις|p||||||0
+G3387|μή τις|p||||||
 G3388|μήτρα|n|feminine|||||0
 G3389|μητρολῴας|n|masculine|||||0
 G3390|μητρόπολις|n|feminine|||||0
@@ -3420,24 +3420,24 @@ G3419|μνημεῖον|n|neuter|||||0
 G3420|μνήμη|n|feminine|||||0
 G3421|μνημονεύω|v||||||0
 G3422|μνημόσυνον|n|neuter|||||0
-G3423|μνηστεύω|v||woo|||betroth|0
+G3423|μνηστεύω|v||betroth||||0
 G3424|μογιλάλος|a||||||0
-G3425|μόγις|adv||||||0
+G3425|μόγις|d|g|||||0
 G3426|μόδιος|n|masculine|||||0
-G3427|μοι|p||||||0
+G3427|μοι|p||||||
 G3428|μοιχαλίς|n|feminine|||||0
 G3429|μοιχάω|v||||||0
 G3430|μοιχεία|n|feminine|||||0
 G3431|μοιχεύω|v||||||0
 G3432|μοιχός|n|masculine|||||0
-G3433|μόλις|adv||||||0
+G3433|μόλις|d|g|||||0
 G3434|Μολόχ|N-PMI||||||0
 G3435|μολύνω|v||||||0
 G3436|μολυσμός|n|masculine|||||0
 G3437|μομφή|n|feminine|||||0
 G3438|μονή|n|feminine|||||0
 G3439|μονογενής|a||||||0
-G3440|μόνον|adv||||||0
+G3440|μόνον|d|g|||||0
 G3441|μόνος|a||||||0
 G3442|μονόφθαλμος|a||||||0
 G3443|μονόω|v||||||0
@@ -3447,7 +3447,7 @@ G3446|μόρφωσις|n|feminine|||||0
 G3447|μοσχοποιέω|v||||||0
 G3448|μόσχος|n|masculine|||||0
 G3449|μόχθος|n|masculine|||||0
-G3450|μου|p||me||||0
+G3450|μου|p||me||||
 G3451|μουσικός|SUB||||||0
 G3452|μυελός|n|masculine|||||0
 G3453|μυέω|v||||||0
@@ -3559,15 +3559,15 @@ G3558|νότος|n|masculine|||||0
 G3559|νουθεσία|n|feminine|||||0
 G3560|νουθετέω|v||||||0
 G3561|νεομηνία|n|feminine|||||0
-G3562|νουνεχῶς|adv||||||0
+G3562|νουνεχῶς|d|g|||||0
 G3563|νοῦς|n|masculine|||||0
 G3564|Νύμφα|N-PFI||||||0
 G3565|νύμφη|n|feminine|||||0
 G3566|νυμφίος|n|masculine|||||0
 G3567|νυμφών|n|masculine|||||0
-G3568|νῦν|adv||||||0
-G3569|τὰ νῦν|adv||||||0
-G3570|νυνί|adv||||||0
+G3568|νῦν|d|g|||||0
+G3569|τὰ νῦν|d|g|||||0
+G3570|νυνί|d|g|||||0
 G3571|νύξ|n|feminine|||||0
 G3572|νύσσω|v||||||0
 G3573|νυστάζω|v||||||0
@@ -3585,7 +3585,7 @@ G3584|ξηρός|a||||||0
 G3585|ξύλινος|a||||||0
 G3586|ξύλον|n|neuter|||||0
 G3587|ξυράω|v||||||0
-G3588|ὁ|ra||the||a primary word|The definite article. {PH}|5
+G3588|ὁ|ra||the||a primary word|The definite article. {PH}|
 G3589|ὀγδοήκοντα|N-I||||||0
 G3590|ὄγδοος|a||||||0
 G3591|ὄγκος|n|masculine|||||0
@@ -3603,7 +3603,7 @@ G3602|ὀδυρμός|n|masculine|||||0
 G3603|ὅ ἐστιν|v||||||0
 G3604|Ὀζίας|n|masculine,proper|Uziyah[My.boldness.is.Yah]||Hellenization of עֻזִּיָה [H5818]|Pronounced üz·zē·yä'. Traditionally rendered Uzziah or Ozias, meaning "my strength is Jehovah". The Hebew name is derived from עֹז [H5797] + יָהּ [H3050] {BLB} which means "my boldness (is) Yah". This boldness is knowing one's position or authority and standing in it, strengthened and protected from danger. {MT}|4
 G3605|ὄζω|v||||||0
-G3606|ὅθεν|adv||||||0
+G3606|ὅθεν|d|g|||||0
 G3607|ὀθόνη|n|feminine|||||0
 G3608|ὀθόνιον|n|neuter|||||0
 G3609|οἰκεῖος|a||||||0
@@ -3631,7 +3631,7 @@ G3630|οἰνοπότης|n|masculine|||||0
 G3631|οἶνος|n|masculine|||||0
 G3632|οἰνοφλυγία|n|feminine|||||0
 G3633|οἴομαι|v||||||0
-G3634|οἷος|p||||||0
+G3634|οἷος|p||||||
 G3635|ὀκνέω|v||||||0
 G3636|ὀκνηρός|a||||||0
 G3637|ὀκταήμερος|a||||||0
@@ -3651,29 +3651,29 @@ G3650|ὅλος|a||whole||||0
 G3651|ὁλοτελής|a||||||0
 G3652|Ὀλυμπᾶς|N-PMI||||||0
 G3653|ὄλυνθος|n|masculine|||||0
-G3654|ὅλως|adv||||||0
+G3654|ὅλως|d|g|||||0
 G3655|ὄμβρος|n|masculine|||||0
 G3656|ὁμιλέω|v||||||0
 G3657|ὁμιλία|n|feminine|||||0
 G3658|ὅμιλος|n|masculine|||||0
 G3659|ὄμμα|n|neuter|||||0
 G3660|ὀμνύω|v||||||0
-G3661|ὁμοθυμαδόν|adv||||||0
+G3661|ὁμοθυμαδόν|d|g|||||0
 G3662|ὁμοιάζω|v||||||0
 G3663|ὁμοιοπαθής|a||||||0
 G3664|ὅμοιος|a||||||0
 G3665|ὁμοιότης|n|feminine|||||0
 G3666|ὁμοιόω|v||||||0
 G3667|ὁμοίωμα|n|neuter|||||0
-G3668|ὁμοίως|adv||||||0
+G3668|ὁμοίως|d|g|||||0
 G3669|ὁμοίωσις|n|feminine|||||0
 G3670|ὁμολογέω|v||||||0
 G3671|ὁμολογία|n|feminine|||||0
-G3672|ὁμολογουμένως|adv||||||0
+G3672|ὁμολογουμένως|d|g|||||0
 G3673|ὁμότεχνος|a||||||0
-G3674|ὁμοῦ|adv||||||0
+G3674|ὁμοῦ|d|g|||||0
 G3675|ὁμόφρων|a||||||0
-G3676|ὅμως|adv||||||0
+G3676|ὅμως|d|g|||||0
 G3677|ὄναρ|n|neuter|dream||||0
 G3678|ὀνάριον|n|neuter|||||0
 G3679|ὀνειδίζω|v||||||0
@@ -3686,15 +3686,15 @@ G3685|ὀνίνημι|v||||||0
 G3686|ὄνομα|n|neuter|name||||0
 G3687|ὀνομάζω|v||||||0
 G3688|ὄνος|N-MF||||||0
-G3689|ὄντως|adv||||||0
+G3689|ὄντως|d|g|||||0
 G3690|ὄξος|n|neuter|||||0
 G3691|ὀξύς|a||||||0
 G3692|ὀπή|n|feminine|||||0
 G3693|ὄπισθεν|a||||||0
-G3694|ὀπίσω|adv||||||0
+G3694|ὀπίσω|d|g|||||0
 G3695|ὁπλίζω|v||||||0
 G3696|ὅπλον|n|neuter|||||0
-G3697|ὁποῖος|p||||||0
+G3697|ὁποῖος|p||||||
 G3698|ὁπότε|PRT||||||0
 G3699|ὅπου|PRT||||||0
 G3700|ὀπτάνομαι|v||||||0
@@ -3720,7 +3720,7 @@ G3719|ὀρθρίζω|v||||||0
 G3720|ὀρθρινός|a||||||0
 G3721|ὄρθριος|a||||||0
 G3722|ὄρθρος|n|masculine|||||0
-G3723|ὀρθῶς|adv||||||0
+G3723|ὀρθῶς|d|g|||||0
 G3724|ὁρίζω|v||||||0
 G3725|ὅριον|n|neuter|||||0
 G3726|ὁρκίζω|v||||||0
@@ -3736,47 +3736,47 @@ G3735|ὄρος|n|neuter|||||0
 G3736|ὀρύσσω|v||||||0
 G3737|ὀρφανός|a||||||0
 G3738|ὀρχέομαι|v||||||0
-G3739|ὅς|rr||who|/who~s/who/ /who/which/..n /(to|>)~who/\1~whom/..[mf] /of~who/whose/..[mf] prepositional/whose/of~whom/..[mf]|a primary word|Relative pronoun "who" or "which".|3
-G3740|ὁσάκις|adv||||||0
+G3739|ὅς|rr||who|/who/which/..n /of~who/of~whom/..[mf] /to~who/to~whom/..[mf] />~who/>~whom/..[mf] %/of~whom/whose/..[mf]|a primary word|Relative pronoun "who" or "which".|
+G3740|ὁσάκις|d|g|||||0
 G3741|ὅσιος|a||||||0
 G3742|ὁσιότης|n|feminine|||||0
-G3743|ὁσίως|adv||||||0
+G3743|ὁσίως|d|g|||||0
 G3744|ὀσμή|n|feminine|||||0
-G3745|ὅσος|p||||||0
-G3746|ὅσπερ|p||||||0
+G3745|ὅσος|p||||||
+G3746|ὅσπερ|p||||||
 G3747|ὀστέον|n|neuter|||||0
-G3748|ὅστις|p||||||0
+G3748|ὅστις|p||||||
 G3749|ὀστράκινος|a||||||0
 G3750|ὄσφρησις|n|feminine|||||0
 G3751|ὀσφῦς|n|feminine|||||0
 G3752|ὅταν|PRT||||||0
 G3753|ὅτε|PRT||||||0
-G3754|ὅτι|c||||||0
-G3755|ὅτου|p||||||0
-G3756|οὐ|adv||not||||0
-G3757|οὗ|p||||||0
+G3754|ὅτι|c||||||
+G3755|ὅτου|p||||||
+G3756|οὐ|d|g|not||||0
+G3757|οὗ|p||||||
 G3758|οὐά|INJ||||||0
 G3759|οὐαί|INJ||||||0
-G3760|οὐδαμῶς|adv||||||0
-G3761|οὐδέ|c||not.even||||0
-G3762|οὐδείς|p||||||0
-G3763|οὐδέποτε|adv||||||0
-G3764|οὐδέπω|adv||||||0
-G3765|οὐκέτι|adv||||||0
-G3766|οὐκοῦν|adv||||||0
-G3767|οὖν|c||therefore||||0
-G3768|οὔπω|adv||||||0
+G3760|οὐδαμῶς|d|g|||||0
+G3761|οὐδέ|c||not.even||||
+G3762|οὐδείς|p||||||
+G3763|οὐδέποτε|d|g|||||0
+G3764|οὐδέπω|d|g|||||0
+G3765|οὐκέτι|d|g|||||0
+G3766|οὐκοῦν|d|g|||||0
+G3767|οὖν|c||so.then||a primary word|Expresses sequence. It can be used to continue a narrative, to dismiss a perplexing subject, or to imply consequence (A therefore B). {PH}|
+G3768|οὔπω|d|g|||||0
 G3769|οὐρά|n|feminine|||||0
 G3770|οὐράνιος|a||||||0
-G3771|οὐρανόθεν|adv||||||0
+G3771|οὐρανόθεν|d|g|||||0
 G3772|οὐρανός|n|masculine|||||0
 G3773|Οὐρβανός|N-PMI||||||0
 G3774|Οὐρίας|n|masculine,proper|Uriyah[My.light.is.Yah]||Hellenization of אוּרִיָּה [H223]|Pronounced ü·rē·yä'. Traditionally rendered Uriah or Urias or Urijah, meaning "Jehovah is my light". The Hebrew name is derived from אוּר [H217] and יָהּ [H3050] {BLB} which means "my light (is) Yah". {AHLB}|4
 G3775|οὖς|n|neuter|||||0
 G3776|οὐσία|n|feminine|||||0
-G3777|οὔτε|adv||||||0
-G3778|οὗτος|p||this||||0
-G3779|οὕτω(ς)|adv||in.this.way||||0
+G3777|οὔτε|d|g|||||0
+G3778|οὗτος|p||this||||
+G3779|οὕτω(ς)|d||thus||||1,0,0,0,0
 G3780|οὐχί|PRT||||||0
 G3781|ὀφειλέτης|n|masculine|||||0
 G3782|ὀφειλή|n|feminine|||||0
@@ -3809,38 +3809,38 @@ G3808|παιδάριον|n|neuter|||||0
 G3809|παιδεία|n|feminine|||||0
 G3810|παιδευτής|n|masculine|||||0
 G3811|παιδεύω|v||||||0
-G3812|παιδιόθεν|adv||||||0
+G3812|παιδιόθεν|d|g|||||0
 G3813|παιδίον|n|neuter|||||0
 G3814|παιδίσκη|n|feminine|||||0
 G3815|παίζω|v||||||0
 G3816|παῖς|N-MF||||||0
 G3817|παίω|v||||||0
 G3818|Πακατιανός|a||||||0
-G3819|πάλαι|adv||||||0
+G3819|πάλαι|d|g|||||0
 G3820|παλαιός|a||||||0
 G3821|παλαιότης|n|feminine|||||0
 G3822|παλαιόω|v||||||0
 G3823|πάλη|n|feminine|||||0
 G3824|παλιγγενεσία|n|feminine|||||0
-G3825|πάλιν|adv||||||0
-G3826|παμπληθεί|adv||||||0
+G3825|πάλιν|d|g|||||0
+G3826|παμπληθεί|d|g|||||0
 G3827|πάμπολυς|a||||||0
 G3828|Παμφυλία|N-PLI||||||0
 G3829|πανδοχεῖον|n|neuter|||||0
 G3830|πανδοχεύς|n|masculine|||||0
 G3831|πανήγυρις|n|feminine|||||0
-G3832|πανοικεί|adv||||||0
+G3832|πανοικεί|d|g|||||0
 G3833|πανοπλία|n|feminine|||||0
 G3834|πανουργία|n|feminine|||||0
 G3835|πανοῦργος|a||||||0
-G3836|πανταχόθεν|adv||||||0
-G3837|πανταχοῦ|adv||||||0
+G3836|πανταχόθεν|d|g|||||0
+G3837|πανταχοῦ|d|g|||||0
 G3838|παντελής|a||||||0
-G3839|πάντῃ|adv||||||0
-G3840|πάντοθεν|adv||||||0
+G3839|πάντῃ|d|g|||||0
+G3840|πάντοθεν|d|g|||||0
 G3841|παντοκράτωρ|n|masculine|||||0
-G3842|πάντοτε|adv||||||0
-G3843|πάντως|adv||||||0
+G3842|πάντοτε|d|g|||||0
+G3843|πάντως|d|g|||||0
 G3844|παρά|prep||beside|||beside of~X = from beside X, beside to~X = near beside X, beside >~X = against X|0
 G3845|παραβαίνω|v||||||0
 G3846|παραβάλλω|v||||||0
@@ -3895,7 +3895,7 @@ G3894|παραπικρασμός|n|masculine|||||0
 G3895|παραπίπτω|v||||||0
 G3896|παραπλέω|v||||||0
 G3897|παραπλήσιος|a||||||0
-G3898|παραπλησίως|adv||||||0
+G3898|παραπλησίως|d|g|||||0
 G3899|παραπορεύομαι|v||||||0
 G3900|παράπτωμα|n|neuter|||||0
 G3901|παραρρέω|v||||||0
@@ -3907,13 +3907,13 @@ G3906|παρατηρέω|v||||||0
 G3907|παρατήρησις|n|feminine|||||0
 G3908|παρατίθημι|v||||||0
 G3909|παρατυγχάνω|v||||||0
-G3910|παραυτίκα|adv||||||0
+G3910|παραυτίκα|d|g|||||0
 G3911|παραφέρω|v||||||0
 G3912|παραφρονέω|v||||||0
 G3913|παραφρονία|n|feminine|||||0
 G3914|παραχειμάζω|v||||||0
 G3915|παραχειμασία|n|feminine|||||0
-G3916|παραχρῆμα|adv||||||0
+G3916|παραχρῆμα|d|g|||||0
 G3917|πάρδαλις|n|feminine|||||0
 G3918|πάρειμι|v||||||0
 G3919|παρεισάγω|v||||||0
@@ -3921,7 +3921,7 @@ G3920|παρείσακτος|a||||||0
 G3921|παρεισδύ(ν)ω|v||||||0
 G3922|παρεισέρχομαι|v||||||0
 G3923|παρεισφέρω|v||||||0
-G3924|παρεκτός|adv||||||0
+G3924|παρεκτός|d|g|||||0
 G3925|παρεμβολή|n|feminine|||||0
 G3926|παρενοχλέω|v||||||0
 G3927|παρεπίδημος|a||||||0
@@ -3953,7 +3953,7 @@ G3952|παρουσία|n|feminine|||||0
 G3953|παροψίς|n|feminine|||||0
 G3954|παρρησία|n|feminine|||||0
 G3955|παρρησιάζομαι|v||||||0
-G3956|πᾶς|a||all|||each, every|0
+G3956|πᾶς|a||all|/all/every/ /every~s/all/||Each and every one. Revised to "every" in the singular, so for example "all men" (plural), but "every man" (singular). {PH}|0,0,0,0,0
 G3957|πάσχα|n|neuter|||||0
 G3958|πάσχω|v||||||0
 G3959|Πάταρα|N-PLI||||||0
@@ -3976,7 +3976,7 @@ G3975|παχύνω|v||||||0
 G3976|πέδη|n|feminine|||||0
 G3977|πεδινός|a||||||0
 G3978|πεζεύω|v||||||0
-G3979|πεζῇ|adv||||||0
+G3979|πεζῇ|d|g|||||0
 G3980|πειθαρχέω|v||||||0
 G3981|πειθός|a||||||0
 G3982|πείθω|v||||||0
@@ -3996,7 +3996,7 @@ G3995|πενθερός|n|masculine|||||0
 G3996|πενθέω|v||||||0
 G3997|πένθος|n|neuter|||||0
 G3998|πενιχρός|a||||||0
-G3999|πεντάκις|adv||||||0
+G3999|πεντάκις|d|g|||||0
 G4000|πεντακισχίλιοι|a||||||0
 G4001|πεντακόσιοι|a||||||0
 G4002|πέντε|N-I||||||0
@@ -4005,7 +4005,7 @@ G4004|πεντήκοντα|a||||||0
 G4005|πεντηκοστή|n|feminine|||||0
 G4006|πεποίθησις|n|feminine|||||0
 G4007|περ|PRT||||||0
-G4008|πέραν|adv||||||0
+G4008|πέραν|d|g|||||0
 G4009|πέρας|n|neuter|||||0
 G4010|Πέργαμος|N-PLI||||||0
 G4011|Πέργη|N-PLI||||||0
@@ -4035,7 +4035,7 @@ G4034|περιλάμπω|v||||||0
 G4035|περιλείπομαι|v||||||0
 G4036|περίλυπος|a||||||0
 G4037|περιμένω|v||||||0
-G4038|πέριξ|adv||||||0
+G4038|πέριξ|d|g|||||0
 G4039|περιοικέω|v||||||0
 G4040|περίοικος|a||||||0
 G4041|περιούσιος|a||||||0
@@ -4053,8 +4053,8 @@ G4052|περισσεύω|v||||||0
 G4053|περισσός|a||||||0
 G4054|περισσότερον|CMP||||||0
 G4055|περισσότερος|CMP||||||0
-G4056|περισσοτέρως|adv||||||0
-G4057|περισσῶς|adv||||||0
+G4056|περισσοτέρως|d|g|||||0
+G4057|περισσῶς|d|g|||||0
 G4058|περιστερά|n|feminine|||||0
 G4059|περιτέμνω|v||||||0
 G4060|περιτίθημι|v||||||0
@@ -4067,7 +4067,7 @@ G4066|περίχωρος|a||||||0
 G4067|περίψημα|n|neuter|||||0
 G4068|περπερεύομαι|v||||||0
 G4069|Περσίς|N-PFI||||||0
-G4070|πέρυσι|adv||||||0
+G4070|πέρυσι|d|g|||||0
 G4071|πετεινόν|n|neuter|||||0
 G4072|πέτομαι|v||||||0
 G4073|πέτρα|n|feminine|||||0
@@ -4077,7 +4077,7 @@ G4076|πήγανον|n|neuter|||||0
 G4077|πηγή|n|feminine|||||0
 G4078|πήγνυμι|v||||||0
 G4079|πηδάλιον|n|neuter|||||0
-G4080|πηλίκος|p||||||0
+G4080|πηλίκος|p||||||
 G4081|πηλός|n|masculine|||||0
 G4082|πήρα|n|feminine|||||0
 G4083|πῆχυς|n|masculine|||||0
@@ -4087,7 +4087,7 @@ G4086|πιθανολογία|n|feminine|||||0
 G4087|πικραίνω|v||||||0
 G4088|πικρία|n|feminine|||||0
 G4089|πικρός|a||||||0
-G4090|πικρῶς|adv||||||0
+G4090|πικρῶς|d|g|||||0
 G4091|Πιλᾶτος|N-PMI||||||0
 G4092|πίμπρημι|v||||||0
 G4093|πινακίδιον|n|neuter|||||0
@@ -4130,34 +4130,34 @@ G4129|πληθύνω|v||||||0
 G4130|πίμπλημι|v||||||0
 G4131|πλήκτης|n|masculine|||||0
 G4132|πλήμμυρα|n|feminine|||||0
-G4133|πλήν|adv||||||0
+G4133|πλήν|d|g|||||0
 G4134|πλήρης|a||||||0
 G4135|πληροφορέω|v||||||0
 G4136|πληροφορία|n|feminine|||||0
 G4137|πληρόω|v||make.full||||0
 G4138|πλήρωμα|n|neuter|||||0
-G4139|πλησίον|adv||||||0
+G4139|πλησίον|d|g|||||0
 G4140|πλησμονή|n|feminine|||||0
 G4141|πλήσσω|v||||||0
 G4142|πλοιάριον|n|neuter|||||0
 G4143|πλοῖον|n|neuter|||||0
 G4144|πλόος|n|masculine|||||0
 G4145|πλούσιος|a||||||0
-G4146|πλουσίως|adv||||||0
+G4146|πλουσίως|d|g|||||0
 G4147|πλουτέω|v||||||0
 G4148|πλουτίζω|v||||||0
 G4149|πλοῦτος|n|masculine|||||0
 G4150|πλύνω|v||||||0
 G4151|πνεῦμα|n|neuter|wind|||breath, spirit|0
 G4152|πνευματικός|a||||||0
-G4153|πνευματικῶς|adv||||||0
+G4153|πνευματικῶς|d|g|||||0
 G4154|πνέω|v||||||0
 G4155|πνίγω|v||||||0
 G4156|πνικτός|a||||||0
 G4157|πνοή|n|feminine|||||0
 G4158|ποδήρης|a||||||0
-G4159|πόθεν|adv||||||0
-G4160|ποιέω|v||do/make||||0
+G4159|πόθεν|d|g|||||0
+G4160|ποιέω|v||do|/do~ed/did/|||0
 G4161|ποίημα|n|neuter|||||0
 G4162|ποίησις|n|feminine|||||0
 G4163|ποιητής|n|masculine|||||0
@@ -4166,7 +4166,7 @@ G4165|ποιμαίνω|v||||||0
 G4166|ποιμήν|n|masculine|||||0
 G4167|ποίμνη|n|feminine|||||0
 G4168|ποίμνιον|n|neuter|||||0
-G4169|ποῖος|p||||||0
+G4169|ποῖος|p||||||
 G4170|πολεμέω|v||||||0
 G4171|πόλεμος|n|masculine|||||0
 G4172|πόλις|n|feminine|||||0
@@ -4175,16 +4175,16 @@ G4174|πολιτεία|n|feminine|||||0
 G4175|πολίτευμα|n|neuter|||||0
 G4176|πολιτεύομαι|v||||||0
 G4177|πολίτης|n|masculine|||||0
-G4178|πολλάκις|adv||||||0
-G4179|πολλαπλασίων|adv||||||0
+G4178|πολλάκις|d|g|||||0
+G4179|πολλαπλασίων|d|g|||||0
 G4180|πολυλογία|n|feminine|||||0
-G4181|πολυμερῶς|adv||||||0
+G4181|πολυμερῶς|d|g|||||0
 G4182|πολυποίκιλος|a||||||0
 G4183|πολύς|a||||||0
 G4184|πολύσπλαγχνος|a||||||0
 G4185|πολυτελής|a||||||0
 G4186|πολύτιμος|a||||||0
-G4187|πολυτρόπως|adv||||||0
+G4187|πολυτρόπως|d|g|||||0
 G4188|πόμα|n|neuter|||||0
 G4189|πονηρία|n|feminine|||||0
 G4190|πονηρός|a||||||0
@@ -4203,27 +4203,27 @@ G4202|πορνεία|n|feminine|||||0
 G4203|πορνεύω|v||||||0
 G4204|πόρνη|n|feminine|||||0
 G4205|πόρνος|n|masculine|||||0
-G4206|πόρρω|adv||||||0
-G4207|πόρρωθεν|adv||||||0
-G4208|πορρώτερον|adv||||||0
+G4206|πόρρω|d|g|||||0
+G4207|πόρρωθεν|d|g|||||0
+G4208|πορρώτερον|d|g|||||0
 G4209|πορφύρα|n|feminine|||||0
 G4210|πορφυροῦς|a||||||0
 G4211|πορφυρόπωλις|n|feminine|||||0
-G4212|ποσάκις|adv||||||0
+G4212|ποσάκις|d|g|||||0
 G4213|πόσις|n|feminine|||||0
-G4214|πόσος|p||||||0
+G4214|πόσος|p||||||
 G4215|ποταμός|n|masculine|||||0
 G4216|ποταμοφόρητος|a||||||0
 G4217|ποταπός|a||||||0
 G4218|ποτέ|PRT||||||0
-G4219|πότε|adv||||||0
-G4220|πότερον|c||||||0
+G4219|πότε|d|g|||||0
+G4220|πότερον|c||||||
 G4221|ποτήριον|n|neuter|||||0
 G4222|ποτίζω|v||||||0
 G4223|Ποτίολοι|N-PLI||||||0
 G4224|πότος|n|masculine|||||0
-G4225|πού|adv||||||0
-G4226|ποῦ|adv||||||0
+G4225|πού|d|g|||||0
+G4226|ποῦ|d|g|||||0
 G4227|Πούδης|N-PMI||||||0
 G4228|πούς|n|masculine|||||0
 G4229|πρᾶγμα|n|neuter|||||0
@@ -4247,7 +4247,7 @@ G4246|πρεσβύτης|n|masculine|||||0
 G4247|πρεσβῦτις|n|feminine|||||0
 G4248|πρηνής|a||||||0
 G4249|πρίζω|v||||||0
-G4250|πρίν|adv||before||||0
+G4250|πρίν|d|g|before||||0
 G4251|Πρίσκα|N-PFI||||||0
 G4252|Πρίσκιλλα|N-PFI||||||0
 G4253|πρό|prep||before|||before of~X = before X / in front of X|0
@@ -4287,7 +4287,7 @@ G4286|πρόθεσις|n|feminine|||||0
 G4287|προθεσμία|a||||||0
 G4288|προθυμία|n|feminine|||||0
 G4289|πρόθυμος|a||||||0
-G4290|προθύμως|adv||||||0
+G4290|προθύμως|d|g|||||0
 G4291|προΐστημι|v||||||0
 G4292|προκαλέω|v||||||0
 G4293|προκαταγγέλλω|v||||||0
@@ -4370,7 +4370,7 @@ G4369|προστίθημι|v||||||0
 G4370|προστρέχω|v||||||0
 G4371|προσφάγιον|n|neuter|||||0
 G4372|πρόσφατος|a||||||0
-G4373|προσφάτως|adv||||||0
+G4373|προσφάτως|d|g|||||0
 G4374|προσφέρω|v||||||0
 G4375|προσφιλής|a||||||0
 G4376|προσφορά|n|feminine|||||0
@@ -4401,7 +4401,7 @@ G4400|προχειρίζω|v||||||0
 G4401|προχειροτονέω|v||||||0
 G4402|Πρόχορος|N-PMI||||||0
 G4403|πρύμνα|n|feminine|||||0
-G4404|πρωΐ|adv||||||0
+G4404|πρωΐ|d|g|||||0
 G4405|πρωΐα|a||||||0
 G4406|πρόϊμος|a||||||0
 G4407|πρωϊνός|a||||||0
@@ -4409,7 +4409,7 @@ G4408|πρῷρα|a||||||0
 G4409|πρωτεύω|v||||||0
 G4410|πρωτοκαθεδρία|n|feminine|||||0
 G4411|πρωτοκλισία|n|feminine|||||0
-G4412|πρῶτον|adv||||||0
+G4412|πρῶτον|d|g|||||0
 G4413|πρῶτος|a||||||0
 G4414|πρωτοστάτης|n|masculine|||||0
 G4415|πρωτοτόκια|n|neuter|||||0
@@ -4452,7 +4452,7 @@ G4451|πύρωσις|n|feminine|||||0
 G4452|πώς|PRT||||||0
 G4453|πωλέω|v||||||0
 G4454|πῶλος|n|masculine|||||0
-G4455|πώποτε|adv||||||0
+G4455|πώποτε|d|g|||||0
 G4456|πωρόω|v||||||0
 G4457|πώρωσις|n|feminine|||||0
 G4458|πώς|PRT||||||0
@@ -4487,7 +4487,7 @@ G4486|ῥήγνυμι|v||||||0
 G4487|ῥῆμα|n|neuter|||||0
 G4488|Ῥησά|N-PMI||||||0
 G4489|ῥήτωρ|n|masculine|||||0
-G4490|ῥητῶς|adv||||||0
+G4490|ῥητῶς|d|g|||||0
 G4491|ῥίζα|n|feminine|||||0
 G4492|ῥιζόω|v||||||0
 G4493|ῥιπή|n|feminine|||||0
@@ -4497,7 +4497,7 @@ G4496|ῥίπτω|v||||||0
 G4497|Ῥοβοάμ|n|indeclinable,masculine,proper|Rehhav'am[Widens.a.people]||Hellenization of רְחַבְעָם [H7346]|Pronounced rekh·av·äm'. Traditionally rendered Rehoboam or Roboam, meaning "a people has enlarged". The Hebrew name is derived from רָחַב [H7337] + עַם [H5971] {BLB} which means "widens (a) people". This has the sense of enlarging a nation or tribe. {AHLB}|4
 G4498|Ῥόδη|N-PFI||||||0
 G4499|Ῥόδος|N-PLI||||||0
-G4500|ῥοιζηδόν|adv||||||0
+G4500|ῥοιζηδόν|d|g|||||0
 G4501|ῥομφαία|n|feminine|||||0
 G4502|Ῥουβήν|N-PMI||||||0
 G4503|Ῥούθ|n|feminine,indeclinable,proper|Rut[Friend]||Hellenization of רוּת [H7327]|Pronounced rüt. Traditionally rendered Ruth, meaning "friendship". The Hebrew name is probably derived from רְעוּת [H7468] {BLB} which means "friend" (specifically a female companion). The pictographic root is of a man watching and most often signifies a shepherd watching over his flock in the pasture. {AHLB}|4
@@ -4512,7 +4512,7 @@ G4511|ῥύσις|n|feminine|||||0
 G4512|ῥυτίς|n|feminine|||||0
 G4513|Ῥωμαϊκός|a||||||0
 G4514|Ῥωμαῖος|a||||||0
-G4515|Ῥωμαϊστί|adv||||||0
+G4515|Ῥωμαϊστί|d|g|||||0
 G4516|Ῥώμη|N-PLI||||||0
 G4517|ῥώννυμι|v||||||0
 G4518|σαβαχθάνι|N-AI||||||0
@@ -4568,8 +4568,8 @@ G4567|Σατανᾶς|N-PMI||||||0
 G4568|σάτον|n|neuter|||||0
 G4569|Σαῦλος|N-PMI||||||0
 G4570|σβέννυμι|v||||||0
-G4571|σέ|p||||||0
-G4572|σεαυτοῦ|p||||||0
+G4571|σέ|p||||||
+G4572|σεαυτοῦ|p||||||
 G4573|σεβάζομαι|v||||||0
 G4574|σέβασμα|n|neuter|||||0
 G4575|σεβαστός|a||||||0
@@ -4591,7 +4591,7 @@ G4590|Σήμ|N-PMI||||||0
 G4591|σημαίνω|v||||||0
 G4592|σημεῖον|n|neuter|||||0
 G4593|σημειόω|v||||||0
-G4594|σήμερον|adv||||||0
+G4594|σήμερον|d|g|||||0
 G4595|σήπω|v||||||0
 G4596|σιρικός|a||||||0
 G4597|σής|n|neuter|||||0
@@ -4668,11 +4668,11 @@ G4667|Σμύρνα|N-PLI||||||0
 G4668|Σμυρναῖος|a||||||0
 G4669|σμυρνίζω|v||||||0
 G4670|Σόδομα|N-PLI||||||0
-G4671|σοί|p||||||0
+G4671|σοί|p||||||
 G4672|Σολομών|n|masculine,proper|Shelomoh[Completeness]||Hellenization of שְׁלֹמֹה [H8010]|Pronounced she·lō·mō'. Traditionally rendered Solomon, meaning "peace". The Hebrew name may be derived from שָׁלוֹם [H7965] {BLB} which means "completeness". This may imply peace which comes from adding or subtracting to make whole. Or it may be related to justice which comes through payment or retribution. {AHLB}|3
 G4673|σορός|n|feminine|||||0
-G4674|σός|p||||||0
-G4675|σοῦ|p||thee||||0
+G4674|σός|p||||||
+G4675|σοῦ|p||thee||||
 G4676|σουδάριον|n|neuter|||||0
 G4677|Σουσάννα|N-PFI||||||0
 G4678|σοφία|n|feminine|||||0
@@ -4705,8 +4705,8 @@ G4704|σπουδάζω|v||||||0
 G4705|σπουδαῖος|a||||||0
 G4706|σπουδαίως|a||||||0
 G4707|σπουδαιότερος|a||||||0
-G4708|σπουδαιοτέρως|adv||||||0
-G4709|σπουδαίως|adv||||||0
+G4708|σπουδαιοτέρως|d|g|||||0
+G4709|σπουδαίως|d|g|||||0
 G4710|σπουδή|n|feminine|||||0
 G4711|σπυρίς|n|feminine|||||0
 G4712|στάδιον|n|neuter|||||0
@@ -4768,7 +4768,7 @@ G4767|στυγητός|a||||||0
 G4768|στυγνάζω|v||||||0
 G4769|στῦλος|n|masculine|||||0
 G4770|Στοϊκός|a||||||0
-G4771|σύ|p||||||0
+G4771|σύ|p||||||
 G4772|συγγένεια|n|feminine|||||0
 G4773|συγγενής|a||||||0
 G4774|συγγνώμη|n|feminine|||||0
@@ -4932,7 +4932,7 @@ G4931|συντελέω|v||||||0
 G4932|συντέμνω|v||||||0
 G4933|συντηρέω|v||||||0
 G4934|συντίθημι|v||||||0
-G4935|συντόμως|adv||||||0
+G4935|συντόμως|d|g|||||0
 G4936|συντρέχω|v||||||0
 G4937|συντρίβω|v||||||0
 G4938|σύντριμμα|n|neuter|||||0
@@ -4967,12 +4967,12 @@ G4966|Συχέμ|N-PLI||||||0
 G4967|σφαγή|n|feminine|||||0
 G4968|σφάγιον|n|neuter|||||0
 G4969|σφάζω|v||||||0
-G4970|σφόδρα|adv||||||0
-G4971|σφοδρῶς|adv||||||0
+G4970|σφόδρα|d|g|||||0
+G4971|σφοδρῶς|d|g|||||0
 G4972|σφραγίζω|v||||||0
 G4973|σφραγίς|n|feminine|||||0
 G4974|σφυδρόν|n|neuter|||||0
-G4975|σχεδόν|adv||||||0
+G4975|σχεδόν|d|g|||||0
 G4976|σχῆμα|n|neuter|||||0
 G4977|σχίζω|v||||||0
 G4978|σχίσμα|n|neuter|||||0
@@ -4982,7 +4982,7 @@ G4981|σχολή|n|feminine|||||0
 G4982|σῴζω|v||rescue|||to deliver out of danger and into safety; to make whole|0
 G4983|σῶμα|n|neuter|||||0
 G4984|σωματικός|a||||||0
-G4985|σωματικῶς|adv||||||0
+G4985|σωματικῶς|d|g|||||0
 G4986|Σώπατρος|N-PMI||||||0
 G4987|σωρεύω|v||||||0
 G4988|Σωσθένης|N-PMI||||||0
@@ -4993,7 +4993,7 @@ G4992|σωτήριος|a||||||0
 G4993|σωφρονέω|v||||||0
 G4994|σωφρονίζω|v||||||0
 G4995|σωφρονισμός|n|masculine|||||0
-G4996|σωφρόνως|adv||||||0
+G4996|σωφρόνως|d|g|||||0
 G4997|σωφροσύνη|n|feminine|||||0
 G4998|σώφρων|a||||||0
 G4999|ταβέρναι|n|feminine|||||0
@@ -5020,19 +5020,19 @@ G5019|Ταρσός|N-PLI||||||0
 G5020|ταρταρόω|v||||||0
 G5021|τάσσω|v||||||0
 G5022|ταῦρος|n|masculine|||||0
-G5023|ταῦτα|p||this||||0
-G5024|ταὐτά|p||||||0
-G5025|ταύταις|p||||||0
-G5026|ταύτῃ|p||||||0
+G5023|ταῦτα|rd||this|/this/these/.p.|||
+G5024|ταὐτά|p||||||
+G5025|ταύταις|p||||||
+G5026|ταύτῃ|p||||||
 G5027|ταφή|n|feminine|||||0
 G5028|τάφος|n|masculine|||||0
-G5029|τάχα|adv||||||0
-G5030|ταχέως|adv||||||0
+G5029|τάχα|d|g|||||0
+G5030|ταχέως|d|g|||||0
 G5031|ταχινός|a||||||0
-G5032|τάχιον|adv||||||0
+G5032|τάχιον|d|g|||||0
 G5033|τάχιστα|a||||||0
 G5034|τάχος|n|neuter|||||0
-G5035|ταχύ|adv||||||0
+G5035|ταχύ|d|g|||||0
 G5036|ταχύς|a||||||0
 G5037|τέ|PRT||||||0
 G5038|τεῖχος|n|neuter|||||0
@@ -5046,7 +5046,7 @@ G5045|τέκτων|n|masculine|||||0
 G5046|τέλειος|a||||||0
 G5047|τελειότης|n|feminine|||||0
 G5048|τελειόω|v||||||0
-G5049|τελείως|adv||||||0
+G5049|τελείως|d|g|||||0
 G5050|τελείωσις|n|feminine|||||0
 G5051|τελειωτής|n|masculine|||||0
 G5052|τελεσφορέω|v||||||0
@@ -5078,7 +5078,7 @@ G5077|τεφρόω|v||||||0
 G5078|τέχνη|n|feminine|||||0
 G5079|τεχνίτης|n|masculine|||||0
 G5080|τήκω|v||||||0
-G5081|τηλαυγῶς|adv||||||0
+G5081|τηλαυγῶς|d|g|||||0
 G5082|τηλικοῦτος|d||||||0
 G5083|τηρέω|v||||||0
 G5084|τήρησις|n|feminine|||||0
@@ -5097,8 +5097,8 @@ G5096|Τίμων|N-PMI||||||0
 G5097|τιμωρέω|v||||||0
 G5098|τιμωρία|n|feminine|||||0
 G5099|τίνω|v||||||0
-G5100|τις|p||||||0
-G5101|τίς|p||||||0
+G5100|τις|p||||||
+G5101|τίς|p||||||
 G5102|τίτλος|n|masculine|||||0
 G5103|Τίτος|N-PMI||||||0
 G5104|τοι|PRT||||||0
@@ -5116,12 +5116,12 @@ G5115|τόξον|n|neuter|||||0
 G5116|τοπάζιον|n|neuter|||||0
 G5117|τόπος|n|masculine|||||0
 G5118|τοσοῦτος|d||||||0
-G5119|τότε|adv||||||0
+G5119|τότε|d|g|||||0
 G5120|τοῦ|t||||||0
-G5121|τοὐναντίον|adv||||||0
-G5122|τοὔνομα|adv||||||0
-G5123|τοῦτ᾿ ἔστιν|c||||||0
-G5124|τοῦτο|p||this||||0
+G5121|τοὐναντίον|d|g|||||0
+G5122|τοὔνομα|d|g|||||0
+G5123|τοῦτ᾿ ἔστιν|c||||||
+G5124|τοῦτο|p||this||||
 G5125|τούτοις|d||||||0
 G5126|τοῦτον|d||||||0
 G5127|τούτου|d||||||0
@@ -5148,7 +5148,7 @@ G5147|τρίβος|n|feminine|||||0
 G5148|τριετία|n|feminine|||||0
 G5149|τρίζω|v||||||0
 G5150|τρίμηνος|a||||||0
-G5151|τρίς|adv||||||0
+G5151|τρίς|d|g|||||0
 G5152|τρίστεγον|a||||||0
 G5153|τρισχίλιοι|a||||||0
 G5154|τρίτος|a||||||0
@@ -5204,16 +5204,16 @@ G5203|ὑδρωπικός|a||||||0
 G5204|ὕδωρ|n|neuter|||||0
 G5205|ὑετός|n|masculine|||||0
 G5206|υἱοθεσία|n|feminine|||||0
-G5207|υἱός|n|masculine|son||a primary word|A son by birth or adoption; (figuratively) anyone sharing the same nature as their father (this use applies equally to women). {SN} Also used for a descendant, a pupil learning from their metaphorical father, and occasionally in reference to an animal's offspring. {BLB}|5
+G5207|υἱός|n|masculine|son||a primary word|A son by birth or adoption; (figuratively) anyone sharing the same nature as their father (this use applies equally to women). {SN} Also used for a descendant, a pupil learning from their metaphorical father, and occasionally in reference to an animal's offspring. {BLB}|3,3,3,3,3
 G5208|ὕλη|n|feminine|||||0
-G5209|ὑμᾶς|p||you||||0
-G5210|ὑμεῖς|p||ye||||0
+G5209|ὑμᾶς|p||you||||
+G5210|ὑμεῖς|p||ye||||
 G5211|Ὑμέναιος|N-PMI||||||0
-G5212|ὑμέτερος|p||||||0
-G5213|ὑμῖν|p||you||||0
+G5212|ὑμέτερος|p||||||
+G5213|ὑμῖν|p||you||||
 G5214|ὑμνέω|v||sing.praise||||0
 G5215|ὕμνος|n|masculine|song.of.praise||||0
-G5216|ὑμῶν|p||||||0
+G5216|ὑμῶν|p||||||
 G5217|ὑπάγω|v||||||0
 G5218|ὑπακοή|n|feminine|||||0
 G5219|ὑπακούω|v||||||0
@@ -5228,14 +5228,14 @@ G5227|ὑπεναντίος|a||||||0
 G5228|ὑπέρ|prep||||||0
 G5229|ὑπεραίρω|v||||||0
 G5230|ὑπέρακμος|a||||||0
-G5231|ὑπεράνω|adv||||||0
+G5231|ὑπεράνω|d|g|||||0
 G5232|ὑπεραυξάνω|v||||||0
 G5233|ὑπερβαίνω|v||||||0
-G5234|ὑπερβαλλόντως|adv||||||0
+G5234|ὑπερβαλλόντως|d|g|||||0
 G5235|ὑπερβάλλω|v||||||0
 G5236|ὑπερβολή|n|feminine|||||0
 G5237|ὑπεροράω|v||||||0
-G5238|ὑπερέκεινα|adv||||||0
+G5238|ὑπερέκεινα|d|g|||||0
 G5239|ὑπερεκτείνω|v||||||0
 G5240|ὑπερεκχύν(ν)ω|v||||||0
 G5241|ὑπερεντυγχάνω|v||||||0
@@ -5246,7 +5246,7 @@ G5245|ὑπερνικάω|v||||||0
 G5246|ὑπέρογκος|a||||||0
 G5247|ὑπεροχή|n|feminine|||||0
 G5248|ὑπερπερισσεύω|v||||||0
-G5249|ὑπερπερισσῶς|adv||||||0
+G5249|ὑπερπερισσῶς|d|g|||||0
 G5250|ὑπερπλεονάζω|v||||||0
 G5251|ὑπερυψόω|v||||||0
 G5252|ὑπερφρονέω|v||||||0
@@ -5307,7 +5307,7 @@ G5306|ὕστερος|a||||||0
 G5307|ὑφαντός|a||||||0
 G5308|ὑψηλός|a||||||0
 G5309|ὑψηλοφρονέω|v||||||0
-G5310|ὕψιστος|adv||||||0
+G5310|ὕψιστος|d|g|||||0
 G5311|ὕψος|n|neuter|||||0
 G5312|ὑψόω|v||||||0
 G5313|ὕψωμα|n|neuter|||||0
@@ -5317,7 +5317,7 @@ G5316|φαίνω|v||shine|||appear (as a passive)|0
 G5317|Φάλεκ|N-PMI||||||0
 G5318|φανερός|a||||||0
 G5319|φανερόω|v||||||0
-G5320|φανερῶς|adv||||||0
+G5320|φανερῶς|d|g|||||0
 G5321|φανέρωσις|n|feminine|||||0
 G5322|φανός|n|masculine|||||0
 G5323|Φανουήλ|N-PMI||||||0
@@ -5337,7 +5337,7 @@ G5336|φάτνη|n|feminine|||||0
 G5337|φαῦλος|a||||||0
 G5338|φέγγος|n|neuter|||||0
 G5339|φείδομαι|v||||||0
-G5340|φειδομένως|adv||||||0
+G5340|φειδομένως|d|g|||||0
 G5341|φαιλόνης|n|masculine|||||0
 G5342|φέρω|v||||||0
 G5343|φεύγω|v||||||0
@@ -5361,7 +5361,7 @@ G5360|φιλαδελφία|n|feminine|||||0
 G5361|φιλάδελφος|a||||||0
 G5362|φίλανδρος|a||||||0
 G5363|φιλανθρωπία|n|feminine|||||0
-G5364|φιλανθρώπως|adv||||||0
+G5364|φιλανθρώπως|d|g|||||0
 G5365|φιλαργυρία|n|feminine|||||0
 G5366|φιλάργυρος|a||||||0
 G5367|φίλαυτος|a||||||0
@@ -5387,7 +5387,7 @@ G5386|φιλόσοφος|n|masculine|||||0
 G5387|φιλόστοργος|a||||||0
 G5388|φιλότεκνος|a||||||0
 G5389|φιλοτιμέομαι|v||||||0
-G5390|φιλοφρόνως|adv||||||0
+G5390|φιλοφρόνως|d|g|||||0
 G5391|ταπεινόφρων|a||||||0
 G5392|φιμόω|v||||||0
 G5393|Φλέγων|N-PMI||||||0
@@ -5427,7 +5427,7 @@ G5426|φρονέω|v||||||0
 G5427|φρόνημα|n|neuter|||||0
 G5428|φρόνησις|n|feminine|||||0
 G5429|φρόνιμος|a||||||0
-G5430|φρονίμως|adv||||||0
+G5430|φρονίμως|d|g|||||0
 G5431|φροντίζω|v||||||0
 G5432|φρουρέω|v||||||0
 G5433|φρυάσσω|v||||||0
@@ -5444,7 +5444,7 @@ G5443|φυλή|n|feminine|||||0
 G5444|φύλλον|n|neuter|||||0
 G5445|φύραμα|n|neuter|||||0
 G5446|φυσικός|a||||||0
-G5447|φυσικῶς|adv||||||0
+G5447|φυσικῶς|d|g|||||0
 G5448|φυσιόω|v||||||0
 G5449|φύσις|n|feminine|||||0
 G5450|φυσίωσις|n|feminine|||||0
@@ -5473,7 +5473,7 @@ G5472|χαλκηδών|n|masculine|||||0
 G5473|χαλκίον|n|neuter|||||0
 G5474|χαλκολίβανον|n|neuter|||||0
 G5475|χαλκός|n|masculine|||||0
-G5476|χαμαί|adv||||||0
+G5476|χαμαί|d|g|||||0
 G5477|Χανάαν|N-PLI||||||0
 G5478|Χαναναῖος|a||||||0
 G5479|χαρά|n|feminine|||||0
@@ -5501,7 +5501,7 @@ G5500|χειροτονέω|v||||||0
 G5501|χείρων|a||||||0
 G5502|Χερούβ|N-NP||||||0
 G5503|χήρα|n|feminine|||||0
-G5504|ἐχθές|adv||||||0
+G5504|ἐχθές|d|g|||||0
 G5505|χιλιάς|n|feminine|||||0
 G5506|χιλίαρχος|n|masculine|||||0
 G5507|χίλιοι|a||||||0
@@ -5599,24 +5599,24 @@ G5598|Ω|N-I||||||0
 G5599|ὦ|INJ||||||0
 G5600|ὦ|v||||||0
 G5601|Ἰωβήδ|n|indeclinable,masculine,proper|Oveyd[Serving]||Hellenization of עוֹבֵד [H5744]|Pronounced ō·vād'. Traditionally rendered Obed, meaning "serving". The Hebrew name is the active participle of עָבַד [H5647] which means "serving". {BLB}  The pictographic root of the name is of providing a service to another or working at a profession. The work may be performed out of obligation, requirement or gratitude. {AHLB}|4
-G5602|ὧδε|adv||||||0
+G5602|ὧδε|d|g|||||0
 G5603|ᾠδή|n|feminine|||||0
 G5604|ὠδίν|n|feminine|||||0
 G5605|ὠδίνω|v||||||0
 G5606|ὦμος|n|masculine|||||0
-G5607|ὤν|prep||being||||0
+G5607|ὤν|v||be||||0
 G5608|ὠνέομαι|v||||||0
 G5609|ᾠόν|n|neuter|||||0
 G5610|ὥρα|n|feminine|||||0
 G5611|ὡραῖος|a||||||0
 G5612|ὠρύομαι|v||||||0
-G5613|ὡς|adv||as||||0
+G5613|ὡς|d|g|as||||0
 G5614|ὡσαννά|INJ||||||0
-G5615|ὡσαύτως|adv||||||0
-G5616|ὡσεί|adv||||||0
+G5615|ὡσαύτως|d|g|||||0
+G5616|ὡσεί|d|g|||||0
 G5617|Ὡσηέ|N-PMI||||||0
-G5618|ὥσπερ|adv||||||0
-G5619|ὡσπερεί|adv||||||0
+G5618|ὥσπερ|d|g|||||0
+G5619|ὡσπερεί|d|g|||||0
 G5620|ὥστε|PRT||||||0
 G5621|ὠτίον|n|neuter|||||0
 G5622|ὠφέλεια|n|feminine|||||0
