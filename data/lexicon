@@ -37,7 +37,7 @@ G36|ἀγενής|a||||||0
 G37|ἁγιάζω|v||||||0
 G38|ἁγιασμός|n|masculine|||||0
 G39|ἅγιος|a||||||0
-G40|ἅγιος|a||set-apart|||holy, awful|0
+G40|ἅγιος|a||special|||holy, awful|0,0,0,0,0
 G41|ἁγιότης|n|feminine|||||0
 G42|ἁγιωσύνη|n|feminine|||||0
 G43|ἀγκάλη|n|feminine|||||0
@@ -1011,7 +1011,7 @@ G1010|βουλευτής|n|masculine|||||0
 G1011|βουλεύω|v||||||0
 G1012|βουλή|n|feminine|||||0
 G1013|βούλημα|n|neuter|||||0
-G1014|βούλομαι|v||intend||||0
+G1014|βούλομαι|v|deponent|plan||||0,0,0,0,0
 G1015|βουνός|n|masculine|||||0
 G1016|βοῦς|n|masculine|||||0
 G1017|βραβεῖον|n|neuter|||||0
@@ -1093,7 +1093,7 @@ G1092|γεωργός|n|masculine|||||0
 G1093|γῆ|n|feminine|||||0
 G1094|γῆρας|n|neuter|||||0
 G1095|γηράσκω|v||||||0
-G1096|γίνομαι|v||come.to.be||||0
+G1096|γίνομαι|v||come.to.be|/come.to.be~ed/came.to.be/ /(have!has!had)~came/\1~come/|||0,0,0,0,0
 G1097|γινώσκω|v||know||||0
 G1098|γλεῦκος|n|neuter|||||0
 G1099|γλυκύς|a||||||0
@@ -1220,7 +1220,7 @@ G1219|δημόσιος|a||||||0
 G1220|δηνάριον|n|neuter|||||0
 G1221|δήποτε|d|g|||||0
 G1222|δήπου|d|g|||||0
-G1223|διά|prep||through|||through of~X = through X, through >~X = on account of X|0
+G1223|διά|p||through|||through of~X = through X, through >~X = on account of X|
 G1224|διαβαίνω|v||||||0
 G1225|διαβάλλω|v||||||0
 G1226|διαβεβαιόομαι|v||||||0
@@ -1507,7 +1507,7 @@ G1506|εἰλικρινής|a||||||0
 G1507|εἱλίσσω|v||||||0
 G1508|εἰ μή|c||||||
 G1509|εἰ μήτι|c||||||
-G1510|εἰμί|v||||||0
+G1510|εἰμί|v||be|/i~be/i~am/ /thou~be/thou~are/ /it~be~s/it~is/ /we~be/we~are/ /ye~be/ye~are/ /they~be/they~are/ /was~be~ing/was/ /were~be~ing/were/|a primary word|The primary copulative verb to "be". Only has present, imperfect and future tenses. {PH} This translation simplifies the imperfect from "was being" to "was".|0,0,0,0,0
 G1511|εἶναι|v||||||0
 G1512|εἴ περ|c||||||
 G1513|εἴ πως|c||||||
@@ -1757,7 +1757,7 @@ G1756|ἐνεργής|a||||||0
 G1757|ἐνευλογέω|v||||||0
 G1758|ἐνέχω|v||||||0
 G1759|ἐνθάδε|d|g|||||0
-G1760|ἐνθυμέομαι|v||passionately.ponder||||0
+G1760|ἐνθυμέομαι|v|deponent|passionately.ponder||||0,0,0,0,0
 G1761|ἐνθύμησις|n|feminine|||||0
 G1762|ἔνι|v||||||0
 G1763|ἐνιαυτός|n|masculine|||||0
@@ -2225,7 +2225,7 @@ G2224|ζώννυμι|v||||||0
 G2225|ζῳογονέω|v||||||0
 G2226|ζῷον|n|neuter|||||0
 G2227|ζῳοποιέω|v||||||0
-G2228|ἤ|c||or||||
+G2228|ἤ|c||or|comparative/or/than/|||
 G2229|ἦ|d|g|||||0
 G2230|ἡγεμονεύω|v||||||0
 G2231|ἡγεμονία|n|feminine|||||0
@@ -2397,7 +2397,7 @@ G2396|ἴδε|PRT||||||0
 G2397|ἰδέα|n|feminine|||||0
 G2398|ἴδιος|a||uniquely.own||||0
 G2399|ἰδιώτης|n|masculine|||||0
-G2400|ἰδού|v||look||||0
+G2400|ἰδού|x||look!||||
 G2401|Ἰδουμαία|N-PLI||||||0
 G2402|ἱδρώς|n|masculine|||||0
 G2403|Ἰεζάβελ|N-PFI||||||0
@@ -2561,7 +2561,7 @@ G2560|κακῶς|d|g|||||0
 G2561|κάκωσις|n|feminine|||||0
 G2562|καλάμη|n|feminine|||||0
 G2563|κάλαμος|n|masculine|||||0
-G2564|καλέω|v||call.out|||call out, usually in a loud voice; can be as an invitation, a summons, a naming or a salute|0
+G2564|καλέω|v||call.out|/call.out~ed/called.out/||call out, usually in a loud voice; can be as an invitation, a summons, a naming or a salute|0,0,0,0,0
 G2565|καλλιέλαιος|n|feminine|||||0
 G2566|καλλίον|CMP||||||0
 G2567|καλοδιδάσκαλος|a||||||0
@@ -2593,7 +2593,7 @@ G2592|καρποφορέω|v||||||0
 G2593|καρποφόρος|a||||||0
 G2594|καρτερέω|v||||||0
 G2595|κάρφος|n|neuter|||||0
-G2596|κατά|prep||down|||down of~X = down from X, down >~X = down along X / according to X |0
+G2596|κατά|p||down|accusative/down/according.to/||down of~X = down from X, down >~X = down along X / according to X|
 G2597|καταβαίνω|v||||||0
 G2598|καταβάλλω|v||||||0
 G2599|καταβαρέω|v||||||0
@@ -3647,7 +3647,7 @@ G3646|ὁλοκαύτωμα|n|neuter|||||0
 G3647|ὁλοκληρία|n|feminine|||||0
 G3648|ὁλόκληρος|a||||||0
 G3649|ὀλολύζω|v||||||0
-G3650|ὅλος|a||whole||||0
+G3650|ὅλος|a||every.part.of||||0,0,0,0,0
 G3651|ὁλοτελής|a||||||0
 G3652|Ὀλυμπᾶς|N-PMI||||||0
 G3653|ὄλυνθος|n|masculine|||||0
@@ -4134,7 +4134,7 @@ G4133|πλήν|d|g|||||0
 G4134|πλήρης|a||||||0
 G4135|πληροφορέω|v||||||0
 G4136|πληροφορία|n|feminine|||||0
-G4137|πληρόω|v||make.full||||0
+G4137|πληρόω|v||make.full|/make.full~ed/made.full/|||0,0,0,0,0
 G4138|πλήρωμα|n|neuter|||||0
 G4139|πλησίον|d|g|||||0
 G4140|πλησμονή|n|feminine|||||0
@@ -4148,7 +4148,7 @@ G4147|πλουτέω|v||||||0
 G4148|πλουτίζω|v||||||0
 G4149|πλοῦτος|n|masculine|||||0
 G4150|πλύνω|v||||||0
-G4151|πνεῦμα|n|neuter|wind|||breath, spirit|0
+G4151|πνεῦμα|n|neuter|spirit|||breath, spirit|0,0,0,0,0
 G4152|πνευματικός|a||||||0
 G4153|πνευματικῶς|d|g|||||0
 G4154|πνέω|v||||||0
@@ -4247,7 +4247,7 @@ G4246|πρεσβύτης|n|masculine|||||0
 G4247|πρεσβῦτις|n|feminine|||||0
 G4248|πρηνής|a||||||0
 G4249|πρίζω|v||||||0
-G4250|πρίν|d|g|before||||0
+G4250|πρίν|d||before|comparative/before/sooner/|||0,0,0,0,0
 G4251|Πρίσκα|N-PFI||||||0
 G4252|Πρίσκιλλα|N-PFI||||||0
 G4253|πρό|prep||before|||before of~X = before X / in front of X|0
@@ -4768,7 +4768,7 @@ G4767|στυγητός|a||||||0
 G4768|στυγνάζω|v||||||0
 G4769|στῦλος|n|masculine|||||0
 G4770|Στοϊκός|a||||||0
-G4771|σύ|p||||||
+G4771|σύ|rp||thou|/of~thou/of~thee/ /to~thou/to~thee/ />~thou/>~thee/ %/of~thee/thy/|||
 G4772|συγγένεια|n|feminine|||||0
 G4773|συγγενής|a||||||0
 G4774|συγγνώμη|n|feminine|||||0
@@ -4902,7 +4902,7 @@ G4901|συνεπιμαρτυρέω|v||||||0
 G4902|συνέπομαι|v||||||0
 G4903|συνεργέω|v||||||0
 G4904|συνεργός|a||||||0
-G4905|συνέρχομαι|v||come.together||||0
+G4905|συνέρχομαι|v||come.together|/come.together~ed/came.together/|||0,0,0,0,0
 G4906|συνεσθίω|v||||||0
 G4907|σύνεσις|n|feminine|||||0
 G4908|συνετός|a||||||0
@@ -5020,7 +5020,7 @@ G5019|Ταρσός|N-PLI||||||0
 G5020|ταρταρόω|v||||||0
 G5021|τάσσω|v||||||0
 G5022|ταῦρος|n|masculine|||||0
-G5023|ταῦτα|rd||this|/this/these/.p.|||
+G5023|ταῦτα|rd||this|/this~s/these/|||
 G5024|ταὐτά|p||||||
 G5025|ταύταις|p||||||
 G5026|ταύτῃ|p||||||
@@ -5085,7 +5085,7 @@ G5084|τήρησις|n|feminine|||||0
 G5085|Τιβεριάς|n|feminine|||||0
 G5086|Τιβέριος|N-PMI||||||0
 G5087|τίθημι|v||||||0
-G5088|τίκτω|v||give.birth(to)|||to bring forth, bear or produce -- as a woman gives birth to a child or as the earth produces fruit from a seed Related to "teknon" (child).|0
+G5088|τίκτω|v||give.birth.to|/give.birth.to~ed/gave.birth.to/||to bring forth, bear or produce -- as a woman gives birth to a child or as the earth produces fruit from a seed Related to "teknon" (child).|0,0,0,0,0
 G5089|τίλλω|v||||||0
 G5090|Τιμαῖος|N-PMI||||||0
 G5091|τιμάω|v||||||0
@@ -5256,7 +5256,7 @@ G5255|ὑπήκοος|a||||||0
 G5256|ὑπηρετέω|v||||||0
 G5257|ὑπηρέτης|n|masculine|||||0
 G5258|ὕπνος|n|masculine|sleep||||0
-G5259|ὑπό|prep||under||||0
+G5259|ὑπό|p||under||||
 G5260|ὑποβάλλω|v||||||0
 G5261|ὑπογραμμός|n|masculine|||||0
 G5262|ὑπόδειγμα|n|neuter|||||0
@@ -5313,7 +5313,7 @@ G5312|ὑψόω|v||||||0
 G5313|ὕψωμα|n|neuter|||||0
 G5314|φάγος|n|masculine|||||0
 G5315|ἐσθίω|v||||||0
-G5316|φαίνω|v||shine|||appear (as a passive)|0
+G5316|φαίνω|v||shine|/was~shine/appear/||appear (as a passive)|0,0,0,0,0
 G5317|Φάλεκ|N-PMI||||||0
 G5318|φανερός|a||||||0
 G5319|φανερόω|v||||||0
@@ -5396,7 +5396,7 @@ G5395|φλόξ|n|feminine|||||0
 G5396|φλυαρέω|v||||||0
 G5397|φλύαρος|a||||||0
 G5398|φοβερός|a||||||0
-G5399|φοβέω|v||fear||||0
+G5399|φοβέω|v||frighten||||0,0,0,0,0
 G5400|φόβητρον|n|neuter|||||0
 G5401|φόβος|n|masculine|||||0
 G5402|Φοίβη|N-PFI||||||0
