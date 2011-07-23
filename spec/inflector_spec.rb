@@ -305,6 +305,10 @@ describe Inflector do
     Inflector.inflect('VERY', :d, nil).should == 'VERY'
   end
 
+  it "inflects the exclamation 'BEHOLD'" do
+    Inflector.inflect('BEHOLD', :x, nil).should == 'BEHOLD'
+  end
+
   it "outputs debugging info for unknown inflections" do
     Inflector.inflect('FOO', :qq, 'bar').should == 'FOO(qq)(bar)'
   end

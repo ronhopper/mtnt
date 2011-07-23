@@ -32,7 +32,7 @@
     <input type="text" name="etymology" value="<%= @lexeme.etymology %>">
   </label></div>
   <div class="span-full"><label>G Subs (1 per line)<br>
-    <textarea name="gsubs"><%= @lexeme.gsubs_to_s.gsub(' ', "\n") %></textarea>
+    <textarea name="gsubs"><%= @lexeme.gsubs_to_s.tr('!', '|').gsub(' ', "\n") %></textarea>
   </label></div>
   <div class="span-full"><label>Explanation<br>
     <textarea name="explanation"><%= @lexeme.explanation %></textarea>

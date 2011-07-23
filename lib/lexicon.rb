@@ -18,7 +18,7 @@ class Lexicon
 
   def self.parse_gsubs(gsubs)
     gsubs.to_s.split(' ').map do |rule|
-      tag, pattern, text, condition = rule.split('/')
+      tag, pattern, text, condition = rule.tr('!', '|').split('/')
       tag = nil if tag == ''
       [tag, %r{#{pattern}}, text, condition && %r{^#{condition}$}]
     end
